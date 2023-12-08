@@ -1,0 +1,10400 @@
+Inserting 78398
+Inserting 68669
+Inserting 13246
+Inserting 26888
+Inserting 33700
+Inserting 79365
+Inserting 52339
+Query 78398 -> 78398:
+Inserting 74533
+Inserting 83294
+Inserting 36117
+Inserting 47761
+Inserting 37001
+Inserting 16215
+Inserting 56026
+Inserting 5901
+Query 26888 -> 26888:
+Inserting 48887
+Inserting 46531
+Inserting 49046
+Query 36117 -> 36117:
+Inserting 79670
+Inserting 23301
+Inserting 93388
+Inserting 66703
+Inserting 6556
+Query 6556 -> 6556:
+Query 78398 -> 78398:
+Inserting 62866
+Inserting 52372
+Inserting 95028
+Inserting 59261
+Inserting 66667
+Query 36117 -> 36117:
+Inserting 30800
+Inserting 11962
+Inserting 4507
+Inserting 58616
+Inserting 90898
+Inserting 90488
+Inserting 98760
+Inserting 2559
+Query 49046 -> 49046:
+Inserting 5398
+Inserting 63953
+Inserting 84326
+Inserting 57623
+Query 66667 -> 66667:
+Inserting 9179
+Inserting 42197
+Inserting 30465
+Inserting 55330
+Inserting 51740
+Inserting 83752
+Inserting 17850
+Inserting 3647
+Inserting 29107
+Inserting 74955
+Inserting 59166
+Inserting 47504
+Inserting 65345
+Inserting 47786
+Inserting 59782
+Inserting 37693
+Query 47761 -> 47761:
+Query 5901 -> 5901:
+Inserting 67784
+Inserting 54326
+Inserting 9709
+Inserting 46309
+Query 4507 -> 4507:
+Inserting 88347
+Query 9709 -> 9709:
+Inserting 27351
+Query 11962 -> 11962:
+Inserting 87398
+Query 49046 -> 49046:
+Inserting 4819
+Inserting 24699
+Inserting 15006
+Query 9709 -> 9709:
+Inserting 32276
+Inserting 68411
+Inserting 12969
+Inserting 4477
+Inserting 10035
+Inserting 48805
+Inserting 97284
+Inserting 37184
+Inserting 74013
+Inserting 55264
+Inserting 39066
+Inserting 1739
+Inserting 94139
+Inserting 88787
+Inserting 96702
+Inserting 13443
+Inserting 56431
+Query 59166 -> 59166:
+Inserting 60587
+Inserting 67636
+Inserting 14174
+Inserting 57324
+Inserting 83271
+Inserting 81820
+Inserting 12068
+Query 26888 -> 26888:
+Inserting 91626
+Inserting 9992
+Inserting 40925
+Query 46309 -> 46309:
+Inserting 848
+Inserting 28300
+Inserting 49690
+Inserting 33344
+Inserting 10807
+Query 57324 -> 57324:
+Inserting 72152
+Inserting 55367
+Inserting 62208
+Inserting 94203
+Inserting 92160
+Inserting 94258
+Inserting 89613
+Inserting 40926
+Inserting 79047
+Inserting 30243
+Query 65345 -> 65345:
+Inserting 65355
+Query 30243 -> 30243:
+Inserting 28264
+Inserting 36912
+Inserting 6526
+Query 27351 -> 27351:
+Inserting 71392
+Inserting 73300
+Inserting 68635
+Inserting 43662
+Inserting 80829
+Inserting 24700
+Query 27351 -> 27351:
+Inserting 31399
+Inserting 20774
+Inserting 51223
+Inserting 35218
+Inserting 9590
+Inserting 33886
+Inserting 36680
+Inserting 80295
+Inserting 28882
+Inserting 24617
+Inserting 73284
+Inserting 75781
+Inserting 25584
+Inserting 67924
+Query 10807 -> 10807:
+Inserting 84080
+Inserting 3289
+Inserting 55851
+Query 26888 -> 26888:
+Inserting 36914
+Query 79670 -> 79670:
+Inserting 89163
+Query 43662 -> 43662:
+Query 94258 -> 94258:
+Inserting 82916
+Inserting 29093
+Inserting 87528
+Inserting 1940
+Inserting 93750
+Inserting 99074
+Inserting 36515
+Inserting 85034
+Query 83294 -> 83294:
+Inserting 75106
+Inserting 83975
+Inserting 34268
+Query 28882 -> 28882:
+Inserting 11317
+Query 81820 -> 81820:
+Inserting 47257
+Inserting 83276
+Inserting 91216
+Query 11962 -> 11962:
+Inserting 30236
+Query 78398 -> 78398:
+Inserting 46221
+Inserting 70129
+Inserting 59814
+Query 80829 -> 80829:
+Query 47504 -> 47504:
+Query 68411 -> 68411:
+Query 59261 -> 59261:
+Inserting 65568
+Query 74955 -> 74955:
+Query 65345 -> 65345:
+Query 94139 -> 94139:
+Inserting 50673
+Inserting 82883
+Inserting 88064
+Inserting 32266
+Query 99074 -> 99074:
+Query 47504 -> 47504:
+Inserting 83820
+Inserting 35939
+Inserting 71835
+Inserting 85104
+Inserting 18962
+Inserting 94863
+Inserting 49859
+Inserting 55080
+Inserting 35868
+Inserting 31409
+Inserting 45123
+Inserting 24591
+Inserting 25609
+Query 3289 -> 3289:
+Inserting 51325
+Inserting 46497
+Inserting 37054
+Inserting 92392
+Inserting 91794
+Inserting 5185
+Inserting 29376
+Inserting 77538
+Query 37693 -> 37693:
+Inserting 80196
+Inserting 49436
+Query 25584 -> 25584:
+Inserting 25288
+Query 36117 -> 36117:
+Inserting 12918
+Inserting 19066
+Inserting 5069
+Inserting 70486
+Inserting 20118
+Query 66667 -> 66667:
+Inserting 53466
+Query 29107 -> 29107:
+Inserting 61370
+Inserting 85201
+Inserting 57849
+Inserting 4149
+Inserting 93965
+Inserting 77575
+Inserting 64289
+Query 80829 -> 80829:
+Inserting 51912
+Inserting 77
+Query 18962 -> 18962:
+Inserting 4020
+Query 5185 -> 5185:
+Inserting 87058
+Inserting 33041
+Inserting 90182
+Inserting 54578
+Inserting 81933
+Inserting 88473
+Inserting 32432
+Inserting 34499
+Query 36912 -> 36912:
+Inserting 21927
+Inserting 23444
+Inserting 49942
+Inserting 269
+Inserting 3174
+Query 75106 -> 75106:
+Inserting 71766
+Inserting 88481
+Inserting 46867
+Query 91216 -> 91216:
+Inserting 67660
+Inserting 69752
+Query 54326 -> 54326:
+Inserting 15323
+Inserting 2781
+Query 33700 -> 33700:
+Inserting 80414
+Inserting 79932
+Inserting 82641
+Inserting 438
+Inserting 1226
+Inserting 61598
+Query 58616 -> 58616:
+Query 80414 -> 80414:
+Inserting 79857
+Inserting 11468
+Inserting 47150
+Inserting 30578
+Query 91626 -> 91626:
+Inserting 19544
+Inserting 71815
+Inserting 58774
+Inserting 7016
+Query 73300 -> 73300:
+Inserting 79415
+Inserting 29183
+Inserting 42743
+Inserting 89845
+Inserting 18264
+Inserting 18990
+Query 20774 -> 20774:
+Inserting 11901
+Inserting 85258
+Inserting 29135
+Query 94139 -> 94139:
+Inserting 68024
+Query 5398 -> 5398:
+Inserting 21944
+Query 48887 -> 48887:
+Query 32266 -> 32266:
+Query 4020 -> 4020:
+Inserting 98999
+Inserting 91832
+Inserting 57360
+Inserting 39857
+Query 49942 -> 49942:
+Inserting 71872
+Inserting 32024
+Inserting 48697
+Inserting 28299
+Inserting 32935
+Query 83276 -> 83276:
+Inserting 38153
+Query 26888 -> 26888:
+Query 9590 -> 9590:
+Inserting 50682
+Query 67660 -> 67660:
+Inserting 6994
+Inserting 93178
+Inserting 52955
+Inserting 93087
+Inserting 52231
+Inserting 28652
+Inserting 64141
+Inserting 63249
+Inserting 79907
+Inserting 562
+Inserting 56700
+Inserting 30444
+Inserting 6877
+Inserting 47167
+Inserting 11177
+Inserting 22190
+Inserting 39849
+Inserting 46627
+Query 24591 -> 24591:
+Query 11901 -> 11901:
+Inserting 32525
+Inserting 48874
+Inserting 55837
+Inserting 26683
+Inserting 52906
+Inserting 36865
+Inserting 54406
+Inserting 56750
+Inserting 59888
+Query 51223 -> 51223:
+Inserting 12292
+Query 55264 -> 55264:
+Inserting 30189
+Inserting 85389
+Inserting 13505
+Inserting 65188
+Inserting 15790
+Inserting 9691
+Inserting 39398
+Inserting 38437
+Inserting 40094
+Inserting 18339
+Inserting 90613
+Inserting 18440
+Inserting 11533
+Inserting 71323
+Inserting 30200
+Inserting 27909
+Inserting 76451
+Inserting 75048
+Inserting 25690
+Inserting 59686
+Inserting 56045
+Inserting 20459
+Query 93388 -> 93388:
+Inserting 40267
+Query 18440 -> 18440:
+Inserting 48199
+Query 90182 -> 90182:
+Query 12068 -> 12068:
+Inserting 62930
+Inserting 89014
+Inserting 19689
+Query 13505 -> 13505:
+Inserting 79810
+Inserting 46884
+Query 71766 -> 71766:
+Inserting 8207
+Query 57360 -> 57360:
+Inserting 16122
+Query 47257 -> 47257:
+Inserting 27474
+Query 40925 -> 40925:
+Inserting 46876
+Inserting 34044
+Inserting 5249
+Inserting 59499
+Inserting 6625
+Query 24699 -> 24699:
+Inserting 62416
+Inserting 41468
+Inserting 46301
+Inserting 42801
+Inserting 12283
+Inserting 17520
+Inserting 99123
+Inserting 20360
+Inserting 66992
+Inserting 76748
+Inserting 1308
+Inserting 75482
+Inserting 40660
+Query 11317 -> 11317:
+Inserting 63742
+Inserting 76539
+Inserting 90509
+Inserting 79596
+Inserting 10889
+Inserting 86252
+Query 34044 -> 34044:
+Query 88064 -> 88064:
+Query 38437 -> 38437:
+Query 25288 -> 25288:
+Inserting 88301
+Inserting 85482
+Query 32935 -> 32935:
+Inserting 24831
+Inserting 84437
+Inserting 57742
+Query 49436 -> 49436:
+Inserting 96136
+Query 38153 -> 38153:
+Inserting 88832
+Query 79596 -> 79596:
+Inserting 70129
+Inserting 67063
+Inserting 56774
+Inserting 29217
+Inserting 45660
+Inserting 32244
+Query 30200 -> 30200:
+Inserting 19654
+Query 12969 -> 12969:
+Inserting 97001
+Inserting 4723
+Inserting 11122
+Query 11962 -> 11962:
+Inserting 33049
+Query 52955 -> 52955:
+Inserting 67365
+Query 63953 -> 63953:
+Inserting 38563
+Inserting 69061
+Inserting 68872
+Query 69061 -> 69061:
+Inserting 79542
+Inserting 62516
+Inserting 18708
+Inserting 95699
+Query 33049 -> 33049:
+Inserting 51896
+Inserting 28287
+Query 28300 -> 28300:
+Inserting 83649
+Inserting 56018
+Inserting 54768
+Inserting 23983
+Query 63249 -> 63249:
+Query 85482 -> 85482:
+Query 28299 -> 28299:
+Inserting 3755
+Inserting 8570
+Inserting 66031
+Inserting 11199
+Inserting 28364
+Inserting 16677
+Inserting 13386
+Inserting 54596
+Inserting 38718
+Inserting 59082
+Inserting 34865
+Query 84437 -> 84437:
+Inserting 93163
+Inserting 53287
+Inserting 84640
+Inserting 93541
+Inserting 90570
+Inserting 43155
+Inserting 68203
+Query 20774 -> 20774:
+Inserting 67408
+Query 68024 -> 68024:
+Inserting 33561
+Query 97284 -> 97284:
+Inserting 58436
+Inserting 82091
+Inserting 27738
+Inserting 53542
+Inserting 82402
+Inserting 57701
+Inserting 2995
+Inserting 78620
+Inserting 31036
+Inserting 91424
+Inserting 31770
+Inserting 96119
+Inserting 1066
+Inserting 14215
+Inserting 70188
+Inserting 59313
+Inserting 94825
+Inserting 97224
+Inserting 89173
+Query 24700 -> 24700:
+Inserting 49071
+Inserting 79828
+Inserting 96422
+Inserting 17034
+Inserting 43776
+Query 32525 -> 32525:
+Inserting 95997
+Inserting 17071
+Inserting 25027
+Query 28652 -> 28652:
+Inserting 35152
+Inserting 92943
+Inserting 23600
+Inserting 90092
+Inserting 22048
+Query 29107 -> 29107:
+Inserting 86297
+Inserting 49919
+Inserting 412
+Inserting 73146
+Query 75106 -> 75106:
+Inserting 48446
+Inserting 29980
+Query 49942 -> 49942:
+Inserting 71403
+Inserting 528
+Inserting 14497
+Inserting 40405
+Inserting 86280
+Inserting 26312
+Query 22190 -> 22190:
+Inserting 20533
+Query 49071 -> 49071:
+Inserting 13996
+Inserting 93543
+Inserting 20434
+Inserting 93963
+Inserting 54352
+Inserting 97836
+Query 3755 -> 3755:
+Inserting 35229
+Inserting 8051
+Inserting 34832
+Inserting 25772
+Inserting 43190
+Inserting 12798
+Inserting 5803
+Inserting 59550
+Inserting 20096
+Inserting 81386
+Query 27351 -> 27351:
+Query 412 -> 412:
+Inserting 79984
+Query 34499 -> 34499:
+Query 80414 -> 80414:
+Inserting 79272
+Inserting 2454
+Inserting 15294
+Inserting 64815
+Inserting 28770
+Inserting 7585
+Inserting 58776
+Inserting 41006
+Inserting 2378
+Inserting 73813
+Inserting 63895
+Inserting 83880
+Inserting 60538
+Inserting 95801
+Inserting 85404
+Inserting 84061
+Inserting 22915
+Inserting 4463
+Query 70188 -> 70188:
+Inserting 87179
+Inserting 38096
+Query 60587 -> 60587:
+Inserting 91974
+Inserting 72843
+Inserting 35008
+Query 36680 -> 36680:
+Inserting 68239
+Inserting 39173
+Inserting 87455
+Inserting 28672
+Inserting 36497
+Query 26312 -> 26312:
+Inserting 22325
+Inserting 32888
+Inserting 12670
+Query 47761 -> 47761:
+Inserting 56905
+Inserting 2052
+Query 35008 -> 35008:
+Inserting 37527
+Inserting 25588
+Inserting 98517
+Inserting 79162
+Inserting 71270
+Inserting 7237
+Inserting 72891
+Inserting 87370
+Inserting 91472
+Inserting 79993
+Query 27474 -> 27474:
+Inserting 47411
+Inserting 24431
+Query 54406 -> 54406:
+Query 32525 -> 32525:
+Inserting 64715
+Inserting 91109
+Inserting 33175
+Inserting 62964
+Inserting 63846
+Inserting 510
+Query 26312 -> 26312:
+Inserting 85937
+Inserting 93205
+Inserting 38165
+Inserting 10379
+Inserting 66236
+Inserting 86296
+Inserting 65931
+Inserting 45402
+Inserting 41087
+Inserting 84062
+Inserting 13344
+Inserting 92227
+Inserting 71558
+Inserting 80180
+Inserting 67215
+Query 59550 -> 59550:
+Inserting 43714
+Inserting 33330
+Inserting 17705
+Inserting 84282
+Query 79907 -> 79907:
+Inserting 71745
+Inserting 1231
+Inserting 12229
+Inserting 63806
+Inserting 70833
+Inserting 46076
+Inserting 46384
+Inserting 22320
+Inserting 99519
+Inserting 50290
+Inserting 39665
+Inserting 10145
+Inserting 3368
+Inserting 95465
+Inserting 38388
+Inserting 92157
+Inserting 37401
+Query 6625 -> 6625:
+Query 10145 -> 10145:
+Inserting 818
+Query 22325 -> 22325:
+Inserting 97590
+Inserting 54152
+Inserting 713
+Inserting 37410
+Inserting 49907
+Inserting 16583
+Inserting 81292
+Inserting 18406
+Query 92943 -> 92943:
+Inserting 8228
+Inserting 5337
+Inserting 50506
+Inserting 33081
+Inserting 57466
+Inserting 2883
+Inserting 67638
+Query 12969 -> 12969:
+Query 42801 -> 42801:
+Inserting 96485
+Inserting 42281
+Inserting 49290
+Inserting 51812
+Inserting 81641
+Inserting 30372
+Inserting 1265
+Inserting 7140
+Inserting 59670
+Query 97284 -> 97284:
+Inserting 80261
+Inserting 23198
+Inserting 8728
+Query 64815 -> 64815:
+Query 57742 -> 57742:
+Query 25609 -> 25609:
+Inserting 29682
+Inserting 91194
+Inserting 50836
+Query 29093 -> 29093:
+Query 7016 -> 7016:
+Inserting 27283
+Inserting 94304
+Inserting 88926
+Query 412 -> 412:
+Inserting 58745
+Inserting 35786
+Inserting 29514
+Inserting 89369
+Inserting 31959
+Query 562 -> 562:
+Query 1066 -> 1066:
+Inserting 92362
+Inserting 86275
+Inserting 79876
+Query 52339 -> 52339:
+Inserting 13351
+Query 43714 -> 43714:
+Inserting 9534
+Inserting 895
+Inserting 46892
+Inserting 93103
+Query 59261 -> 59261:
+Inserting 22818
+Inserting 11625
+Query 73300 -> 73300:
+Inserting 48677
+Inserting 78771
+Query 53466 -> 53466:
+Inserting 48953
+Query 29217 -> 29217:
+Inserting 12078
+Inserting 17745
+Inserting 81332
+Inserting 31542
+Inserting 62190
+Inserting 56321
+Inserting 48369
+Query 16677 -> 16677:
+Inserting 83482
+Inserting 59392
+Query 3368 -> 3368:
+Inserting 39927
+Query 1940 -> 1940:
+Inserting 35334
+Inserting 63477
+Inserting 44072
+Query 89014 -> 89014:
+Inserting 53238
+Inserting 7728
+Inserting 45307
+Query 29980 -> 29980:
+Inserting 18607
+Inserting 46531
+Inserting 37926
+Inserting 13564
+Inserting 20671
+Inserting 14180
+Inserting 79770
+Query 82402 -> 82402:
+Inserting 95847
+Inserting 20639
+Query 34268 -> 34268:
+Inserting 55279
+Inserting 198
+Inserting 13365
+Inserting 51384
+Inserting 66122
+Inserting 38356
+Query 79770 -> 79770:
+Inserting 95060
+Query 41006 -> 41006:
+Inserting 28591
+Inserting 22879
+Query 73284 -> 73284:
+Inserting 11686
+Query 59686 -> 59686:
+Inserting 5607
+Inserting 91549
+Inserting 7697
+Inserting 96329
+Inserting 66058
+Inserting 93758
+Inserting 22017
+Inserting 43480
+Inserting 29884
+Inserting 85994
+Inserting 99052
+Query 84437 -> 84437:
+Inserting 75952
+Inserting 88181
+Query 75048 -> 75048:
+Inserting 65824
+Query 84062 -> 84062:
+Inserting 90392
+Inserting 89660
+Inserting 30640
+Inserting 99669
+Query 66992 -> 66992:
+Inserting 29109
+Inserting 87066
+Inserting 15489
+Inserting 29034
+Inserting 94131
+Inserting 76690
+Inserting 41606
+Query 28672 -> 28672:
+Inserting 38074
+Inserting 60849
+Query 51812 -> 51812:
+Inserting 18524
+Inserting 37570
+Inserting 64664
+Inserting 70688
+Query 86252 -> 86252:
+Query 47167 -> 47167:
+Inserting 67873
+Inserting 3301
+Inserting 99196
+Inserting 89573
+Inserting 81780
+Inserting 98706
+Inserting 49414
+Inserting 16565
+Inserting 84510
+Inserting 25280
+Inserting 15027
+Inserting 99947
+Query 1940 -> 1940:
+Inserting 42929
+Inserting 37359
+Inserting 2595
+Inserting 40172
+Inserting 49018
+Inserting 19742
+Inserting 70033
+Inserting 3354
+Inserting 81556
+Inserting 68520
+Inserting 45093
+Inserting 98156
+Inserting 23521
+Inserting 44740
+Inserting 29731
+Inserting 50743
+Inserting 23992
+Inserting 43560
+Inserting 83131
+Inserting 46597
+Inserting 35856
+Inserting 32379
+Inserting 65664
+Inserting 46669
+Query 47786 -> 47786:
+Inserting 80569
+Inserting 56330
+Inserting 38886
+Inserting 60628
+Inserting 76452
+Inserting 66628
+Inserting 9805
+Inserting 16103
+Inserting 23379
+Query 50290 -> 50290:
+Inserting 59388
+Inserting 5877
+Inserting 89015
+Inserting 52097
+Query 11686 -> 11686:
+Query 84062 -> 84062:
+Query 63953 -> 63953:
+Query 63249 -> 63249:
+Inserting 42764
+Inserting 83840
+Query 49942 -> 49942:
+Inserting 64740
+Inserting 61972
+Query 65355 -> 65355:
+Inserting 56151
+Inserting 6227
+Inserting 44615
+Inserting 85382
+Inserting 12806
+Inserting 30055
+Inserting 92757
+Inserting 14433
+Inserting 97285
+Inserting 70261
+Inserting 57508
+Inserting 36256
+Inserting 81424
+Query 99196 -> 99196:
+Inserting 96162
+Inserting 8714
+Inserting 6082
+Inserting 73662
+Inserting 67872
+Inserting 88789
+Inserting 91282
+Inserting 57157
+Inserting 62250
+Inserting 66468
+Inserting 36917
+Inserting 53390
+Query 78771 -> 78771:
+Inserting 5072
+Inserting 99382
+Inserting 68464
+Inserting 25603
+Inserting 31648
+Inserting 38326
+Inserting 85028
+Inserting 29559
+Inserting 44440
+Inserting 62726
+Inserting 53955
+Inserting 67183
+Inserting 75313
+Inserting 81676
+Inserting 68262
+Query 83294 -> 83294:
+Query 64289 -> 64289:
+Inserting 12643
+Query 3647 -> 3647:
+Inserting 50918
+Query 71392 -> 71392:
+Inserting 23794
+Inserting 57656
+Query 59392 -> 59392:
+Inserting 79770
+Inserting 83498
+Query 11468 -> 11468:
+Inserting 2454
+Inserting 52678
+Inserting 30536
+Inserting 56667
+Inserting 9837
+Query 60587 -> 60587:
+Inserting 23360
+Inserting 17105
+Inserting 18912
+Inserting 77111
+Inserting 36100
+Inserting 30765
+Inserting 23375
+Inserting 74113
+Query 71270 -> 71270:
+Query 89369 -> 89369:
+Query 99669 -> 99669:
+Inserting 44044
+Query 19066 -> 19066:
+Inserting 33257
+Inserting 53649
+Inserting 57507
+Inserting 43482
+Inserting 88894
+Query 97836 -> 97836:
+Inserting 88700
+Inserting 55121
+Inserting 87564
+Inserting 68454
+Inserting 12036
+Query 17071 -> 17071:
+Inserting 3336
+Inserting 58205
+Inserting 96712
+Inserting 34740
+Inserting 71869
+Query 85994 -> 85994:
+Inserting 69188
+Query 56774 -> 56774:
+Query 83498 -> 83498:
+Inserting 59992
+Inserting 83905
+Inserting 3225
+Query 87398 -> 87398:
+Inserting 49506
+Inserting 10079
+Inserting 74043
+Query 45093 -> 45093:
+Inserting 89688
+Inserting 53751
+Inserting 63749
+Inserting 52837
+Inserting 65752
+Inserting 14233
+Inserting 69748
+Inserting 8135
+Inserting 82917
+Query 71392 -> 71392:
+Inserting 29759
+Query 60849 -> 60849:
+Inserting 9380
+Query 45093 -> 45093:
+Inserting 81773
+Inserting 64698
+Query 24591 -> 24591:
+Inserting 83872
+Inserting 99561
+Inserting 40333
+Inserting 81349
+Inserting 36865
+Query 52097 -> 52097:
+Inserting 94790
+Inserting 42267
+Inserting 77897
+Query 94139 -> 94139:
+Inserting 77494
+Inserting 86717
+Inserting 63515
+Inserting 64965
+Inserting 83955
+Inserting 95330
+Inserting 14417
+Inserting 33371
+Inserting 20638
+Inserting 58101
+Query 23301 -> 23301:
+Inserting 69711
+Inserting 18192
+Inserting 16172
+Inserting 54260
+Inserting 44541
+Inserting 67913
+Query 78771 -> 78771:
+Inserting 83674
+Query 85201 -> 85201:
+Inserting 94098
+Inserting 17393
+Inserting 28970
+Query 37401 -> 37401:
+Query 44740 -> 44740:
+Inserting 52210
+Inserting 2378
+Inserting 73364
+Query 29034 -> 29034:
+Inserting 28032
+Inserting 4440
+Inserting 38601
+Inserting 77624
+Query 95847 -> 95847:
+Inserting 28540
+Inserting 47763
+Inserting 21651
+Inserting 21598
+Inserting 69802
+Inserting 44427
+Inserting 55863
+Inserting 754
+Inserting 47532
+Inserting 99474
+Inserting 86458
+Inserting 46939
+Inserting 64032
+Inserting 57761
+Inserting 54979
+Inserting 80207
+Inserting 39581
+Query 97285 -> 97285:
+Inserting 75136
+Inserting 52027
+Inserting 26383
+Inserting 64457
+Query 12229 -> 12229:
+Inserting 91917
+Inserting 4132
+Inserting 97003
+Inserting 6755
+Inserting 24894
+Query 65355 -> 65355:
+Inserting 36197
+Inserting 95778
+Query 23794 -> 23794:
+Query 38718 -> 38718:
+Query 33257 -> 33257:
+Inserting 15824
+Inserting 50519
+Inserting 36071
+Query 37410 -> 37410:
+Inserting 1811
+Query 94203 -> 94203:
+Inserting 49491
+Inserting 5662
+Inserting 71251
+Inserting 60887
+Inserting 54936
+Inserting 80764
+Query 40660 -> 40660:
+Inserting 73786
+Inserting 69877
+Inserting 8419
+Query 81641 -> 81641:
+Inserting 71385
+Query 29107 -> 29107:
+Inserting 86624
+Inserting 96588
+Inserting 25965
+Inserting 2921
+Inserting 27863
+Inserting 74472
+Inserting 19349
+Inserting 90375
+Inserting 83074
+Inserting 60095
+Query 53542 -> 53542:
+Inserting 93134
+Query 68464 -> 68464:
+Inserting 96427
+Inserting 31653
+Inserting 90831
+Inserting 38479
+Query 36256 -> 36256:
+Inserting 26729
+Inserting 16879
+Query 77538 -> 77538:
+Query 39066 -> 39066:
+Query 32935 -> 32935:
+Inserting 33862
+Inserting 46103
+Inserting 52636
+Query 51812 -> 51812:
+Inserting 32271
+Inserting 11136
+Inserting 70607
+Inserting 16483
+Inserting 57221
+Query 53542 -> 53542:
+Inserting 74281
+Query 71403 -> 71403:
+Inserting 22045
+Inserting 99812
+Inserting 67627
+Inserting 96757
+Inserting 83324
+Inserting 70192
+Inserting 78529
+Inserting 62950
+Inserting 43160
+Inserting 99295
+Query 47411 -> 47411:
+Inserting 33742
+Inserting 18134
+Inserting 67269
+Inserting 81379
+Query 16483 -> 16483:
+Inserting 60092
+Inserting 20567
+Inserting 63686
+Inserting 831
+Inserting 8670
+Inserting 71691
+Inserting 8186
+Query 48446 -> 48446:
+Inserting 97465
+Inserting 24227
+Query 64289 -> 64289:
+Query 32888 -> 32888:
+Inserting 94049
+Inserting 8598
+Inserting 59848
+Query 10145 -> 10145:
+Inserting 8668
+Inserting 9010
+Inserting 85074
+Inserting 69780
+Inserting 11804
+Inserting 96695
+Inserting 60210
+Query 45660 -> 45660:
+Inserting 51705
+Inserting 83989
+Inserting 69877
+Inserting 32535
+Query 23198 -> 23198:
+Inserting 99065
+Inserting 18248
+Query 25603 -> 25603:
+Inserting 8097
+Query 85937 -> 85937:
+Inserting 41550
+Query 48446 -> 48446:
+Inserting 6787
+Inserting 43264
+Inserting 39082
+Inserting 86985
+Inserting 34977
+Inserting 48245
+Query 61598 -> 61598:
+Inserting 73720
+Inserting 89920
+Inserting 2896
+Inserting 96256
+Inserting 58013
+Inserting 27834
+Inserting 97585
+Inserting 62444
+Inserting 5135
+Inserting 94108
+Query 39665 -> 39665:
+Query 82916 -> 82916:
+Inserting 66264
+Inserting 17713
+Inserting 42188
+Inserting 31592
+Query 11533 -> 11533:
+Inserting 10830
+Query 18339 -> 18339:
+Inserting 78999
+Inserting 69437
+Inserting 2830
+Inserting 88836
+Inserting 29940
+Inserting 73582
+Query 80295 -> 80295:
+Inserting 37627
+Inserting 93098
+Inserting 12377
+Query 42197 -> 42197:
+Inserting 28006
+Inserting 32566
+Inserting 6601
+Inserting 19340
+Inserting 19629
+Inserting 35209
+Inserting 47397
+Inserting 47590
+Query 67627 -> 67627:
+Inserting 38020
+Inserting 58727
+Inserting 62767
+Query 63515 -> 63515:
+Inserting 11339
+Inserting 23082
+Inserting 62733
+Query 74955 -> 74955:
+Inserting 95844
+Inserting 31883
+Inserting 62050
+Inserting 16821
+Inserting 42321
+Inserting 65045
+Query 11468 -> 11468:
+Query 24699 -> 24699:
+Inserting 4256
+Inserting 61982
+Query 7016 -> 7016:
+Inserting 76345
+Inserting 160
+Inserting 65289
+Inserting 16715
+Inserting 93479
+Inserting 11572
+Inserting 10718
+Inserting 47792
+Query 80764 -> 80764:
+Query 2830 -> 2830:
+Inserting 78672
+Inserting 23555
+Inserting 20594
+Query 2595 -> 2595:
+Query 28770 -> 28770:
+Inserting 15960
+Inserting 28167
+Inserting 22376
+Inserting 10053
+Inserting 86651
+Inserting 68093
+Inserting 80437
+Inserting 35789
+Query 53751 -> 53751:
+Inserting 32920
+Inserting 78340
+Inserting 61333
+Inserting 42488
+Query 11177 -> 11177:
+Inserting 44423
+Inserting 58234
+Inserting 838
+Inserting 7488
+Inserting 31235
+Inserting 80462
+Inserting 403
+Inserting 47880
+Inserting 29997
+Inserting 70434
+Inserting 2058
+Inserting 3621
+Inserting 94460
+Inserting 27918
+Query 8207 -> 8207:
+Inserting 93048
+Query 55121 -> 55121:
+Inserting 73158
+Query 31409 -> 31409:
+Inserting 28688
+Inserting 5845
+Inserting 38244
+Inserting 36669
+Inserting 58325
+Inserting 90123
+Inserting 51082
+Inserting 14784
+Inserting 77024
+Inserting 10462
+Inserting 36354
+Inserting 17965
+Inserting 94794
+Inserting 43727
+Inserting 10302
+Query 35789 -> 35789:
+Inserting 29011
+Inserting 19670
+Inserting 76365
+Query 46867 -> 46867:
+Inserting 24555
+Inserting 70893
+Inserting 28676
+Inserting 71697
+Inserting 58603
+Inserting 64648
+Query 60849 -> 60849:
+Inserting 13992
+Query 25027 -> 25027:
+Inserting 13779
+Query 67660 -> 67660:
+Query 96422 -> 96422:
+Inserting 70719
+Query 79415 -> 79415:
+Inserting 99461
+Inserting 51671
+Query 10462 -> 10462:
+Inserting 72889
+Inserting 29638
+Query 46076 -> 46076:
+Inserting 66543
+Inserting 12337
+Inserting 90701
+Inserting 30392
+Inserting 33654
+Inserting 25679
+Inserting 88049
+Inserting 13904
+Inserting 6915
+Inserting 85948
+Inserting 68716
+Inserting 91110
+Inserting 57043
+Inserting 50304
+Query 84282 -> 84282:
+Inserting 56246
+Query 48677 -> 48677:
+Inserting 30595
+Inserting 4207
+Query 38244 -> 38244:
+Inserting 48005
+Query 4819 -> 4819:
+Query 46221 -> 46221:
+Inserting 34635
+Query 13443 -> 13443:
+Inserting 71553
+Inserting 82359
+Query 24831 -> 24831:
+Inserting 2112
+Inserting 57797
+Inserting 18423
+Inserting 25369
+Inserting 29036
+Inserting 91669
+Inserting 21839
+Inserting 29514
+Inserting 97748
+Inserting 47681
+Inserting 97246
+Inserting 39832
+Query 28652 -> 28652:
+Query 66058 -> 66058:
+Inserting 37443
+Inserting 9788
+Inserting 68293
+Inserting 31716
+Inserting 7646
+Inserting 62897
+Inserting 12317
+Inserting 45063
+Inserting 81855
+Inserting 13908
+Inserting 42782
+Inserting 59492
+Inserting 77779
+Query 55080 -> 55080:
+Inserting 48887
+Query 71385 -> 71385:
+Inserting 61027
+Inserting 95478
+Query 61982 -> 61982:
+Inserting 32596
+Query 36680 -> 36680:
+Inserting 54647
+Inserting 6488
+Inserting 40494
+Inserting 36961
+Inserting 82778
+Inserting 18405
+Query 92160 -> 92160:
+Query 53542 -> 53542:
+Inserting 63069
+Inserting 8915
+Inserting 56192
+Inserting 32996
+Query 92362 -> 92362:
+Inserting 30470
+Inserting 32040
+Query 96119 -> 96119:
+Inserting 47683
+Query 46892 -> 46892:
+Inserting 4779
+Inserting 92055
+Inserting 37530
+Inserting 76803
+Inserting 56674
+Inserting 48953
+Inserting 4851
+Query 24431 -> 24431:
+Inserting 91315
+Inserting 5945
+Query 5337 -> 5337:
+Inserting 9315
+Inserting 65140
+Inserting 38724
+Query 4779 -> 4779:
+Inserting 77287
+Query 88301 -> 88301:
+Inserting 11988
+Inserting 23173
+Inserting 39047
+Inserting 38925
+Query 8135 -> 8135:
+Inserting 71915
+Query 22045 -> 22045:
+Inserting 59963
+Inserting 95374
+Query 67660 -> 67660:
+Inserting 29748
+Inserting 18157
+Inserting 30022
+Inserting 97387
+Query 30800 -> 30800:
+Inserting 14774
+Inserting 12510
+Query 94049 -> 94049:
+Inserting 85281
+Inserting 24225
+Inserting 38208
+Inserting 71527
+Inserting 84782
+Inserting 57256
+Query 21598 -> 21598:
+Inserting 30226
+Inserting 1087
+Query 58616 -> 58616:
+Inserting 15729
+Inserting 29077
+Inserting 29066
+Inserting 70141
+Inserting 97199
+Query 35334 -> 35334:
+Inserting 81397
+Query 3621 -> 3621:
+Query 32432 -> 32432:
+Inserting 52817
+Query 81332 -> 81332:
+Query 848 -> 848:
+Inserting 66792
+Inserting 52514
+Inserting 95456
+Inserting 96620
+Query 86651 -> 86651:
+Query 9590 -> 9590:
+Inserting 64259
+Inserting 95357
+Inserting 92368
+Inserting 84819
+Inserting 29139
+Query 66031 -> 66031:
+Query 57157 -> 57157:
+Inserting 85297
+Query 48874 -> 48874:
+Inserting 34956
+Inserting 72236
+Inserting 16112
+Inserting 51921
+Inserting 10256
+Inserting 40063
+Query 68520 -> 68520:
+Inserting 45654
+Inserting 52707
+Inserting 49917
+Inserting 92168
+Query 29638 -> 29638:
+Inserting 26165
+Inserting 13265
+Inserting 83290
+Inserting 23100
+Inserting 42926
+Inserting 5405
+Inserting 6548
+Query 66792 -> 66792:
+Inserting 20402
+Inserting 21459
+Inserting 23981
+Inserting 33200
+Inserting 4417
+Inserting 56575
+Inserting 69198
+Inserting 2177
+Inserting 75288
+Inserting 89330
+Inserting 74346
+Inserting 9229
+Inserting 44728
+Inserting 70728
+Inserting 1160
+Inserting 20987
+Inserting 68974
+Inserting 49341
+Inserting 9548
+Inserting 23807
+Inserting 80626
+Inserting 86966
+Inserting 47069
+Inserting 4750
+Query 40063 -> 40063:
+Query 96162 -> 96162:
+Query 71915 -> 71915:
+Inserting 36468
+Inserting 19151
+Inserting 10097
+Inserting 11081
+Inserting 1294
+Inserting 29018
+Query 59499 -> 59499:
+Inserting 82474
+Inserting 1889
+Inserting 49272
+Inserting 12163
+Inserting 25927
+Inserting 85582
+Inserting 50412
+Inserting 3640
+Inserting 64246
+Inserting 81529
+Inserting 95966
+Query 58436 -> 58436:
+Inserting 67587
+Inserting 13873
+Inserting 20077
+Inserting 19233
+Inserting 83220
+Inserting 39609
+Query 14180 -> 14180:
+Inserting 46768
+Query 44072 -> 44072:
+Query 51921 -> 51921:
+Inserting 50941
+Inserting 7084
+Inserting 62454
+Inserting 8330
+Query 74281 -> 74281:
+Inserting 15415
+Inserting 57226
+Inserting 11881
+Inserting 85829
+Inserting 50651
+Inserting 3577
+Inserting 64217
+Inserting 15492
+Inserting 78948
+Inserting 1906
+Inserting 16130
+Inserting 55949
+Inserting 18369
+Inserting 42179
+Inserting 50763
+Inserting 15876
+Inserting 15826
+Inserting 73081
+Inserting 90573
+Inserting 62778
+Inserting 53771
+Inserting 22136
+Inserting 33020
+Inserting 7357
+Query 66058 -> 66058:
+Inserting 37991
+Inserting 16859
+Inserting 89802
+Query 76451 -> 76451:
+Inserting 16920
+Inserting 17129
+Inserting 54531
+Inserting 47573
+Inserting 5263
+Inserting 24203
+Inserting 80134
+Inserting 13784
+Inserting 44283
+Query 83294 -> 83294:
+Inserting 72921
+Inserting 82039
+Inserting 27935
+Inserting 74802
+Inserting 81250
+Query 56431 -> 56431:
+Inserting 33216
+Inserting 82726
+Inserting 13175
+Inserting 65984
+Query 92168 -> 92168:
+Inserting 13371
+Inserting 59665
+Inserting 68988
+Inserting 9941
+Inserting 5269
+Inserting 62928
+Query 17105 -> 17105:
+Inserting 50724
+Inserting 26940
+Inserting 84319
+Inserting 66767
+Inserting 194
+Inserting 50204
+Inserting 79324
+Inserting 66577
+Inserting 62425
+Inserting 23294
+Inserting 2816
+Inserting 22229
+Inserting 39674
+Inserting 77472
+Inserting 76472
+Inserting 59538
+Query 83649 -> 83649:
+Query 44615 -> 44615:
+Inserting 46662
+Inserting 88775
+Inserting 49144
+Inserting 51602
+Inserting 32801
+Inserting 77706
+Inserting 26390
+Inserting 32496
+Inserting 61716
+Inserting 32000
+Inserting 67106
+Inserting 68272
+Inserting 94880
+Query 19670 -> 19670:
+Inserting 96005
+Inserting 78115
+Inserting 75452
+Inserting 17404
+Inserting 98230
+Inserting 49322
+Inserting 2142
+Inserting 77898
+Inserting 94300
+Inserting 4275
+Inserting 12344
+Inserting 38058
+Query 34044 -> 34044:
+Inserting 17686
+Inserting 12910
+Inserting 79855
+Inserting 90511
+Inserting 65903
+Inserting 90814
+Inserting 98790
+Query 85829 -> 85829:
+Inserting 36074
+Inserting 58313
+Query 95844 -> 95844:
+Inserting 86357
+Inserting 69523
+Inserting 49482
+Inserting 87048
+Inserting 20605
+Inserting 24375
+Inserting 68053
+Inserting 37266
+Inserting 59590
+Query 94880 -> 94880:
+Query 70129 -> 70129:
+Inserting 84331
+Query 65345 -> 65345:
+Inserting 48119
+Inserting 45083
+Inserting 98005
+Inserting 45947
+Query 74472 -> 74472:
+Inserting 66751
+Inserting 97527
+Inserting 2043
+Inserting 51531
+Inserting 17941
+Inserting 59103
+Inserting 12207
+Inserting 2227
+Query 90392 -> 90392:
+Inserting 38613
+Inserting 53559
+Inserting 78896
+Inserting 28429
+Inserting 44378
+Inserting 30708
+Query 99123 -> 99123:
+Query 8915 -> 8915:
+Inserting 42365
+Inserting 38314
+Inserting 45965
+Inserting 85093
+Inserting 74900
+Query 79162 -> 79162:
+Inserting 27577
+Inserting 27449
+Inserting 87475
+Query 12337 -> 12337:
+Query 77706 -> 77706:
+Inserting 99202
+Inserting 12424
+Query 24894 -> 24894:
+Query 44283 -> 44283:
+Inserting 43737
+Inserting 15489
+Inserting 4133
+Inserting 11266
+Query 62425 -> 62425:
+Inserting 69616
+Inserting 21435
+Inserting 40315
+Inserting 38064
+Inserting 98221
+Query 57221 -> 57221:
+Inserting 32088
+Inserting 13855
+Inserting 22937
+Inserting 1824
+Inserting 92094
+Inserting 92675
+Query 51705 -> 51705:
+Inserting 12005
+Inserting 45922
+Inserting 24140
+Query 92757 -> 92757:
+Inserting 29509
+Inserting 93713
+Inserting 859
+Inserting 61057
+Inserting 16091
+Inserting 25315
+Query 160 -> 160:
+Inserting 61142
+Inserting 66522
+Inserting 32897
+Query 79670 -> 79670:
+Inserting 11239
+Inserting 20544
+Inserting 6549
+Inserting 34564
+Inserting 42161
+Query 73720 -> 73720:
+Inserting 34367
+Query 83975 -> 83975:
+Inserting 12061
+Inserting 75626
+Inserting 80279
+Inserting 41914
+Inserting 24184
+Inserting 70181
+Inserting 23989
+Inserting 30146
+Inserting 92243
+Inserting 71730
+Inserting 98563
+Inserting 57482
+Query 49272 -> 49272:
+Query 80462 -> 80462:
+Inserting 76202
+Inserting 14683
+Inserting 43120
+Query 14233 -> 14233:
+Inserting 85423
+Inserting 33519
+Query 3174 -> 3174:
+Query 8570 -> 8570:
+Inserting 67304
+Query 66767 -> 66767:
+Inserting 91215
+Query 17686 -> 17686:
+Inserting 12908
+Inserting 18425
+Inserting 33861
+Query 94139 -> 94139:
+Inserting 86900
+Inserting 37610
+Inserting 22521
+Query 99065 -> 99065:
+Inserting 79261
+Inserting 17317
+Inserting 25355
+Inserting 92093
+Query 510 -> 510:
+Inserting 81625
+Inserting 48326
+Inserting 64231
+Inserting 67141
+Inserting 80597
+Inserting 25091
+Inserting 15475
+Inserting 14096
+Inserting 13454
+Inserting 14381
+Inserting 87621
+Inserting 7622
+Inserting 28702
+Inserting 93320
+Inserting 80903
+Inserting 43344
+Inserting 96065
+Inserting 33222
+Inserting 39076
+Inserting 60991
+Inserting 7661
+Inserting 21832
+Inserting 67851
+Inserting 73844
+Inserting 83547
+Inserting 23238
+Inserting 98259
+Query 40094 -> 40094:
+Inserting 27781
+Query 50941 -> 50941:
+Inserting 42357
+Inserting 83466
+Inserting 73225
+Inserting 80722
+Inserting 22606
+Inserting 92074
+Query 27577 -> 27577:
+Inserting 54127
+Inserting 57770
+Inserting 90023
+Inserting 80010
+Inserting 71200
+Inserting 27599
+Inserting 87179
+Inserting 41491
+Query 71392 -> 71392:
+Inserting 10700
+Inserting 38552
+Query 96065 -> 96065:
+Inserting 92974
+Inserting 65733
+Inserting 46035
+Inserting 76573
+Inserting 81493
+Inserting 92129
+Inserting 78455
+Inserting 41983
+Inserting 85310
+Inserting 96846
+Inserting 95374
+Inserting 26756
+Inserting 57475
+Inserting 87725
+Inserting 20467
+Inserting 54453
+Inserting 60174
+Inserting 16854
+Inserting 88677
+Inserting 85735
+Inserting 16201
+Inserting 58549
+Inserting 95522
+Inserting 73247
+Inserting 92797
+Inserting 77732
+Inserting 7919
+Query 76202 -> 76202:
+Inserting 30693
+Inserting 46537
+Inserting 37094
+Inserting 80177
+Inserting 32090
+Inserting 76296
+Inserting 11316
+Inserting 13968
+Inserting 49398
+Inserting 80222
+Inserting 69697
+Inserting 26747
+Inserting 87606
+Inserting 69063
+Inserting 23732
+Inserting 40776
+Inserting 78716
+Inserting 37752
+Inserting 16938
+Inserting 61185
+Inserting 77398
+Query 64698 -> 64698:
+Query 5398 -> 5398:
+Inserting 29219
+Inserting 8568
+Inserting 82458
+Inserting 57656
+Inserting 6426
+Inserting 32446
+Query 95778 -> 95778:
+Query 71558 -> 71558:
+Inserting 46745
+Query 77732 -> 77732:
+Inserting 51723
+Inserting 35732
+Inserting 94779
+Inserting 88204
+Inserting 85623
+Inserting 51707
+Inserting 183
+Inserting 86901
+Inserting 34876
+Inserting 1330
+Inserting 95696
+Inserting 2316
+Inserting 68577
+Inserting 56834
+Inserting 50228
+Inserting 91561
+Inserting 22523
+Inserting 61841
+Inserting 44433
+Inserting 1574
+Query 23444 -> 23444:
+Inserting 77493
+Inserting 24314
+Inserting 60017
+Query 1739 -> 1739:
+Inserting 74058
+Inserting 77044
+Query 20605 -> 20605:
+Inserting 64420
+Query 16565 -> 16565:
+Inserting 96005
+Inserting 33441
+Inserting 74362
+Inserting 31489
+Inserting 94949
+Query 92168 -> 92168:
+Inserting 7856
+Query 88775 -> 88775:
+Inserting 88029
+Inserting 10702
+Inserting 7323
+Inserting 84274
+Inserting 18932
+Query 81386 -> 81386:
+Inserting 40716
+Inserting 51630
+Inserting 72736
+Inserting 62348
+Query 9229 -> 9229:
+Inserting 77084
+Inserting 69047
+Inserting 95240
+Inserting 96060
+Query 9229 -> 9229:
+Query 88677 -> 88677:
+Query 75288 -> 75288:
+Inserting 63689
+Inserting 51411
+Inserting 24294
+Inserting 94051
+Inserting 9545
+Query 25679 -> 25679:
+Inserting 53522
+Inserting 5348
+Inserting 5231
+Inserting 93029
+Query 50941 -> 50941:
+Query 12337 -> 12337:
+Inserting 11462
+Inserting 82624
+Inserting 14938
+Inserting 39296
+Inserting 55128
+Inserting 2781
+Inserting 25385
+Inserting 38374
+Inserting 86532
+Inserting 83557
+Inserting 27552
+Inserting 7949
+Query 16130 -> 16130:
+Inserting 26693
+Inserting 70976
+Inserting 67084
+Inserting 47361
+Query 51921 -> 51921:
+Inserting 93442
+Inserting 19814
+Inserting 27262
+Inserting 94862
+Query 1160 -> 1160:
+Inserting 95032
+Query 56674 -> 56674:
+Inserting 94248
+Inserting 71578
+Inserting 45289
+Inserting 21629
+Inserting 62034
+Inserting 64522
+Query 60095 -> 60095:
+Inserting 42482
+Inserting 59421
+Inserting 36678
+Inserting 33366
+Query 11625 -> 11625:
+Inserting 63146
+Query 79415 -> 79415:
+Inserting 56947
+Inserting 96414
+Inserting 66079
+Inserting 24071
+Inserting 74711
+Inserting 73165
+Inserting 63892
+Inserting 69225
+Inserting 27819
+Query 83482 -> 83482:
+Query 2227 -> 2227:
+Inserting 79310
+Inserting 88453
+Inserting 42975
+Inserting 76967
+Query 71691 -> 71691:
+Inserting 2795
+Inserting 97137
+Query 11962 -> 11962:
+Inserting 28845
+Query 32000 -> 32000:
+Inserting 85676
+Inserting 65018
+Query 40267 -> 40267:
+Inserting 41143
+Inserting 82618
+Query 1889 -> 1889:
+Inserting 91293
+Inserting 79690
+Query 85382 -> 85382:
+Query 33081 -> 33081:
+Inserting 44811
+Query 13386 -> 13386:
+Inserting 45797
+Inserting 33691
+Query 79272 -> 79272:
+Query 73247 -> 73247:
+Inserting 6937
+Query 48677 -> 48677:
+Inserting 86562
+Inserting 11127
+Inserting 37396
+Query 40716 -> 40716:
+Inserting 92173
+Inserting 86815
+Inserting 95744
+Inserting 44879
+Query 81332 -> 81332:
+Inserting 19077
+Inserting 52031
+Inserting 88366
+Inserting 16061
+Query 28970 -> 28970:
+Inserting 50715
+Inserting 26600
+Inserting 80702
+Inserting 16335
+Query 37396 -> 37396:
+Inserting 31117
+Inserting 62436
+Inserting 41702
+Inserting 89307
+Query 17686 -> 17686:
+Inserting 38783
+Inserting 1491
+Inserting 84916
+Inserting 83738
+Query 15006 -> 15006:
+Inserting 93712
+Inserting 26168
+Query 94248 -> 94248:
+Inserting 21508
+Query 90488 -> 90488:
+Inserting 81725
+Inserting 952
+Inserting 58039
+Inserting 93788
+Inserting 19089
+Inserting 18978
+Query 42782 -> 42782:
+Inserting 82660
+Inserting 5495
+Inserting 64356
+Inserting 8940
+Inserting 75156
+Inserting 91149
+Inserting 96
+Query 23981 -> 23981:
+Inserting 29123
+Inserting 8703
+Inserting 94400
+Inserting 30812
+Inserting 33771
+Inserting 14533
+Inserting 20316
+Inserting 34722
+Inserting 97820
+Inserting 88045
+Query 79365 -> 79365:
+Inserting 46767
+Inserting 56473
+Inserting 39671
+Inserting 86475
+Inserting 76580
+Inserting 95398
+Inserting 27576
+Inserting 7653
+Inserting 94339
+Inserting 59061
+Inserting 4790
+Inserting 78231
+Inserting 99099
+Inserting 57713
+Inserting 8641
+Query 55080 -> 55080:
+Inserting 1084
+Inserting 8253
+Inserting 21027
+Inserting 87607
+Inserting 428
+Inserting 7204
+Inserting 53019
+Inserting 40520
+Inserting 66786
+Query 20639 -> 20639:
+Inserting 99358
+Query 51740 -> 51740:
+Inserting 24858
+Query 28676 -> 28676:
+Inserting 60216
+Inserting 35461
+Inserting 30836
+Inserting 90235
+Inserting 36962
+Inserting 3488
+Inserting 6409
+Query 8570 -> 8570:
+Inserting 64269
+Inserting 54054
+Inserting 99109
+Inserting 95726
+Query 41702 -> 41702:
+Inserting 53073
+Query 53466 -> 53466:
+Inserting 87763
+Inserting 59831
+Inserting 28791
+Inserting 1066
+Query 16879 -> 16879:
+Inserting 78700
+Inserting 47338
+Query 91315 -> 91315:
+Inserting 52175
+Inserting 14397
+Query 88894 -> 88894:
+Inserting 79146
+Inserting 9212
+Inserting 78611
+Inserting 86205
+Inserting 43865
+Inserting 11621
+Inserting 67559
+Inserting 78790
+Query 89688 -> 89688:
+Inserting 18951
+Inserting 55056
+Inserting 12240
+Inserting 36164
+Inserting 75202
+Inserting 16737
+Query 33371 -> 33371:
+Inserting 94144
+Inserting 55562
+Query 6548 -> 6548:
+Inserting 48836
+Inserting 58682
+Query 81250 -> 81250:
+Inserting 7720
+Query 66786 -> 66786:
+Inserting 50113
+Inserting 23864
+Inserting 65734
+Inserting 3451
+Inserting 28728
+Inserting 22717
+Inserting 91435
+Query 81773 -> 81773:
+Inserting 26900
+Inserting 73794
+Inserting 91428
+Inserting 48641
+Inserting 61938
+Inserting 12528
+Query 23989 -> 23989:
+Inserting 8196
+Inserting 26907
+Inserting 63083
+Query 84061 -> 84061:
+Inserting 4257
+Inserting 76414
+Query 94203 -> 94203:
+Inserting 47141
+Query 81556 -> 81556:
+Inserting 61215
+Inserting 92604
+Query 5263 -> 5263:
+Inserting 6736
+Inserting 58926
+Inserting 70762
+Inserting 83028
+Inserting 79613
+Inserting 81820
+Query 93963 -> 93963:
+Inserting 76748
+Inserting 57066
+Query 23555 -> 23555:
+Inserting 8521
+Inserting 25217
+Inserting 50029
+Inserting 55079
+Inserting 28441
+Inserting 36279
+Inserting 80258
+Inserting 4744
+Query 79993 -> 79993:
+Inserting 99181
+Query 17105 -> 17105:
+Inserting 8319
+Inserting 45456
+Query 35229 -> 35229:
+Inserting 27579
+Inserting 13583
+Inserting 78555
+Inserting 52757
+Inserting 10041
+Query 58745 -> 58745:
+Query 66468 -> 66468:
+Query 97137 -> 97137:
+Inserting 584
+Inserting 39410
+Query 81780 -> 81780:
+Inserting 93951
+Query 7204 -> 7204:
+Inserting 29386
+Query 27918 -> 27918:
+Inserting 35788
+Query 71872 -> 71872:
+Inserting 28284
+Query 84061 -> 84061:
+Inserting 55479
+Inserting 50271
+Inserting 17904
+Query 68716 -> 68716:
+Inserting 25533
+Query 87607 -> 87607:
+Inserting 40254
+Query 32566 -> 32566:
+Query 65355 -> 65355:
+Inserting 6895
+Inserting 29477
+Query 49322 -> 49322:
+Query 34832 -> 34832:
+Inserting 88085
+Inserting 26090
+Inserting 71542
+Inserting 61950
+Inserting 93295
+Inserting 34100
+Query 37527 -> 37527:
+Inserting 49072
+Inserting 30334
+Query 80903 -> 80903:
+Inserting 26850
+Inserting 81489
+Inserting 86112
+Inserting 21990
+Inserting 27091
+Inserting 35105
+Query 16130 -> 16130:
+Inserting 86907
+Inserting 60891
+Inserting 62552
+Inserting 57577
+Inserting 76066
+Query 62050 -> 62050:
+Query 2058 -> 2058:
+Inserting 37346
+Inserting 49382
+Inserting 903
+Query 1308 -> 1308:
+Query 2227 -> 2227:
+Inserting 73940
+Inserting 54805
+Inserting 56424
+Query 60095 -> 60095:
+Inserting 50518
+Inserting 35227
+Inserting 78587
+Query 71385 -> 71385:
+Inserting 82057
+Inserting 61307
+Inserting 40541
+Inserting 16168
+Inserting 29665
+Inserting 21543
+Inserting 61376
+Query 67873 -> 67873:
+Query 9229 -> 9229:
+Inserting 3843
+Query 91669 -> 91669:
+Inserting 74022
+Query 67660 -> 67660:
+Inserting 63140
+Inserting 5988
+Inserting 91012
+Inserting 40451
+Inserting 30537
+Query 96005 -> 96005:
+Inserting 27719
+Inserting 7556
+Inserting 29636
+Inserting 37523
+Inserting 23782
+Inserting 77383
+Inserting 52720
+Inserting 93212
+Inserting 33856
+Inserting 99187
+Query 57742 -> 57742:
+Inserting 72826
+Inserting 90542
+Inserting 47413
+Inserting 73752
+Query 18951 -> 18951:
+Inserting 43667
+Query 50290 -> 50290:
+Query 87179 -> 87179:
+Inserting 60232
+Inserting 40794
+Query 17105 -> 17105:
+Query 44740 -> 44740:
+Inserting 74621
+Inserting 56771
+Inserting 78297
+Inserting 81983
+Inserting 15527
+Inserting 92437
+Inserting 8093
+Inserting 28932
+Query 67784 -> 67784:
+Inserting 43028
+Inserting 8704
+Inserting 46099
+Inserting 62052
+Inserting 45795
+Inserting 5913
+Query 6787 -> 6787:
+Inserting 83915
+Query 70728 -> 70728:
+Inserting 70861
+Inserting 43572
+Inserting 48824
+Inserting 79465
+Inserting 42915
+Inserting 3428
+Inserting 12175
+Inserting 39991
+Query 93750 -> 93750:
+Inserting 85674
+Inserting 4328
+Inserting 29844
+Query 45083 -> 45083:
+Inserting 1077
+Inserting 72352
+Query 70141 -> 70141:
+Inserting 76161
+Inserting 80732
+Inserting 5904
+Inserting 68826
+Query 56575 -> 56575:
+Inserting 50819
+Inserting 9597
+Inserting 72744
+Inserting 90199
+Query 3336 -> 3336:
+Inserting 34164
+Inserting 41358
+Inserting 80965
+Inserting 92672
+Inserting 74599
+Query 99052 -> 99052:
+Inserting 85936
+Query 25369 -> 25369:
+Inserting 41583
+Query 2316 -> 2316:
+Inserting 53626
+Inserting 94435
+Query 89014 -> 89014:
+Inserting 37466
+Inserting 93171
+Query 21629 -> 21629:
+Inserting 70435
+Query 30836 -> 30836:
+Inserting 29471
+Inserting 85835
+Inserting 65857
+Inserting 35326
+Inserting 84815
+Inserting 13436
+Inserting 55504
+Inserting 77077
+Inserting 56864
+Inserting 65017
+Inserting 78916
+Inserting 46862
+Inserting 21213
+Inserting 79308
+Inserting 90680
+Inserting 57872
+Inserting 7928
+Inserting 8591
+Inserting 75944
+Inserting 34469
+Inserting 37904
+Inserting 26957
+Inserting 61460
+Inserting 80046
+Inserting 26222
+Inserting 68535
+Inserting 22943
+Inserting 39089
+Query 57577 -> 57577:
+Inserting 53722
+Inserting 76531
+Inserting 81493
+Inserting 45449
+Query 56246 -> 56246:
+Inserting 68201
+Inserting 52977
+Query 19689 -> 19689:
+Query 71578 -> 71578:
+Inserting 70012
+Inserting 47048
+Inserting 31660
+Query 87048 -> 87048:
+Query 13443 -> 13443:
+Inserting 45735
+Inserting 27877
+Inserting 96240
+Inserting 69961
+Inserting 33337
+Inserting 29740
+Query 42179 -> 42179:
+Query 58776 -> 58776:
+Inserting 13581
+Inserting 74684
+Inserting 14092
+Query 35008 -> 35008:
+Inserting 20971
+Inserting 98332
+Inserting 10770
+Inserting 82178
+Inserting 4714
+Inserting 58267
+Query 86296 -> 86296:
+Inserting 83526
+Query 95330 -> 95330:
+Inserting 19196
+Inserting 29235
+Inserting 34810
+Query 91832 -> 91832:
+Query 81493 -> 81493:
+Inserting 3533
+Inserting 75464
+Inserting 34509
+Inserting 57440
+Inserting 26426
+Inserting 2729
+Inserting 71248
+Inserting 33671
+Query 78790 -> 78790:
+Inserting 40468
+Inserting 93228
+Inserting 78536
+Query 93103 -> 93103:
+Inserting 85210
+Inserting 461
+Inserting 36487
+Inserting 59757
+Inserting 28203
+Inserting 22986
+Inserting 92337
+Query 46384 -> 46384:
+Query 13779 -> 13779:
+Inserting 97789
+Inserting 63928
+Query 95398 -> 95398:
+Inserting 67753
+Query 19689 -> 19689:
+Query 4440 -> 4440:
+Inserting 46346
+Inserting 42290
+Query 59782 -> 59782:
+Inserting 65898
+Query 818 -> 818:
+Inserting 49530
+Query 35461 -> 35461:
+Inserting 12335
+Inserting 97416
+Inserting 39961
+Inserting 41746
+Inserting 92393
+Inserting 66046
+Query 4779 -> 4779:
+Inserting 97361
+Inserting 78194
+Inserting 7541
+Inserting 80738
+Inserting 65203
+Inserting 12122
+Inserting 54742
+Inserting 30736
+Inserting 5903
+Inserting 12304
+Inserting 71992
+Inserting 211
+Inserting 34762
+Query 15527 -> 15527:
+Inserting 52577
+Inserting 82705
+Inserting 38936
+Inserting 48853
+Inserting 40992
+Inserting 60718
+Inserting 37030
+Inserting 70891
+Inserting 32932
+Inserting 56315
+Inserting 85720
+Inserting 91998
+Inserting 27072
+Inserting 90563
+Inserting 97402
+Inserting 55826
+Inserting 48859
+Inserting 33406
+Inserting 333
+Inserting 1619
+Inserting 30893
+Inserting 18790
+Inserting 64939
+Inserting 69186
+Inserting 93651
+Query 93750 -> 93750:
+Query 93178 -> 93178:
+Inserting 28314
+Query 15475 -> 15475:
+Inserting 54876
+Inserting 71549
+Query 62930 -> 62930:
+Inserting 67296
+Inserting 74040
+Inserting 12701
+Query 16879 -> 16879:
+Inserting 71749
+Inserting 45730
+Query 91428 -> 91428:
+Inserting 42948
+Inserting 62571
+Inserting 48006
+Inserting 3375
+Inserting 88851
+Query 73300 -> 73300:
+Inserting 57016
+Query 79324 -> 79324:
+Inserting 97556
+Inserting 1230
+Inserting 75382
+Query 16091 -> 16091:
+Inserting 6809
+Inserting 80365
+Query 55079 -> 55079:
+Inserting 13183
+Inserting 46640
+Query 63515 -> 63515:
+Inserting 4447
+Inserting 12160
+Inserting 92218
+Inserting 13453
+Inserting 53228
+Inserting 5174
+Inserting 17226
+Query 25609 -> 25609:
+Inserting 96680
+Inserting 15063
+Inserting 88248
+Inserting 47510
+Inserting 17104
+Inserting 38496
+Inserting 98308
+Inserting 9570
+Query 28672 -> 28672:
+Inserting 47348
+Inserting 73229
+Inserting 83445
+Inserting 52781
+Inserting 96119
+Query 49071 -> 49071:
+Inserting 78941
+Inserting 65813
+Inserting 80798
+Inserting 3863
+Inserting 56685
+Inserting 42784
+Inserting 14695
+Inserting 49405
+Inserting 19821
+Inserting 73038
+Inserting 17996
+Inserting 28845
+Inserting 18513
+Inserting 35187
+Inserting 35825
+Inserting 15010
+Query 36669 -> 36669:
+Inserting 63271
+Inserting 38536
+Inserting 9141
+Inserting 66731
+Inserting 99093
+Inserting 2051
+Query 79542 -> 79542:
+Inserting 5675
+Inserting 84974
+Inserting 56624
+Inserting 1550
+Inserting 15036
+Inserting 94472
+Inserting 2939
+Inserting 99594
+Inserting 46912
+Query 57482 -> 57482:
+Query 76531 -> 76531:
+Inserting 98719
+Inserting 45027
+Inserting 81278
+Inserting 25554
+Inserting 90265
+Inserting 21288
+Inserting 40947
+Inserting 11289
+Inserting 76585
+Inserting 44917
+Inserting 66882
+Inserting 43925
+Query 47786 -> 47786:
+Query 22523 -> 22523:
+Inserting 13569
+Inserting 53417
+Inserting 12316
+Inserting 12963
+Inserting 39494
+Inserting 75903
+Query 23521 -> 23521:
+Inserting 13803
+Inserting 15350
+Inserting 31088
+Inserting 93201
+Query 79857 -> 79857:
+Inserting 3781
+Inserting 25090
+Inserting 41078
+Inserting 62097
+Query 34499 -> 34499:
+Inserting 98085
+Inserting 80907
+Inserting 18713
+Inserting 42209
+Inserting 29285
+Inserting 11386
+Inserting 52330
+Inserting 24323
+Inserting 36159
+Query 1231 -> 1231:
+Inserting 27876
+Inserting 85949
+Query 38601 -> 38601:
+Inserting 15417
+Inserting 83001
+Query 92227 -> 92227:
+Inserting 26659
+Inserting 91924
+Inserting 83421
+Inserting 28984
+Inserting 96457
+Inserting 39324
+Inserting 7758
+Inserting 38145
+Query 29386 -> 29386:
+Inserting 42596
+Inserting 48131
+Inserting 57175
+Inserting 30001
+Inserting 23217
+Query 80732 -> 80732:
+Query 20544 -> 20544:
+Inserting 40595
+Inserting 70777
+Inserting 28427
+Inserting 16127
+Inserting 32760
+Query 88836 -> 88836:
+Query 46862 -> 46862:
+Inserting 12098
+Inserting 35603
+Query 12240 -> 12240:
+Inserting 84396
+Query 84080 -> 84080:
+Inserting 98271
+Inserting 1261
+Inserting 40600
+Query 39398 -> 39398:
+Inserting 44762
+Inserting 78459
+Inserting 45424
+Inserting 27492
+Inserting 15620
+Inserting 47280
+Query 48005 -> 48005:
+Inserting 21468
+Inserting 41872
+Inserting 465
+Query 87564 -> 87564:
+Inserting 64304
+Inserting 156
+Query 14174 -> 14174:
+Inserting 83376
+Inserting 48377
+Inserting 43097
+Inserting 96955
+Inserting 97709
+Inserting 65566
+Inserting 5069
+Inserting 20087
+Inserting 3537
+Inserting 19759
+Inserting 84810
+Inserting 9557
+Inserting 21744
+Inserting 16493
+Inserting 24
+Query 75048 -> 75048:
+Query 16859 -> 16859:
+Inserting 13704
+Inserting 30904
+Inserting 47921
+Inserting 48925
+Inserting 5063
+Inserting 17319
+Inserting 39404
+Query 43727 -> 43727:
+Inserting 59525
+Inserting 29335
+Inserting 9586
+Query 46301 -> 46301:
+Inserting 19803
+Inserting 22303
+Inserting 51741
+Inserting 45409
+Inserting 62034
+Inserting 34370
+Query 28932 -> 28932:
+Inserting 95375
+Query 33856 -> 33856:
+Inserting 64857
+Inserting 72368
+Query 52031 -> 52031:
+Inserting 76322
+Inserting 8794
+Inserting 52093
+Query 16127 -> 16127:
+Inserting 3558
+Inserting 42975
+Inserting 63104
+Inserting 91487
+Inserting 85554
+Query 24071 -> 24071:
+Inserting 16562
+Inserting 25762
+Inserting 11976
+Query 95330 -> 95330:
+Inserting 75723
+Inserting 30254
+Query 12122 -> 12122:
+Inserting 60184
+Inserting 25218
+Inserting 22229
+Query 24858 -> 24858:
+Inserting 36334
+Inserting 23500
+Inserting 71553
+Inserting 39048
+Query 46912 -> 46912:
+Inserting 80659
+Inserting 56939
+Inserting 95664
+Query 61460 -> 61460:
+Inserting 11598
+Inserting 7288
+Inserting 43614
+Inserting 31824
+Inserting 6271
+Inserting 34849
+Inserting 9450
+Inserting 82432
+Inserting 9835
+Query 5069 -> 5069:
+Inserting 68503
+Inserting 79595
+Inserting 80715
+Query 12175 -> 12175:
+Inserting 36214
+Inserting 75644
+Inserting 33016
+Inserting 87142
+Query 43120 -> 43120:
+Inserting 30241
+Inserting 66816
+Inserting 65732
+Inserting 81073
+Inserting 24012
+Inserting 37852
+Inserting 87142
+Inserting 80095
+Inserting 99235
+Inserting 63377
+Query 42929 -> 42929:
+Inserting 80714
+Inserting 22334
+Inserting 29127
+Inserting 66446
+Query 25690 -> 25690:
+Inserting 18932
+Inserting 18845
+Inserting 6438
+Inserting 51397
+Inserting 70961
+Query 95966 -> 95966:
+Query 9570 -> 9570:
+Inserting 44417
+Inserting 12311
+Inserting 33630
+Inserting 70883
+Query 57577 -> 57577:
+Inserting 46512
+Inserting 16034
+Query 50941 -> 50941:
+Inserting 19350
+Query 93479 -> 93479:
+Inserting 98735
+Inserting 3884
+Inserting 53341
+Inserting 28469
+Query 90092 -> 90092:
+Inserting 82334
+Inserting 17023
+Inserting 42070
+Query 20605 -> 20605:
+Query 85093 -> 85093:
+Inserting 26588
+Inserting 4427
+Inserting 50700
+Inserting 55434
+Query 12424 -> 12424:
+Inserting 90578
+Inserting 91784
+Inserting 578
+Inserting 37101
+Inserting 53148
+Inserting 67450
+Inserting 82446
+Inserting 68007
+Inserting 61618
+Inserting 78686
+Inserting 18645
+Inserting 81026
+Inserting 713
+Inserting 72896
+Inserting 43288
+Inserting 10101
+Query 56905 -> 56905:
+Inserting 20070
+Inserting 25210
+Inserting 79551
+Query 74711 -> 74711:
+Inserting 6917
+Inserting 8074
+Query 65566 -> 65566:
+Inserting 52891
+Inserting 59903
+Inserting 42196
+Query 40600 -> 40600:
+Inserting 22691
+Inserting 74529
+Inserting 15347
+Inserting 73751
+Inserting 22237
+Inserting 64193
+Inserting 88569
+Inserting 50474
+Query 90092 -> 90092:
+Inserting 75731
+Inserting 32721
+Query 74281 -> 74281:
+Query 70728 -> 70728:
+Inserting 80867
+Inserting 25112
+Inserting 92045
+Query 51397 -> 51397:
+Inserting 5450
+Inserting 84136
+Inserting 28991
+Inserting 68424
+Inserting 7356
+Inserting 81315
+Inserting 54154
+Inserting 42542
+Query 90898 -> 90898:
+Query 67559 -> 67559:
+Inserting 65591
+Inserting 65419
+Inserting 25054
+Inserting 24051
+Inserting 77293
+Query 1940 -> 1940:
+Query 61938 -> 61938:
+Inserting 70146
+Query 12068 -> 12068:
+Inserting 93821
+Inserting 26058
+Inserting 14162
+Query 40520 -> 40520:
+Inserting 23369
+Inserting 72781
+Inserting 41630
+Query 89015 -> 89015:
+Inserting 10299
+Inserting 90869
+Inserting 72754
+Inserting 25094
+Inserting 98697
+Inserting 53783
+Inserting 8115
+Query 5450 -> 5450:
+Inserting 27663
+Inserting 61827
+Inserting 65771
+Inserting 10927
+Inserting 15416
+Query 79984 -> 79984:
+Inserting 3553
+Inserting 94743
+Inserting 93166
+Inserting 85881
+Query 70181 -> 70181:
+Query 70146 -> 70146:
+Inserting 44855
+Inserting 51780
+Query 20087 -> 20087:
+Inserting 24856
+Inserting 57644
+Inserting 40190
+Inserting 58082
+Inserting 35739
+Inserting 18768
+Inserting 50991
+Inserting 51858
+Query 53466 -> 53466:
+Query 77732 -> 77732:
+Inserting 76222
+Query 63083 -> 63083:
+Inserting 31779
+Inserting 86385
+Inserting 16903
+Inserting 10764
+Inserting 85943
+Inserting 89557
+Inserting 68940
+Inserting 9380
+Query 27876 -> 27876:
+Inserting 17163
+Inserting 68524
+Query 7585 -> 7585:
+Query 86297 -> 86297:
+Inserting 78140
+Inserting 12413
+Inserting 65942
+Inserting 78120
+Inserting 64852
+Inserting 17922
+Inserting 9051
+Inserting 46413
+Inserting 80424
+Inserting 43342
+Inserting 64026
+Inserting 2925
+Inserting 61996
+Inserting 76297
+Inserting 46591
+Query 87621 -> 87621:
+Inserting 67085
+Inserting 59232
+Query 55056 -> 55056:
+Inserting 71729
+Inserting 3024
+Query 65771 -> 65771:
+Inserting 59205
+Inserting 51466
+Inserting 76868
+Query 30146 -> 30146:
+Inserting 51028
+Inserting 23684
+Query 13996 -> 13996:
+Inserting 71603
+Inserting 68659
+Inserting 48741
+Inserting 87739
+Query 99187 -> 99187:
+Inserting 32289
+Inserting 73314
+Inserting 58423
+Inserting 47247
+Inserting 51912
+Query 92362 -> 92362:
+Query 40992 -> 40992:
+Inserting 11511
+Inserting 24040
+Inserting 81382
+Inserting 65842
+Inserting 80631
+Inserting 32673
+Inserting 74776
+Inserting 24198
+Inserting 79040
+Inserting 79422
+Inserting 12182
+Inserting 21429
+Query 54742 -> 54742:
+Inserting 20853
+Inserting 58468
+Inserting 56439
+Query 54054 -> 54054:
+Inserting 14753
+Inserting 19722
+Query 41078 -> 41078:
+Inserting 57675
+Inserting 38889
+Inserting 10430
+Inserting 39367
+Inserting 13160
+Inserting 99590
+Inserting 59295
+Query 69616 -> 69616:
+Inserting 3093
+Inserting 46676
+Inserting 82999
+Inserting 99076
+Inserting 6362
+Inserting 41166
+Query 75644 -> 75644:
+Query 66577 -> 66577:
+Inserting 9965
+Query 78916 -> 78916:
+Query 90898 -> 90898:
+Inserting 69297
+Inserting 28591
+Query 50204 -> 50204:
+Inserting 52592
+Inserting 48225
+Inserting 66038
+Query 41914 -> 41914:
+Inserting 25845
+Query 73786 -> 73786:
+Inserting 25402
+Inserting 98162
+Inserting 97096
+Inserting 96805
+Inserting 91875
+Inserting 89155
+Inserting 62049
+Inserting 5086
+Inserting 70751
+Inserting 21930
+Query 49907 -> 49907:
+Inserting 95017
+Query 160 -> 160:
+Query 9229 -> 9229:
+Inserting 83885
+Inserting 66754
+Inserting 33160
+Inserting 64056
+Inserting 2651
+Inserting 86047
+Inserting 68331
+Inserting 51977
+Inserting 53852
+Inserting 80434
+Inserting 54310
+Inserting 53858
+Inserting 43326
+Inserting 92994
+Inserting 7947
+Inserting 15117
+Inserting 25573
+Inserting 35802
+Inserting 49090
+Inserting 893
+Inserting 39784
+Query 9586 -> 9586:
+Inserting 54296
+Inserting 75088
+Inserting 31032
+Inserting 24300
+Inserting 43534
+Query 6227 -> 6227:
+Query 37101 -> 37101:
+Query 9597 -> 9597:
+Inserting 12444
+Inserting 18198
+Query 2995 -> 2995:
+Inserting 4150
+Inserting 46236
+Inserting 95767
+Query 29471 -> 29471:
+Inserting 86299
+Inserting 16616
+Inserting 43930
+Inserting 51950
+Inserting 71697
+Inserting 6464
+Inserting 52026
+Inserting 73865
+Inserting 77791
+Inserting 45232
+Inserting 43038
+Inserting 8331
+Inserting 9939
+Query 78672 -> 78672:
+Inserting 55884
+Inserting 81435
+Inserting 48117
+Inserting 13675
+Query 86357 -> 86357:
+Inserting 18161
+Inserting 86095
+Inserting 3164
+Query 71392 -> 71392:
+Inserting 86425
+Inserting 13452
+Inserting 92897
+Inserting 71265
+Inserting 67371
+Query 25090 -> 25090:
+Inserting 46245
+Inserting 3401
+Inserting 6682
+Inserting 8770
+Inserting 62290
+Inserting 53613
+Inserting 51183
+Inserting 12419
+Inserting 79713
+Inserting 63461
+Inserting 60910
+Inserting 91108
+Inserting 9668
+Inserting 26361
+Inserting 69919
+Query 75644 -> 75644:
+Inserting 82962
+Inserting 74370
+Query 20533 -> 20533:
+Inserting 53444
+Inserting 54129
+Query 95966 -> 95966:
+Inserting 31252
+Inserting 77023
+Query 59261 -> 59261:
+Inserting 59075
+Inserting 64630
+Inserting 81060
+Inserting 35380
+Query 3863 -> 3863:
+Inserting 8713
+Inserting 10955
+Query 36917 -> 36917:
+Inserting 39091
+Inserting 91910
+Inserting 99129
+Inserting 20086
+Inserting 25712
+Inserting 99809
+Inserting 54719
+Inserting 4388
+Inserting 36029
+Inserting 66021
+Inserting 82169
+Inserting 57462
+Inserting 67735
+Inserting 75721
+Query 29997 -> 29997:
+Query 42209 -> 42209:
+Inserting 14613
+Query 79810 -> 79810:
+Query 96414 -> 96414:
+Inserting 58483
+Inserting 85545
+Inserting 93787
+Query 67084 -> 67084:
+Inserting 1447
+Query 31252 -> 31252:
+Inserting 46966
+Inserting 7525
+Inserting 44768
+Inserting 66302
+Inserting 74607
+Query 15323 -> 15323:
+Inserting 36610
+Inserting 29651
+Inserting 31793
+Query 39410 -> 39410:
+Inserting 78142
+Query 45797 -> 45797:
+Inserting 5526
+Query 83738 -> 83738:
+Query 95357 -> 95357:
+Inserting 16423
+Inserting 96491
+Inserting 43460
+Inserting 85234
+Query 32897 -> 32897:
+Query 10053 -> 10053:
+Query 13779 -> 13779:
+Query 80046 -> 80046:
+Query 78115 -> 78115:
+Inserting 36351
+Inserting 12812
+Inserting 47064
+Inserting 75686
+Inserting 16943
+Inserting 17827
+Inserting 59688
+Query 18157 -> 18157:
+Query 5913 -> 5913:
+Inserting 27317
+Inserting 44148
+Inserting 98218
+Inserting 48590
+Inserting 68433
+Query 18951 -> 18951:
+Query 72152 -> 72152:
+Query 39048 -> 39048:
+Inserting 15675
+Inserting 16814
+Query 36468 -> 36468:
+Inserting 50362
+Query 23600 -> 23600:
+Inserting 92736
+Inserting 52544
+Inserting 58671
+Inserting 7216
+Query 61950 -> 61950:
+Inserting 72230
+Inserting 90787
+Query 8419 -> 8419:
+Inserting 63749
+Inserting 82308
+Inserting 92736
+Inserting 34186
+Query 78686 -> 78686:
+Inserting 85806
+Inserting 3904
+Inserting 84130
+Query 36678 -> 36678:
+Inserting 20579
+Query 82778 -> 82778:
+Inserting 2440
+Inserting 24095
+Inserting 59174
+Inserting 89892
+Query 86385 -> 86385:
+Inserting 93423
+Inserting 16072
+Inserting 18675
+Inserting 45946
+Inserting 76204
+Inserting 82075
+Inserting 73750
+Inserting 33353
+Inserting 76236
+Inserting 59912
+Query 95465 -> 95465:
+Inserting 1326
+Query 68454 -> 68454:
+Inserting 43030
+Inserting 6118
+Inserting 40967
+Inserting 33361
+Query 29559 -> 29559:
+Query 55851 -> 55851:
+Inserting 58616
+Query 72754 -> 72754:
+Inserting 59567
+Query 77897 -> 77897:
+Inserting 46822
+Inserting 40689
+Inserting 34067
+Inserting 9690
+Inserting 89338
+Inserting 29203
+Inserting 387
+Inserting 78982
+Inserting 87886
+Query 89660 -> 89660:
+Inserting 7249
+Query 85720 -> 85720:
+Inserting 90983
+Inserting 20596
+Inserting 47697
+Inserting 17247
+Inserting 83422
+Inserting 84456
+Inserting 73860
+Inserting 62045
+Inserting 71265
+Inserting 34447
+Query 19066 -> 19066:
+Inserting 85982
+Inserting 46229
+Inserting 60972
+Inserting 98257
+Inserting 89047
+Query 33353 -> 33353:
+Inserting 67398
+Query 33691 -> 33691:
+Inserting 21577
+Inserting 85932
+Inserting 38492
+Inserting 69083
+Query 88926 -> 88926:
+Inserting 90157
+Query 89573 -> 89573:
+Inserting 34932
+Inserting 54404
+Inserting 82008
+Query 42764 -> 42764:
+Inserting 53866
+Inserting 11844
+Inserting 1133
+Inserting 47809
+Query 50228 -> 50228:
+Inserting 50020
+Inserting 82471
+Query 17922 -> 17922:
+Query 80414 -> 80414:
+Inserting 51764
+Inserting 18661
+Inserting 18375
+Inserting 27075
+Query 49907 -> 49907:
+Inserting 30634
+Inserting 20868
+Query 67084 -> 67084:
+Query 85310 -> 85310:
+Query 91917 -> 91917:
+Inserting 22822
+Inserting 24782
+Query 21435 -> 21435:
+Inserting 81465
+Inserting 80421
+Inserting 79146
+Inserting 46153
+Query 86651 -> 86651:
+Inserting 41445
+Inserting 9772
+Query 403 -> 403:
+Inserting 32565
+Inserting 19449
+Inserting 43059
+Inserting 22217
+Inserting 25825
+Inserting 37127
+Inserting 3221
+Inserting 56886
+Inserting 51947
+Inserting 84441
+Inserting 20840
+Inserting 60712
+Inserting 84147
+Query 24051 -> 24051:
+Inserting 58304
+Inserting 11939
+Query 85936 -> 85936:
+Inserting 14892
+Query 36678 -> 36678:
+Inserting 50063
+Inserting 70094
+Inserting 38174
+Inserting 20670
+Inserting 93501
+Inserting 19552
+Inserting 21666
+Inserting 35962
+Inserting 32934
+Inserting 60865
+Inserting 32197
+Inserting 17909
+Inserting 7565
+Inserting 9631
+Inserting 39503
+Inserting 91323
+Inserting 12963
+Query 51630 -> 51630:
+Inserting 85437
+Inserting 72108
+Inserting 23159
+Inserting 89748
+Inserting 73526
+Query 79613 -> 79613:
+Inserting 18627
+Inserting 4108
+Inserting 94400
+Inserting 84649
+Inserting 43772
+Query 37101 -> 37101:
+Inserting 13212
+Inserting 85099
+Inserting 39547
+Inserting 15853
+Inserting 10482
+Inserting 34866
+Inserting 29642
+Inserting 69134
+Inserting 13907
+Query 69061 -> 69061:
+Inserting 68860
+Inserting 98870
+Inserting 48538
+Inserting 48399
+Inserting 14138
+Inserting 33395
+Query 42365 -> 42365:
+Inserting 7368
+Inserting 69480
+Query 2142 -> 2142:
+Inserting 55321
+Inserting 87301
+Inserting 47869
+Query 49482 -> 49482:
+Inserting 45251
+Inserting 16377
+Inserting 12476
+Inserting 55246
+Inserting 90626
+Inserting 21247
+Inserting 95793
+Query 17317 -> 17317:
+Query 22217 -> 22217:
+Inserting 26980
+Inserting 55464
+Inserting 9260
+Inserting 17941
+Inserting 95014
+Inserting 47466
+Inserting 18657
+Query 5662 -> 5662:
+Inserting 68823
+Inserting 86952
+Inserting 95245
+Inserting 38805
+Inserting 56082
+Query 95032 -> 95032:
+Inserting 61824
+Inserting 64913
+Inserting 12193
+Inserting 43887
+Inserting 64469
+Query 78620 -> 78620:
+Inserting 99463
+Query 66703 -> 66703:
+Inserting 59430
+Inserting 56554
+Inserting 19892
+Inserting 94563
+Inserting 2943
+Inserting 17857
+Query 14162 -> 14162:
+Query 9691 -> 9691:
+Inserting 31628
+Inserting 96917
+Inserting 76901
+Inserting 50090
+Inserting 55020
+Inserting 54780
+Inserting 62484
+Query 38314 -> 38314:
+Inserting 23569
+Inserting 28484
+Inserting 87350
+Inserting 92090
+Inserting 34050
+Inserting 37123
+Inserting 58482
+Inserting 55981
+Query 92368 -> 92368:
+Inserting 56375
+Inserting 28597
+Query 31770 -> 31770:
+Inserting 12301
+Query 30146 -> 30146:
+Inserting 10561
+Inserting 98429
+Inserting 52794
+Inserting 86458
+Inserting 51239
+Inserting 45892
+Inserting 19601
+Query 30893 -> 30893:
+Inserting 55213
+Inserting 13478
+Inserting 29552
+Query 59848 -> 59848:
+Inserting 81402
+Inserting 85336
+Inserting 56030
+Inserting 36999
+Inserting 50545
+Inserting 18919
+Inserting 31604
+Inserting 52541
+Inserting 51634
+Inserting 25551
+Inserting 84688
+Inserting 79124
+Inserting 88899
+Inserting 4670
+Query 20868 -> 20868:
+Inserting 73453
+Inserting 27995
+Inserting 85840
+Inserting 65011
+Inserting 71843
+Inserting 55788
+Inserting 64677
+Query 72352 -> 72352:
+Query 60910 -> 60910:
+Inserting 80918
+Inserting 36579
+Inserting 17719
+Inserting 64973
+Inserting 16679
+Query 99474 -> 99474:
+Inserting 63335
+Inserting 83687
+Inserting 64007
+Inserting 46273
+Inserting 20945
+Inserting 47496
+Inserting 45122
+Inserting 83573
+Query 47510 -> 47510:
+Query 72736 -> 72736:
+Inserting 46779
+Inserting 4339
+Query 57221 -> 57221:
+Inserting 38399
+Query 12175 -> 12175:
+Inserting 79940
+Inserting 25391
+Inserting 31086
+Inserting 14220
+Inserting 95347
+Inserting 5565
+Inserting 84744
+Inserting 8054
+Inserting 85967
+Inserting 16848
+Inserting 24288
+Inserting 20029
+Inserting 96428
+Inserting 55697
+Query 20567 -> 20567:
+Inserting 8492
+Inserting 61195
+Inserting 65059
+Query 59313 -> 59313:
+Query 39857 -> 39857:
+Query 50506 -> 50506:
+Inserting 88132
+Inserting 31605
+Inserting 85713
+Inserting 43697
+Inserting 53624
+Inserting 28602
+Inserting 64026
+Inserting 52411
+Query 85943 -> 85943:
+Inserting 48311
+Inserting 92517
+Query 53238 -> 53238:
+Inserting 77477
+Inserting 94166
+Inserting 80665
+Inserting 70829
+Inserting 94852
+Query 9545 -> 9545:
+Inserting 76606
+Inserting 66299
+Query 85735 -> 85735:
+Inserting 57695
+Query 52210 -> 52210:
+Query 38208 -> 38208:
+Inserting 70456
+Inserting 82252
+Query 94139 -> 94139:
+Inserting 49104
+Inserting 21945
+Inserting 89747
+Inserting 98677
+Inserting 42368
+Query 70434 -> 70434:
+Query 67627 -> 67627:
+Inserting 39418
+Query 51764 -> 51764:
+Inserting 24891
+Inserting 55799
+Inserting 87269
+Inserting 67923
+Inserting 22104
+Query 66058 -> 66058:
+Query 57466 -> 57466:
+Inserting 90171
+Inserting 24638
+Inserting 21333
+Inserting 64691
+Inserting 56359
+Inserting 30772
+Query 13478 -> 13478:
+Inserting 61415
+Inserting 33949
+Query 89892 -> 89892:
+Inserting 25163
+Inserting 91307
+Inserting 73542
+Query 80222 -> 80222:
+Inserting 83226
+Inserting 81108
+Inserting 99509
+Inserting 54727
+Inserting 64050
+Inserting 42675
+Inserting 72985
+Inserting 50799
+Inserting 70151
+Inserting 18291
+Inserting 80090
+Inserting 15001
+Inserting 64974
+Query 16112 -> 16112:
+Inserting 13526
+Inserting 46408
+Query 22320 -> 22320:
+Inserting 21642
+Inserting 22756
+Inserting 31271
+Query 58774 -> 58774:
+Inserting 37649
+Query 23521 -> 23521:
+Inserting 76690
+Inserting 19055
+Inserting 52666
+Query 65345 -> 65345:
+Inserting 17296
+Query 20567 -> 20567:
+Query 93295 -> 93295:
+Query 29018 -> 29018:
+Inserting 41356
+Inserting 42570
+Inserting 15987
+Inserting 32004
+Inserting 20190
+Inserting 80673
+Query 23794 -> 23794:
+Inserting 9134
+Inserting 2700
+Inserting 18829
+Inserting 12574
+Query 43030 -> 43030:
+Inserting 18196
+Inserting 23674
+Inserting 61116
+Inserting 66175
+Inserting 91587
+Inserting 78339
+Inserting 48508
+Inserting 55470
+Query 85881 -> 85881:
+Inserting 96649
+Query 37649 -> 37649:
+Query 81676 -> 81676:
+Inserting 41697
+Inserting 50712
+Query 25280 -> 25280:
+Inserting 91380
+Inserting 37634
+Inserting 18171
+Inserting 14018
+Inserting 83895
+Inserting 81548
+Inserting 10819
+Inserting 44208
+Query 12005 -> 12005:
+Query 51780 -> 51780:
+Query 71869 -> 71869:
+Inserting 56985
+Inserting 60320
+Inserting 95234
+Query 23444 -> 23444:
+Inserting 65659
+Inserting 49959
+Inserting 75211
+Inserting 61053
+Inserting 36879
+Query 12574 -> 12574:
+Query 94435 -> 94435:
+Inserting 3309
+Inserting 94087
+Query 93442 -> 93442:
+Inserting 19783
+Inserting 13847
+Query 52097 -> 52097:
+Inserting 50380
+Query 37410 -> 37410:
+Inserting 33628
+Query 54979 -> 54979:
+Inserting 67902
+Inserting 36941
+Query 45027 -> 45027:
+Query 71872 -> 71872:
+Inserting 99818
+Inserting 1483
+Inserting 42283
+Inserting 48675
+Inserting 84246
+Query 78555 -> 78555:
+Query 78297 -> 78297:
+Inserting 41331
+Inserting 95703
+Inserting 47799
+Inserting 57984
+Inserting 99561
+Query 92974 -> 92974:
+Inserting 39317
+Inserting 42303
+Inserting 81964
+Inserting 58287
+Query 55464 -> 55464:
+Inserting 21341
+Inserting 34635
+Query 428 -> 428:
+Inserting 64105
+Inserting 30055
+Inserting 141
+Inserting 4105
+Inserting 58002
+Inserting 53561
+Inserting 5961
+Inserting 75299
+Inserting 6297
+Inserting 68630
+Query 25772 -> 25772:
+Inserting 27705
+Inserting 46388
+Inserting 6863
+Inserting 73814
+Inserting 19093
+Query 25369 -> 25369:
+Inserting 59933
+Inserting 79598
+Query 198 -> 198:
+Inserting 4137
+Query 84396 -> 84396:
+Inserting 48359
+Inserting 68945
+Inserting 23046
+Inserting 61181
+Inserting 49015
+Inserting 31094
+Inserting 3763
+Inserting 12079
+Inserting 69278
+Inserting 22406
+Inserting 48096
+Query 27262 -> 27262:
+Query 32271 -> 32271:
+Inserting 81693
+Inserting 27641
+Query 12068 -> 12068:
+Inserting 28900
+Query 18708 -> 18708:
+Inserting 41060
+Query 44072 -> 44072:
+Inserting 34146
+Query 2142 -> 2142:
+Inserting 5533
+Inserting 55327
+Inserting 76266
+Inserting 91234
+Inserting 83129
+Inserting 61601
+Inserting 49637
+Inserting 11380
+Inserting 52416
+Inserting 34078
+Inserting 71051
+Inserting 59896
+Inserting 52386
+Inserting 8291
+Inserting 13989
+Inserting 3696
+Inserting 53569
+Query 9380 -> 9380:
+Inserting 77392
+Inserting 37940
+Query 29066 -> 29066:
+Inserting 41448
+Inserting 65332
+Inserting 938
+Inserting 5165
+Query 12163 -> 12163:
+Inserting 87748
+Inserting 97720
+Inserting 80737
+Inserting 46435
+Inserting 80723
+Query 38613 -> 38613:
+Inserting 40396
+Query 48874 -> 48874:
+Query 22045 -> 22045:
+Inserting 86365
+Query 59295 -> 59295:
+Inserting 40850
+Inserting 78948
+Inserting 28464
+Inserting 11798
+Inserting 91855
+Inserting 7449
+Inserting 54361
+Inserting 62452
+Inserting 91812
+Query 97789 -> 97789:
+Inserting 10917
+Inserting 95015
+Inserting 4826
+Inserting 47232
+Inserting 6485
+Inserting 72598
+Inserting 2421
+Inserting 87940
+Query 46221 -> 46221:
+Inserting 20700
+Inserting 80220
+Inserting 35239
+Query 50204 -> 50204:
+Inserting 94656
+Inserting 57239
+Inserting 92225
+Inserting 18665
+Query 60538 -> 60538:
+Inserting 16503
+Inserting 42055
+Inserting 77440
+Inserting 74172
+Inserting 25442
+Inserting 78805
+Inserting 7875
+Query 92393 -> 92393:
+Inserting 64692
+Inserting 89178
+Query 58482 -> 58482:
+Inserting 30646
+Inserting 43169
+Inserting 23316
+Inserting 29416
+Inserting 44615
+Inserting 16375
+Query 12963 -> 12963:
+Query 20639 -> 20639:
+Inserting 45737
+Inserting 43491
+Query 99594 -> 99594:
+Inserting 83306
+Inserting 22677
+Inserting 97920
+Inserting 38508
+Inserting 24563
+Query 1619 -> 1619:
+Inserting 47193
+Inserting 29269
+Inserting 67720
+Inserting 55738
+Inserting 91106
+Inserting 13499
+Inserting 12896
+Inserting 34111
+Inserting 97420
+Inserting 62184
+Inserting 54008
+Inserting 75608
+Inserting 11649
+Inserting 80303
+Inserting 99872
+Inserting 43684
+Query 78805 -> 78805:
+Inserting 23797
+Query 1447 -> 1447:
+Inserting 16967
+Inserting 85381
+Inserting 50678
+Inserting 92791
+Inserting 20692
+Inserting 93877
+Inserting 51801
+Inserting 28080
+Inserting 27809
+Inserting 61558
+Inserting 24811
+Inserting 2262
+Inserting 30288
+Inserting 75862
+Inserting 64
+Inserting 43508
+Inserting 71504
+Inserting 11432
+Inserting 46883
+Query 50020 -> 50020:
+Query 95699 -> 95699:
+Inserting 70978
+Inserting 17512
+Inserting 85631
+Inserting 35055
+Inserting 83506
+Inserting 21824
+Inserting 38174
+Inserting 99579
+Query 87748 -> 87748:
+Inserting 80906
+Inserting 59279
+Inserting 82007
+Inserting 262
+Inserting 61426
+Query 68411 -> 68411:
+Inserting 62403
+Inserting 5425
+Inserting 5143
+Inserting 47667
+Query 36914 -> 36914:
+Inserting 10820
+Inserting 78858
+Inserting 20576
+Inserting 18145
+Inserting 2396
+Inserting 73574
+Query 52678 -> 52678:
+Inserting 65467
+Query 22943 -> 22943:
+Inserting 46170
+Query 36214 -> 36214:
+Inserting 51905
+Inserting 57788
+Query 78297 -> 78297:
+Inserting 48522
+Query 71749 -> 71749:
+Query 23797 -> 23797:
+Inserting 72076
+Inserting 48221
+Inserting 50407
+Inserting 19775
+Inserting 73168
+Query 80907 -> 80907:
+Query 55434 -> 55434:
+Inserting 15690
+Query 7368 -> 7368:
+Inserting 43097
+Query 93821 -> 93821:
+Inserting 17034
+Inserting 79439
+Inserting 27255
+Inserting 86271
+Inserting 44591
+Inserting 29403
+Inserting 88381
+Inserting 88507
+Inserting 80789
+Inserting 46914
+Inserting 50460
+Inserting 9076
+Inserting 43948
+Query 4132 -> 4132:
+Inserting 34780
+Inserting 65773
+Inserting 40555
+Inserting 61877
+Inserting 7449
+Query 64815 -> 64815:
+Inserting 52705
+Inserting 7208
+Inserting 41971
+Inserting 88715
+Inserting 57304
+Query 60887 -> 60887:
+Inserting 49708
+Inserting 65347
+Inserting 49566
+Inserting 71425
+Inserting 57945
+Query 25573 -> 25573:
+Inserting 21012
+Inserting 20581
+Inserting 10521
+Inserting 66141
+Inserting 71050
+Inserting 15768
+Inserting 31157
+Inserting 49776
+Query 9315 -> 9315:
+Inserting 76586
+Inserting 19231
+Query 333 -> 333:
+Inserting 58842
+Query 12413 -> 12413:
+Inserting 44151
+Inserting 55297
+Inserting 16288
+Inserting 16254
+Inserting 44532
+Inserting 40461
+Inserting 37110
+Inserting 73230
+Inserting 8189
+Inserting 67514
+Inserting 53147
+Inserting 96977
+Query 22915 -> 22915:
+Inserting 61505
+Inserting 56946
+Query 92157 -> 92157:
+Inserting 24468
+Inserting 5112
+Inserting 30274
+Inserting 70674
+Inserting 44710
+Inserting 93726
+Inserting 5965
+Inserting 46489
+Inserting 38063
+Inserting 96098
+Inserting 99132
+Inserting 10872
+Inserting 95395
+Query 15527 -> 15527:
+Inserting 20478
+Query 32289 -> 32289:
+Inserting 61110
+Inserting 80356
+Inserting 44189
+Query 68433 -> 68433:
+Inserting 81431
+Inserting 87455
+Inserting 88056
+Inserting 10680
+Inserting 37697
+Inserting 17639
+Inserting 67166
+Inserting 93395
+Inserting 85034
+Query 87066 -> 87066:
+Inserting 12830
+Inserting 55673
+Inserting 72506
+Inserting 40003
+Query 53613 -> 53613:
+Inserting 64879
+Inserting 95541
+Inserting 84583
+Inserting 73186
+Query 65419 -> 65419:
+Inserting 77604
+Inserting 65853
+Query 76690 -> 76690:
+Inserting 2568
+Query 10041 -> 10041:
+Inserting 93837
+Inserting 65860
+Inserting 31591
+Inserting 79484
+Inserting 13251
+Inserting 90076
+Query 16130 -> 16130:
+Query 29235 -> 29235:
+Inserting 4857
+Inserting 2519
+Inserting 83319
+Inserting 92513
+Inserting 8323
+Inserting 76366
+Inserting 95136
+Query 88836 -> 88836:
+Inserting 26740
+Inserting 75665
+Inserting 53043
+Inserting 90194
+Inserting 15254
+Inserting 56144
+Inserting 83875
+Query 29403 -> 29403:
+Inserting 11955
+Inserting 24622
+Inserting 67607
+Inserting 36393
+Inserting 72457
+Inserting 64162
+Inserting 50669
+Query 60092 -> 60092:
+Inserting 44874
+Inserting 40214
+Query 81820 -> 81820:
+Inserting 60739
+Inserting 29300
+Inserting 89483
+Inserting 14544
+Inserting 61092
+Inserting 48721
+Inserting 59692
+Inserting 48377
+Inserting 29092
+Inserting 45331
+Inserting 99071
+Inserting 15909
+Query 61877 -> 61877:
+Query 24431 -> 24431:
+Inserting 49350
+Inserting 74542
+Query 65898 -> 65898:
+Query 38536 -> 38536:
+Inserting 60200
+Query 98271 -> 98271:
+Inserting 23958
+Inserting 62463
+Inserting 72027
+Inserting 41294
+Inserting 80292
+Inserting 6867
+Query 34268 -> 34268:
+Inserting 27052
+Inserting 62445
+Inserting 177
+Inserting 21071
+Inserting 971
+Inserting 40295
+Inserting 48187
+Inserting 84371
+Inserting 94465
+Query 28203 -> 28203:
+Inserting 76745
+Inserting 57434
+Query 95330 -> 95330:
+Inserting 48887
+Inserting 90580
+Inserting 81229
+Query 17226 -> 17226:
+Query 33406 -> 33406:
+Inserting 11321
+Inserting 86661
+Inserting 51567
+Query 93837 -> 93837:
+Inserting 30697
+Inserting 35957
+Query 18406 -> 18406:
+Query 85281 -> 85281:
+Query 83482 -> 83482:
+Inserting 45054
+Inserting 86215
+Inserting 96671
+Inserting 72418
+Inserting 58809
+Inserting 34022
+Inserting 150
+Inserting 92064
+Inserting 86481
+Inserting 83648
+Inserting 27771
+Inserting 39490
+Inserting 32285
+Inserting 46321
+Inserting 78661
+Query 80764 -> 80764:
+Inserting 25060
+Inserting 77912
+Inserting 93559
+Inserting 27245
+Inserting 81643
+Inserting 12118
+Inserting 92847
+Inserting 45540
+Inserting 4008
+Inserting 10509
+Inserting 72845
+Inserting 22988
+Inserting 73389
+Inserting 53766
+Inserting 23853
+Inserting 3997
+Inserting 7136
+Query 97585 -> 97585:
+Query 92094 -> 92094:
+Inserting 22879
+Inserting 68259
+Inserting 42109
+Inserting 76714
+Inserting 33544
+Query 9179 -> 9179:
+Query 54578 -> 54578:
+Inserting 80823
+Inserting 78950
+Inserting 41931
+Inserting 38724
+Inserting 73831
+Inserting 62190
+Query 86900 -> 86900:
+Inserting 18324
+Inserting 99491
+Inserting 24925
+Query 91587 -> 91587:
+Inserting 73767
+Inserting 16554
+Inserting 54815
+Inserting 53829
+Query 6438 -> 6438:
+Inserting 32161
+Inserting 31866
+Inserting 76993
+Query 45540 -> 45540:
+Inserting 62177
+Inserting 2858
+Inserting 4829
+Inserting 73537
+Inserting 67513
+Query 1261 -> 1261:
+Query 15010 -> 15010:
+Query 45922 -> 45922:
+Query 89014 -> 89014:
+Inserting 51934
+Inserting 25741
+Inserting 90823
+Inserting 46532
+Inserting 35615
+Inserting 64567
+Inserting 45906
+Inserting 51799
+Inserting 71798
+Inserting 20198
+Inserting 16104
+Inserting 55024
+Query 5675 -> 5675:
+Inserting 66225
+Inserting 97105
+Inserting 23686
+Inserting 47583
+Inserting 97737
+Inserting 39546
+Inserting 92535
+Query 61558 -> 61558:
+Inserting 97168
+Query 67627 -> 67627:
+Inserting 23394
+Inserting 20467
+Inserting 57054
+Inserting 7158
+Inserting 91078
+Inserting 16581
+Inserting 43295
+Inserting 79329
+Inserting 79562
+Inserting 24824
+Inserting 7548
+Query 92847 -> 92847:
+Inserting 43534
+Inserting 17150
+Inserting 98931
+Inserting 3710
+Inserting 52505
+Inserting 99371
+Inserting 76059
+Inserting 15026
+Query 78950 -> 78950:
+Inserting 60409
+Inserting 81909
+Inserting 17617
+Inserting 79766
+Query 55213 -> 55213:
+Inserting 9239
+Inserting 88693
+Inserting 54252
+Query 88204 -> 88204:
+Inserting 41316
+Query 83885 -> 83885:
+Query 8207 -> 8207:
+Inserting 22232
+Inserting 41912
+Inserting 43047
+Inserting 11148
+Inserting 36720
+Query 46512 -> 46512:
+Query 74370 -> 74370:
+Query 61376 -> 61376:
+Inserting 74183
+Inserting 97429
+Inserting 28815
+Query 85835 -> 85835:
+Inserting 10745
+Inserting 66125
+Inserting 88984
+Inserting 88283
+Query 1550 -> 1550:
+Inserting 90156
+Inserting 48926
+Inserting 13405
+Query 24184 -> 24184:
+Inserting 83626
+Inserting 6631
+Inserting 57781
+Inserting 24353
+Inserting 38785
+Inserting 94470
+Inserting 20909
+Query 52026 -> 52026:
+Inserting 93166
+Inserting 27562
+Inserting 75653
+Query 95478 -> 95478:
+Query 66751 -> 66751:
+Inserting 46575
+Inserting 16437
+Inserting 19231
+Inserting 80599
+Query 19821 -> 19821:
+Inserting 88180
+Query 33361 -> 33361:
+Inserting 43619
+Inserting 63517
+Inserting 86906
+Inserting 593
+Query 40451 -> 40451:
+Inserting 62754
+Inserting 82017
+Inserting 57699
+Inserting 7232
+Inserting 72547
+Query 50991 -> 50991:
+Inserting 64138
+Query 31399 -> 31399:
+Inserting 69941
+Inserting 56081
+Inserting 11418
+Inserting 82550
+Inserting 45238
+Inserting 67087
+Inserting 27018
+Inserting 2424
+Inserting 35183
+Query 19601 -> 19601:
+Inserting 11291
+Inserting 40402
+Inserting 20866
+Inserting 76273
+Inserting 50761
+Inserting 24963
+Inserting 50922
+Inserting 95827
+Inserting 73362
+Inserting 16245
+Query 14397 -> 14397:
+Inserting 64196
+Inserting 49095
+Inserting 56260
+Inserting 21005
+Inserting 38522
+Inserting 75663
+Inserting 44212
+Inserting 83760
+Inserting 98529
+Inserting 72319
+Inserting 9520
+Inserting 27656
+Inserting 84661
+Inserting 9964
+Inserting 27951
+Query 41983 -> 41983:
+Inserting 34397
+Inserting 5036
+Inserting 72128
+Inserting 65504
+Inserting 10772
+Inserting 52168
+Inserting 56054
+Inserting 6172
+Query 578 -> 578:
+Inserting 93370
+Query 50380 -> 50380:
+Inserting 27870
+Inserting 82977
+Inserting 91086
+Inserting 47044
+Inserting 78688
+Inserting 92100
+Query 58313 -> 58313:
+Inserting 68255
+Inserting 66696
+Inserting 51542
+Inserting 22106
+Inserting 9704
+Query 18829 -> 18829:
+Inserting 41287
+Inserting 78817
+Query 34100 -> 34100:
+Inserting 33136
+Inserting 85392
+Inserting 56561
+Inserting 99694
+Inserting 21421
+Inserting 61173
+Inserting 60967
+Query 64259 -> 64259:
+Inserting 54417
+Inserting 93310
+Query 75202 -> 75202:
+Query 47792 -> 47792:
+Inserting 68171
+Inserting 43856
+Inserting 3587
+Inserting 40518
+Inserting 26419
+Inserting 24452
+Inserting 8472
+Inserting 30647
+Inserting 53617
+Inserting 50462
+Inserting 16737
+Inserting 96841
+Query 5072 -> 5072:
+Inserting 87751
+Inserting 32333
+Inserting 16239
+Inserting 57364
+Inserting 54819
+Inserting 34221
+Inserting 32862
+Inserting 61492
+Query 64630 -> 64630:
+Inserting 75406
+Query 5112 -> 5112:
+Query 36029 -> 36029:
+Inserting 13325
+Inserting 26307
+Inserting 90600
+Query 51183 -> 51183:
+Inserting 99188
+Query 73786 -> 73786:
+Inserting 95751
+Inserting 12211
+Inserting 19538
+Inserting 90197
+Inserting 12633
+Inserting 336
+Inserting 57232
+Inserting 55198
+Inserting 55374
+Inserting 41156
+Query 54406 -> 54406:
+Inserting 31740
+Inserting 62547
+Query 58082 -> 58082:
+Inserting 18441
+Inserting 18763
+Inserting 24941
+Inserting 69013
+Inserting 78360
+Inserting 11095
+Query 50743 -> 50743:
+Inserting 70070
+Query 24431 -> 24431:
+Inserting 68348
+Inserting 59314
+Inserting 55282
+Inserting 4123
+Inserting 2799
+Inserting 45015
+Inserting 34650
+Inserting 42269
+Inserting 61914
+Query 79162 -> 79162:
+Inserting 1335
+Query 91472 -> 91472:
+Inserting 63242
+Inserting 16421
+Inserting 20390
+Inserting 65688
+Inserting 76657
+Inserting 42578
+Query 59392 -> 59392:
+Query 3301 -> 3301:
+Query 818 -> 818:
+Inserting 25689
+Inserting 64546
+Query 23082 -> 23082:
+Inserting 42142
+Inserting 10842
+Inserting 99709
+Inserting 6042
+Inserting 10337
+Inserting 35438
+Inserting 17585
+Inserting 11060
+Inserting 27718
+Inserting 58719
+Inserting 94931
+Query 25741 -> 25741:
+Inserting 12493
+Query 42267 -> 42267:
+Query 4132 -> 4132:
+Inserting 65205
+Inserting 7590
+Inserting 13617
+Inserting 7563
+Inserting 41893
+Inserting 50743
+Inserting 55477
+Inserting 83067
+Inserting 2091
+Inserting 24285
+Inserting 73531
+Query 87398 -> 87398:
+Query 36074 -> 36074:
+Inserting 89841
+Query 40541 -> 40541:
+Query 57713 -> 57713:
+Inserting 59376
+Query 15960 -> 15960:
+Inserting 74020
+Inserting 97330
+Inserting 11041
+Inserting 60468
+Inserting 47816
+Inserting 6646
+Inserting 87763
+Query 52544 -> 52544:
+Inserting 5028
+Inserting 98906
+Inserting 2490
+Query 19538 -> 19538:
+Query 25210 -> 25210:
+Inserting 60894
+Inserting 3522
+Inserting 33580
+Query 48446 -> 48446:
+Inserting 67771
+Inserting 55148
+Query 38522 -> 38522:
+Inserting 17054
+Inserting 97
+Query 41630 -> 41630:
+Inserting 14183
+Inserting 5176
+Inserting 32629
+Inserting 55131
+Query 67085 -> 67085:
+Inserting 4354
+Inserting 80501
+Inserting 24003
+Inserting 76958
+Inserting 68473
+Inserting 42595
+Inserting 27111
+Inserting 56239
+Inserting 21322
+Inserting 59956
+Inserting 50029
+Inserting 68834
+Query 71697 -> 71697:
+Inserting 89848
+Inserting 9832
+Inserting 22160
+Inserting 92855
+Inserting 85919
+Inserting 29386
+Inserting 60984
+Inserting 50703
+Inserting 97985
+Inserting 67479
+Inserting 39043
+Inserting 63942
+Inserting 56927
+Inserting 12874
+Inserting 32428
+Query 12574 -> 12574:
+Inserting 23548
+Inserting 72694
+Inserting 36977
+Inserting 57872
+Inserting 60602
+Query 10035 -> 10035:
+Inserting 58517
+Inserting 3679
+Inserting 35991
+Inserting 6964
+Inserting 5745
+Inserting 21226
+Inserting 74751
+Inserting 73742
+Inserting 47657
+Inserting 5158
+Inserting 15757
+Inserting 64009
+Inserting 51355
+Inserting 9196
+Inserting 4301
+Query 69225 -> 69225:
+Inserting 82778
+Inserting 14862
+Inserting 54120
+Query 90570 -> 90570:
+Inserting 64133
+Inserting 93625
+Query 6548 -> 6548:
+Inserting 57087
+Inserting 84299
+Inserting 49238
+Inserting 17803
+Inserting 54380
+Inserting 60890
+Query 79670 -> 79670:
+Inserting 86892
+Inserting 33501
+Inserting 49426
+Inserting 14264
+Inserting 30826
+Inserting 83835
+Inserting 75065
+Inserting 32077
+Inserting 39835
+Inserting 28901
+Inserting 16105
+Inserting 74868
+Inserting 56663
+Inserting 68806
+Query 39547 -> 39547:
+Inserting 18051
+Inserting 77935
+Inserting 97669
+Inserting 94053
+Inserting 77409
+Query 66751 -> 66751:
+Inserting 16436
+Inserting 15902
+Inserting 78292
+Query 7525 -> 7525:
+Inserting 43426
+Inserting 93063
+Inserting 44138
+Inserting 15480
+Inserting 89829
+Inserting 84296
+Query 88700 -> 88700:
+Inserting 19836
+Inserting 96903
+Inserting 76964
+Inserting 63495
+Inserting 17199
+Inserting 74820
+Query 37410 -> 37410:
+Inserting 59580
+Inserting 60979
+Inserting 28213
+Inserting 12980
+Inserting 95656
+Inserting 94666
+Inserting 91346
+Inserting 73346
+Inserting 77839
+Query 29093 -> 29093:
+Inserting 73708
+Inserting 92360
+Inserting 22190
+Inserting 14603
+Query 41606 -> 41606:
+Inserting 58984
+Inserting 72961
+Inserting 3618
+Inserting 93394
+Inserting 2570
+Inserting 72333
+Inserting 77595
+Inserting 51209
+Query 37649 -> 37649:
+Inserting 86142
+Inserting 35082
+Inserting 98000
+Query 72921 -> 72921:
+Inserting 23993
+Inserting 12867
+Inserting 12844
+Inserting 77253
+Inserting 40229
+Inserting 37525
+Inserting 22492
+Inserting 31374
+Inserting 30628
+Inserting 7615
+Inserting 85112
+Query 75665 -> 75665:
+Inserting 22505
+Inserting 89276
+Inserting 89083
+Inserting 41302
+Inserting 65340
+Query 14862 -> 14862:
+Inserting 9207
+Inserting 7035
+Inserting 28914
+Inserting 72480
+Inserting 50641
+Inserting 52479
+Inserting 1463
+Inserting 65707
+Inserting 91249
+Inserting 85910
+Inserting 16957
+Inserting 87406
+Query 55673 -> 55673:
+Query 88064 -> 88064:
+Query 34370 -> 34370:
+Inserting 95214
+Inserting 36409
+Inserting 61317
+Query 34050 -> 34050:
+Inserting 55095
+Inserting 41978
+Query 57623 -> 57623:
+Inserting 62286
+Inserting 77725
+Inserting 90905
+Inserting 78139
+Query 82618 -> 82618:
+Query 81229 -> 81229:
+Query 59082 -> 59082:
+Inserting 64524
+Inserting 66860
+Inserting 3177
+Query 30736 -> 30736:
+Query 67924 -> 67924:
+Query 50412 -> 50412:
+Inserting 2741
+Inserting 65393
+Query 59550 -> 59550:
+Inserting 37746
+Inserting 30943
+Inserting 12566
+Inserting 75756
+Query 3177 -> 3177:
+Inserting 19449
+Query 17512 -> 17512:
+Inserting 12192
+Inserting 48509
+Inserting 56309
+Inserting 24983
+Inserting 7056
+Inserting 32510
+Query 99065 -> 99065:
+Inserting 45349
+Inserting 39513
+Query 73314 -> 73314:
+Inserting 4084
+Inserting 43129
+Inserting 98669
+Query 64469 -> 64469:
+Inserting 38770
+Inserting 84880
+Inserting 84344
+Inserting 46200
+Inserting 12495
+Inserting 850
+Inserting 24855
+Inserting 12527
+Inserting 82591
+Inserting 61077
+Inserting 45895
+Inserting 48590
+Inserting 81412
+Inserting 10419
+Query 60972 -> 60972:
+Inserting 3559
+Inserting 32995
+Query 33049 -> 33049:
+Inserting 41693
+Inserting 57240
+Inserting 82715
+Inserting 38314
+Inserting 9340
+Inserting 70501
+Query 57087 -> 57087:
+Inserting 97172
+Inserting 73595
+Inserting 22527
+Inserting 328
+Inserting 68945
+Query 26659 -> 26659:
+Inserting 72438
+Inserting 3244
+Inserting 4131
+Query 64664 -> 64664:
+Query 68940 -> 68940:
+Inserting 64474
+Inserting 97164
+Query 98221 -> 98221:
+Inserting 39376
+Inserting 83095
+Query 66225 -> 66225:
+Query 15768 -> 15768:
+Inserting 7912
+Inserting 47766
+Query 23674 -> 23674:
+Query 2939 -> 2939:
+Inserting 59577
+Inserting 42455
+Inserting 84745
+Inserting 23808
+Inserting 93102
+Inserting 13141
+Inserting 60987
+Inserting 5266
+Inserting 89614
+Inserting 16828
+Query 22818 -> 22818:
+Inserting 46423
+Inserting 49769
+Inserting 46489
+Inserting 86430
+Inserting 81043
+Query 53417 -> 53417:
+Inserting 48672
+Inserting 13297
+Inserting 32944
+Query 31883 -> 31883:
+Inserting 38305
+Query 66882 -> 66882:
+Inserting 23530
+Inserting 36522
+Inserting 31110
+Inserting 23802
+Inserting 57878
+Inserting 12113
+Inserting 39347
+Inserting 18569
+Query 95375 -> 95375:
+Inserting 15471
+Inserting 87859
+Inserting 65992
+Query 74607 -> 74607:
+Inserting 64575
+Query 39398 -> 39398:
+Inserting 26666
+Inserting 3305
+Inserting 48181
+Inserting 2177
+Inserting 39613
+Inserting 87646
+Inserting 55479
+Query 47348 -> 47348:
+Inserting 63017
+Query 3647 -> 3647:
+Inserting 85362
+Query 29980 -> 29980:
+Inserting 97233
+Inserting 55187
+Inserting 68803
+Query 85362 -> 85362:
+Inserting 81478
+Inserting 30182
+Query 83557 -> 83557:
+Inserting 2808
+Inserting 43602
+Inserting 83532
+Inserting 98900
+Query 71200 -> 71200:
+Inserting 94750
+Inserting 21886
+Inserting 71889
+Inserting 30319
+Query 49769 -> 49769:
+Inserting 3070
+Inserting 18357
+Inserting 30421
+Inserting 40551
+Inserting 25725
+Inserting 71547
+Inserting 65100
+Inserting 96392
+Inserting 26548
+Query 35209 -> 35209:
+Inserting 62226
+Inserting 16151
+Inserting 83790
+Inserting 33096
+Inserting 60018
+Inserting 67028
+Query 80207 -> 80207:
+Inserting 40802
+Inserting 91488
+Inserting 46870
+Query 61173 -> 61173:
+Inserting 99234
+Inserting 72532
+Query 28203 -> 28203:
+Inserting 49786
+Inserting 86887
+Inserting 95749
+Inserting 67025
+Inserting 72895
+Inserting 34185
+Inserting 29167
+Query 93063 -> 93063:
+Query 96428 -> 96428:
+Inserting 15369
+Query 82705 -> 82705:
+Inserting 34630
+Inserting 42404
+Inserting 66111
+Inserting 72067
+Inserting 41563
+Inserting 26945
+Inserting 25002
+Inserting 11960
+Query 12163 -> 12163:
+Inserting 85352
+Query 85881 -> 85881:
+Inserting 86477
+Inserting 16910
+Query 74183 -> 74183:
+Query 31604 -> 31604:
+Inserting 54269
+Inserting 89567
+Inserting 53705
+Inserting 9533
+Inserting 61952
+Inserting 44048
+Inserting 64141
+Query 73720 -> 73720:
+Inserting 62545
+Inserting 54789
+Inserting 89418
+Inserting 28856
+Inserting 45528
+Inserting 46763
+Inserting 44551
+Query 10053 -> 10053:
+Inserting 73037
+Query 60210 -> 60210:
+Inserting 66924
+Inserting 97865
+Inserting 9612
+Query 42070 -> 42070:
+Query 64715 -> 64715:
+Inserting 77822
+Inserting 54012
+Inserting 69852
+Inserting 799
+Inserting 96718
+Inserting 24389
+Inserting 3755
+Inserting 16295
+Inserting 73025
+Inserting 37061
+Inserting 56354
+Inserting 11923
+Inserting 45565
+Inserting 22558
+Inserting 17981
+Query 39376 -> 39376:
+Inserting 55513
+Inserting 41170
+Inserting 8056
+Inserting 29673
+Inserting 71029
+Inserting 69071
+Inserting 87512
+Inserting 69930
+Inserting 65992
+Inserting 17724
+Inserting 26906
+Inserting 46619
+Inserting 47453
+Inserting 65756
+Query 96 -> 96:
+Inserting 89950
+Query 7449 -> 7449:
+Inserting 738
+Inserting 89772
+Inserting 85550
+Inserting 45760
+Query 80258 -> 80258:
+Inserting 61952
+Inserting 43728
+Inserting 98169
+Inserting 72053
+Query 82474 -> 82474:
+Inserting 30845
+Inserting 49394
+Query 33671 -> 33671:
+Inserting 32935
+Inserting 4465
+Inserting 8585
+Query 20868 -> 20868:
+Inserting 14556
+Query 70486 -> 70486:
+Inserting 5006
+Inserting 18281
+Query 156 -> 156:
+Inserting 41942
+Inserting 673
+Query 16854 -> 16854:
+Inserting 21338
+Inserting 97079
+Query 62897 -> 62897:
+Query 29217 -> 29217:
+Query 9992 -> 9992:
+Inserting 46696
+Inserting 46650
+Inserting 91190
+Query 17247 -> 17247:
+Inserting 33093
+Inserting 59831
+Inserting 24854
+Query 11798 -> 11798:
+Inserting 75615
+Query 14381 -> 14381:
+Inserting 18029
+Inserting 63415
+Query 14220 -> 14220:
+Inserting 56034
+Inserting 57531
+Query 328 -> 328:
+Inserting 97406
+Query 73186 -> 73186:
+Inserting 75088
+Inserting 24603
+Query 20700 -> 20700:
+Inserting 52988
+Query 35055 -> 35055:
+Query 23082 -> 23082:
+Inserting 60627
+Inserting 93186
+Query 77293 -> 77293:
+Inserting 66369
+Inserting 55547
+Inserting 30170
+Inserting 38985
+Inserting 24576
+Inserting 26980
+Inserting 67503
+Inserting 98892
+Inserting 83884
+Inserting 39931
+Inserting 24725
+Inserting 25834
+Inserting 18747
+Inserting 28508
+Inserting 33351
+Query 31604 -> 31604:
+Inserting 27589
+Inserting 56984
+Inserting 60495
+Inserting 70414
+Inserting 75846
+Inserting 13749
+Inserting 13907
+Inserting 15862
+Inserting 47050
+Query 5903 -> 5903:
+Inserting 6973
+Inserting 7575
+Inserting 74487
+Query 8940 -> 8940:
+Inserting 13395
+Inserting 13329
+Inserting 81346
+Inserting 12818
+Inserting 53892
+Inserting 8220
+Inserting 20518
+Query 37627 -> 37627:
+Query 32161 -> 32161:
+Inserting 86519
+Inserting 5707
+Query 4105 -> 4105:
+Inserting 93372
+Inserting 54483
+Inserting 21232
+Inserting 43885
+Inserting 26735
+Inserting 56832
+Query 47681 -> 47681:
+Inserting 10537
+Inserting 82467
+Query 82962 -> 82962:
+Query 80196 -> 80196:
+Query 34146 -> 34146:
+Inserting 6885
+Inserting 57738
+Inserting 20035
+Inserting 71521
+Inserting 7475
+Query 17904 -> 17904:
+Query 84661 -> 84661:
+Inserting 94606
+Inserting 92787
+Inserting 88428
+Inserting 8747
+Inserting 25220
+Query 95330 -> 95330:
+Inserting 76822
+Inserting 48056
+Inserting 65156
+Inserting 6092
+Query 21886 -> 21886:
+Query 17941 -> 17941:
+Inserting 9652
+Inserting 16427
+Inserting 60534
+Inserting 13729
+Inserting 42864
+Inserting 81698
+Inserting 35507
+Query 27562 -> 27562:
+Inserting 77725
+Inserting 83121
+Query 76967 -> 76967:
+Query 48446 -> 48446:
+Inserting 16457
+Inserting 5908
+Inserting 88127
+Inserting 68175
+Query 3843 -> 3843:
+Inserting 18352
+Inserting 44280
+Query 53771 -> 53771:
+Inserting 97868
+Inserting 23611
+Inserting 728
+Inserting 30202
+Inserting 16496
+Inserting 47567
+Inserting 27909
+Inserting 20822
+Inserting 21066
+Inserting 38449
+Inserting 50041
+Inserting 90091
+Query 74040 -> 74040:
+Inserting 6506
+Inserting 53586
+Inserting 13653
+Inserting 73481
+Inserting 42950
+Inserting 91324
+Inserting 75450
+Inserting 14444
+Query 593 -> 593:
+Inserting 73380
+Inserting 39702
+Inserting 51532
+Inserting 62329
+Inserting 56566
+Inserting 8767
+Inserting 49409
+Inserting 81648
+Inserting 26115
+Inserting 69772
+Inserting 23951
+Inserting 52513
+Inserting 98862
+Inserting 67342
+Inserting 8172
+Inserting 62610
+Inserting 8297
+Inserting 33684
+Inserting 78604
+Query 96060 -> 96060:
+Inserting 99288
+Inserting 20836
+Query 43160 -> 43160:
+Query 43169 -> 43169:
+Inserting 85036
+Inserting 62376
+Inserting 94276
+Query 46245 -> 46245:
+Inserting 79664
+Query 48245 -> 48245:
+Inserting 86595
+Inserting 76685
+Inserting 37660
+Inserting 54206
+Query 61841 -> 61841:
+Query 90578 -> 90578:
+Inserting 30959
+Inserting 74736
+Inserting 31966
+Inserting 30715
+Inserting 35478
+Inserting 68190
+Inserting 45586
+Query 77538 -> 77538:
+Inserting 11194
+Inserting 29333
+Inserting 62754
+Inserting 17385
+Inserting 56944
+Query 90023 -> 90023:
+Inserting 29001
+Inserting 22222
+Inserting 62667
+Inserting 181
+Inserting 82664
+Inserting 30580
+Inserting 94119
+Inserting 58105
+Inserting 46979
+Inserting 99853
+Inserting 48387
+Inserting 96152
+Inserting 51221
+Inserting 98708
+Inserting 14482
+Inserting 82123
+Query 7590 -> 7590:
+Query 57360 -> 57360:
+Inserting 69177
+Inserting 22495
+Inserting 16054
+Inserting 22378
+Inserting 39342
+Inserting 16488
+Inserting 72946
+Query 94400 -> 94400:
+Inserting 33000
+Inserting 83501
+Inserting 90882
+Inserting 32476
+Inserting 15667
+Query 55282 -> 55282:
+Inserting 908
+Inserting 91564
+Inserting 45375
+Inserting 6142
+Inserting 89158
+Inserting 73231
+Query 1261 -> 1261:
+Inserting 58865
+Query 76451 -> 76451:
+Inserting 40846
+Query 76580 -> 76580:
+Inserting 62074
+Inserting 8046
+Inserting 46429
+Inserting 59459
+Inserting 48462
+Inserting 18278
+Inserting 25058
+Query 36999 -> 36999:
+Inserting 64853
+Inserting 33378
+Inserting 75183
+Inserting 72862
+Query 67365 -> 67365:
+Inserting 45248
+Query 9709 -> 9709:
+Query 88347 -> 88347:
+Inserting 77544
+Inserting 38360
+Inserting 12050
+Inserting 72712
+Inserting 38289
+Inserting 89908
+Inserting 98372
+Inserting 84156
+Inserting 16421
+Inserting 22585
+Query 75756 -> 75756:
+Inserting 48433
+Inserting 89191
+Inserting 95616
+Inserting 14143
+Inserting 21505
+Inserting 48865
+Inserting 69857
+Query 61938 -> 61938:
+Inserting 71991
+Query 55056 -> 55056:
+Query 25090 -> 25090:
+Inserting 23170
+Inserting 83334
+Inserting 15388
+Query 56239 -> 56239:
+Inserting 12119
+Inserting 52378
+Query 67753 -> 67753:
+Inserting 92022
+Inserting 48715
+Inserting 3878
+Inserting 67760
+Inserting 52487
+Inserting 74910
+Inserting 4035
+Inserting 2364
+Inserting 3744
+Inserting 72509
+Inserting 13943
+Inserting 14873
+Inserting 95293
+Inserting 44858
+Inserting 62555
+Inserting 7094
+Inserting 32267
+Inserting 68190
+Inserting 91760
+Inserting 58800
+Inserting 88882
+Inserting 21348
+Inserting 33400
+Query 18845 -> 18845:
+Inserting 1737
+Inserting 77352
+Query 42188 -> 42188:
+Inserting 64659
+Inserting 52549
+Inserting 67008
+Inserting 57390
+Inserting 23407
+Inserting 95455
+Inserting 81311
+Inserting 57373
+Inserting 3247
+Inserting 63787
+Inserting 9159
+Inserting 60182
+Inserting 80177
+Inserting 73430
+Inserting 66458
+Inserting 47363
+Inserting 36542
+Inserting 62991
+Inserting 87815
+Query 20638 -> 20638:
+Inserting 51216
+Query 52093 -> 52093:
+Inserting 18577
+Inserting 2449
+Inserting 36274
+Inserting 60690
+Inserting 9949
+Query 95522 -> 95522:
+Inserting 87044
+Inserting 58304
+Inserting 43532
+Inserting 80707
+Query 76745 -> 76745:
+Inserting 71729
+Inserting 63337
+Inserting 36317
+Inserting 91602
+Inserting 48898
+Inserting 57057
+Query 20478 -> 20478:
+Inserting 69018
+Inserting 94593
+Inserting 18603
+Inserting 19363
+Inserting 39559
+Inserting 15102
+Inserting 80755
+Query 23046 -> 23046:
+Inserting 56443
+Inserting 76590
+Inserting 89795
+Inserting 56853
+Query 40003 -> 40003:
+Inserting 14392
+Inserting 24242
+Inserting 31858
+Inserting 20186
+Inserting 25562
+Inserting 81374
+Inserting 94743
+Inserting 89544
+Inserting 38629
+Inserting 17698
+Inserting 81681
+Inserting 32351
+Inserting 32046
+Inserting 32128
+Inserting 39247
+Inserting 68472
+Inserting 24976
+Inserting 90984
+Inserting 4673
+Inserting 50414
+Inserting 11121
+Query 95214 -> 95214:
+Inserting 14666
+Query 44072 -> 44072:
+Inserting 507
+Inserting 16034
+Inserting 3910
+Inserting 48461
+Inserting 26411
+Query 27492 -> 27492:
+Inserting 51363
+Inserting 27236
+Inserting 6064
+Inserting 27626
+Inserting 31238
+Query 94139 -> 94139:
+Inserting 56436
+Inserting 82083
+Inserting 60641
+Inserting 72971
+Inserting 20971
+Inserting 23731
+Inserting 25172
+Inserting 2100
+Inserting 32030
+Inserting 77084
+Inserting 40871
+Inserting 99981
+Inserting 59896
+Inserting 90671
+Inserting 42165
+Inserting 64097
+Inserting 37158
+Inserting 88135
+Inserting 28106
+Inserting 70493
+Inserting 49899
+Inserting 1884
+Inserting 1218
+Inserting 8255
+Query 3309 -> 3309:
+Query 36334 -> 36334:
+Inserting 29464
+Inserting 12657
+Inserting 98265
+Query 25741 -> 25741:
+Inserting 11772
+Inserting 95749
+Inserting 22780
+Inserting 89520
+Inserting 38583
+Query 183 -> 183:
+Inserting 89487
+Inserting 10274
+Inserting 92924
+Inserting 8330
+Inserting 45132
+Inserting 79042
+Inserting 35390
+Inserting 83327
+Query 83895 -> 83895:
+Inserting 99465
+Query 32721 -> 32721:
+Inserting 65249
+Inserting 44903
+Inserting 48521
+Query 6556 -> 6556:
+Inserting 51316
+Inserting 70314
+Inserting 16294
+Inserting 97090
+Inserting 51938
+Inserting 60979
+Inserting 49257
+Inserting 25501
+Inserting 92497
+Inserting 66732
+Inserting 35971
+Inserting 46785
+Inserting 16546
+Inserting 53419
+Inserting 28352
+Query 9229 -> 9229:
+Inserting 7130
+Inserting 34755
+Inserting 50444
+Inserting 90016
+Inserting 817
+Inserting 80814
+Inserting 26156
+Inserting 97795
+Query 39076 -> 39076:
+Inserting 59329
+Inserting 38569
+Query 94825 -> 94825:
+Inserting 10899
+Inserting 2526
+Query 74370 -> 74370:
+Query 7590 -> 7590:
+Inserting 60987
+Query 35227 -> 35227:
+Query 37852 -> 37852:
+Inserting 37018
+Inserting 78128
+Inserting 58391
+Inserting 87382
+Inserting 32868
+Query 88381 -> 88381:
+Query 99519 -> 99519:
+Inserting 33439
+Inserting 17157
+Inserting 37046
+Query 62208 -> 62208:
+Inserting 71260
+Inserting 20411
+Inserting 44341
+Inserting 52568
+Inserting 61114
+Inserting 58035
+Inserting 50843
+Inserting 28434
+Inserting 38369
+Inserting 28288
+Inserting 84347
+Inserting 36757
+Inserting 17016
+Inserting 30219
+Inserting 37797
+Inserting 17839
+Query 91086 -> 91086:
+Query 47657 -> 47657:
+Inserting 97911
+Inserting 22834
+Inserting 27956
+Inserting 80986
+Inserting 11411
+Query 75464 -> 75464:
+Inserting 37935
+Inserting 83384
+Inserting 58332
+Inserting 10998
+Inserting 27595
+Inserting 46032
+Inserting 47057
+Inserting 41621
+Inserting 25672
+Inserting 15309
+Inserting 89022
+Inserting 7811
+Inserting 49659
+Inserting 34650
+Inserting 7893
+Query 34650 -> 34650:
+Query 40468 -> 40468:
+Inserting 53477
+Inserting 47400
+Query 13505 -> 13505:
+Inserting 25430
+Inserting 22659
+Query 56700 -> 56700:
+Inserting 25219
+Inserting 35420
+Inserting 67174
+Inserting 2182
+Inserting 84445
+Query 72971 -> 72971:
+Inserting 41322
+Inserting 72817
+Inserting 74849
+Inserting 58497
+Inserting 40329
+Query 56018 -> 56018:
+Inserting 35050
+Inserting 62064
+Inserting 6179
+Inserting 95752
+Inserting 42153
+Inserting 46138
+Inserting 3566
+Inserting 24979
+Inserting 75018
+Query 29011 -> 29011:
+Query 75156 -> 75156:
+Inserting 41192
+Query 24225 -> 24225:
+Inserting 56966
+Inserting 20967
+Inserting 15559
+Inserting 13795
+Query 70141 -> 70141:
+Inserting 84828
+Inserting 15065
+Inserting 45171
+Inserting 1140
+Inserting 52414
+Inserting 86186
+Inserting 98113
+Inserting 25871
+Inserting 84540
+Inserting 89058
+Inserting 6706
+Query 40595 -> 40595:
+Query 30765 -> 30765:
+Inserting 58172
+Query 45795 -> 45795:
+Inserting 84385
+Inserting 60019
+Inserting 98708
+Inserting 26821
+Inserting 65454
+Inserting 44214
+Inserting 3667
+Inserting 12447
+Query 60627 -> 60627:
+Inserting 80489
+Inserting 39713
+Query 7615 -> 7615:
+Inserting 85963
+Inserting 59637
+Inserting 33085
+Inserting 27921
+Inserting 17518
+Inserting 6973
+Inserting 18464
+Query 74472 -> 74472:
+Inserting 30431
+Inserting 20570
+Query 49394 -> 49394:
+Inserting 13011
+Inserting 31558
+Inserting 26638
+Inserting 30451
+Inserting 54870
+Inserting 99731
+Query 76586 -> 76586:
+Query 1889 -> 1889:
+Query 30578 -> 30578:
+Inserting 52494
+Query 60232 -> 60232:
+Inserting 52965
+Inserting 86305
+Inserting 6630
+Inserting 13047
+Inserting 14884
+Inserting 51814
+Query 14613 -> 14613:
+Inserting 53628
+Inserting 3705
+Inserting 21972
+Inserting 32714
+Inserting 63314
+Inserting 69520
+Inserting 22605
+Inserting 96715
+Query 41697 -> 41697:
+Inserting 8395
+Inserting 48212
+Inserting 40481
+Inserting 58804
+Query 28770 -> 28770:
+Query 59061 -> 59061:
+Inserting 15797
+Inserting 98021
+Inserting 6003
+Query 59075 -> 59075:
+Inserting 85279
+Inserting 29621
+Inserting 53382
+Query 10302 -> 10302:
+Query 32932 -> 32932:
+Inserting 51370
+Query 60887 -> 60887:
+Inserting 6618
+Query 51723 -> 51723:
+Query 86112 -> 86112:
+Inserting 4953
+Inserting 67317
+Inserting 57867
+Inserting 37902
+Query 99074 -> 99074:
+Inserting 23029
+Inserting 81717
+Inserting 46429
+Inserting 50565
+Inserting 55010
+Query 65857 -> 65857:
+Inserting 37527
+Inserting 51334
+Inserting 56793
+Query 11339 -> 11339:
+Query 70456 -> 70456:
+Inserting 49060
+Inserting 52627
+Query 27935 -> 27935:
+Inserting 42014
+Inserting 1350
+Query 19151 -> 19151:
+Inserting 68211
+Inserting 39387
+Inserting 61414
+Inserting 93338
+Inserting 36150
+Inserting 45746
+Inserting 10118
+Inserting 99728
+Inserting 40592
+Inserting 73227
+Inserting 57083
+Inserting 23310
+Query 22558 -> 22558:
+Inserting 1377
+Inserting 97041
+Inserting 84453
+Inserting 52924
+Inserting 21631
+Inserting 10987
+Inserting 95568
+Inserting 2750
+Query 12311 -> 12311:
+Query 97920 -> 97920:
+Inserting 61987
+Inserting 48188
+Inserting 74376
+Query 65756 -> 65756:
+Inserting 56355
+Inserting 62645
+Inserting 46159
+Query 72985 -> 72985:
+Inserting 39972
+Inserting 78729
+Inserting 11169
+Inserting 68957
+Inserting 74194
+Inserting 43278
+Inserting 13722
+Inserting 97086
+Inserting 55734
+Inserting 12691
+Inserting 33891
+Inserting 31496
+Query 54742 -> 54742:
+Inserting 3861
+Inserting 33958
+Inserting 98053
+Inserting 5827
+Inserting 48847
+Query 23794 -> 23794:
+Inserting 77987
+Inserting 86933
+Query 88029 -> 88029:
+Inserting 11992
+Inserting 30980
+Query 17054 -> 17054:
+Query 9212 -> 9212:
+Inserting 527
+Query 19783 -> 19783:
+Inserting 43760
+Inserting 42687
+Inserting 43477
+Inserting 75118
+Query 4301 -> 4301:
+Inserting 4260
+Inserting 98144
+Inserting 45715
+Inserting 11111
+Query 13453 -> 13453:
+Query 8196 -> 8196:
+Inserting 55481
+Inserting 10000
+Inserting 67763
+Inserting 84484
+Inserting 57644
+Inserting 21129
+Query 83129 -> 83129:
+Inserting 56436
+Inserting 82839
+Inserting 30483
+Inserting 23944
+Inserting 45659
+Query 97911 -> 97911:
+Inserting 74128
+Inserting 58983
+Query 10987 -> 10987:
+Inserting 55660
+Inserting 48661
+Inserting 88244
+Inserting 91175
+Inserting 90630
+Inserting 18531
+Inserting 28031
+Inserting 49688
+Inserting 49754
+Inserting 19886
+Inserting 85154
+Query 29748 -> 29748:
+Inserting 38277
+Inserting 86001
+Inserting 34437
+Inserting 70068
+Query 69711 -> 69711:
+Inserting 1255
+Inserting 14506
+Inserting 97783
+Inserting 58238
+Query 80599 -> 80599:
+Inserting 92533
+Inserting 86290
+Query 82705 -> 82705:
+Query 21651 -> 21651:
+Inserting 80715
+Inserting 14925
+Inserting 47780
+Inserting 64168
+Inserting 90271
+Query 98053 -> 98053:
+Inserting 98535
+Inserting 44891
+Inserting 97287
+Inserting 82400
+Query 673 -> 673:
+Inserting 58613
+Inserting 65852
+Inserting 57977
+Inserting 97441
+Inserting 44191
+Inserting 1600
+Inserting 30646
+Inserting 61190
+Inserting 51838
+Inserting 11193
+Query 51355 -> 51355:
+Inserting 80256
+Inserting 10473
+Inserting 5309
+Query 13160 -> 13160:
+Inserting 29656
+Query 9212 -> 9212:
+Inserting 20946
+Inserting 93166
+Inserting 32106
+Inserting 9319
+Inserting 13452
+Inserting 94968
+Inserting 16220
+Query 60987 -> 60987:
+Inserting 16775
+Query 31399 -> 31399:
+Inserting 96725
+Inserting 66441
+Inserting 69638
+Inserting 56326
+Inserting 90033
+Query 52568 -> 52568:
+Inserting 61654
+Query 17163 -> 17163:
+Query 22237 -> 22237:
+Inserting 55575
+Inserting 49750
+Inserting 62708
+Inserting 55063
+Inserting 62645
+Inserting 73557
+Inserting 97286
+Inserting 26202
+Inserting 2859
+Query 21247 -> 21247:
+Inserting 72277
+Inserting 48699
+Inserting 39899
+Inserting 28496
+Inserting 16988
+Inserting 37129
+Inserting 41745
+Query 86952 -> 86952:
+Inserting 5708
+Inserting 91926
+Inserting 44386
+Query 438 -> 438:
+Inserting 3092
+Inserting 52217
+Inserting 99392
+Inserting 87499
+Query 12311 -> 12311:
+Inserting 97307
+Inserting 5558
+Inserting 69699
+Query 10302 -> 10302:
+Inserting 25720
+Inserting 2350
+Query 60182 -> 60182:
+Inserting 46761
+Inserting 3838
+Query 2421 -> 2421:
+Inserting 42198
+Inserting 4102
+Inserting 46297
+Query 3621 -> 3621:
+Inserting 55384
+Inserting 99760
+Query 87940 -> 87940:
+Inserting 77858
+Inserting 9250
+Inserting 49062
+Inserting 21837
+Inserting 97043
+Inserting 68047
+Query 47657 -> 47657:
+Inserting 28365
+Query 12701 -> 12701:
+Inserting 47219
+Query 8253 -> 8253:
+Inserting 53523
+Inserting 11786
+Inserting 41065
+Inserting 42606
+Query 29335 -> 29335:
+Inserting 94725
+Inserting 98932
+Query 88882 -> 88882:
+Query 30392 -> 30392:
+Inserting 61400
+Inserting 94687
+Inserting 54770
+Inserting 58321
+Inserting 48374
+Inserting 31166
+Query 70033 -> 70033:
+Inserting 78010
+Query 45735 -> 45735:
+Inserting 66232
+Inserting 72424
+Inserting 99793
+Query 12337 -> 12337:
+Query 84130 -> 84130:
+Query 16151 -> 16151:
+Inserting 92231
+Inserting 79783
+Query 55464 -> 55464:
+Inserting 43524
+Inserting 39992
+Query 30465 -> 30465:
+Inserting 10979
+Inserting 36958
+Inserting 29004
+Inserting 69157
+Query 333 -> 333:
+Inserting 46990
+Query 77398 -> 77398:
+Inserting 35710
+Inserting 69506
+Inserting 41705
+Inserting 65479
+Inserting 79619
+Inserting 19310
+Query 96427 -> 96427:
+Query 87751 -> 87751:
+Inserting 39767
+Inserting 79918
+Inserting 46972
+Query 9652 -> 9652:
+Query 18661 -> 18661:
+Inserting 49893
+Query 28597 -> 28597:
+Inserting 29219
+Inserting 19456
+Inserting 69745
+Inserting 43442
+Inserting 46563
+Inserting 21398
+Query 66786 -> 66786:
+Inserting 21898
+Inserting 21779
+Inserting 44774
+Query 33175 -> 33175:
+Inserting 93749
+Inserting 78281
+Query 14381 -> 14381:
+Query 47583 -> 47583:
+Inserting 4092
+Query 68175 -> 68175:
+Query 21468 -> 21468:
+Query 39089 -> 39089:
+Inserting 15721
+Inserting 33041
+Inserting 94786
+Query 68988 -> 68988:
+Inserting 70634
+Inserting 51895
+Inserting 25913
+Inserting 40399
+Inserting 69254
+Query 95293 -> 95293:
+Query 65903 -> 65903:
+Inserting 5061
+Inserting 67197
+Inserting 9633
+Inserting 50262
+Inserting 31517
+Query 55213 -> 55213:
+Inserting 46759
+Inserting 61177
+Inserting 67906
+Inserting 61845
+Inserting 45584
+Inserting 9487
+Query 44280 -> 44280:
+Inserting 3023
+Inserting 83400
+Inserting 58708
+Inserting 36868
+Inserting 62440
+Query 12211 -> 12211:
+Query 46676 -> 46676:
+Inserting 78416
+Inserting 5610
+Inserting 53898
+Inserting 84078
+Inserting 6018
+Inserting 72716
+Inserting 76450
+Query 30421 -> 30421:
+Inserting 82260
+Inserting 96414
+Inserting 99035
+Inserting 48288
+Inserting 24684
+Inserting 67085
+Inserting 56538
+Inserting 10853
+Inserting 93707
+Query 94606 -> 94606:
+Inserting 98156
+Inserting 34675
+Inserting 86192
+Inserting 65867
+Inserting 16669
+Inserting 29150
+Inserting 97565
+Inserting 80089
+Query 29673 -> 29673:
+Inserting 18823
+Inserting 58350
+Inserting 9444
+Inserting 18704
+Inserting 67039
+Query 11177 -> 11177:
+Inserting 72515
+Query 68171 -> 68171:
+Inserting 71390
+Inserting 72660
+Inserting 60463
+Query 16565 -> 16565:
+Inserting 48905
+Query 83506 -> 83506:
+Inserting 29717
+Inserting 1749
+Query 15323 -> 15323:
+Query 44811 -> 44811:
+Inserting 31036
+Inserting 50449
+Query 73168 -> 73168:
+Inserting 69591
+Inserting 50876
+Inserting 65557
+Inserting 48691
+Inserting 27620
+Inserting 90911
+Query 67851 -> 67851:
+Inserting 74350
+Inserting 26897
+Query 46768 -> 46768:
+Query 80180 -> 80180:
+Query 50941 -> 50941:
+Inserting 69046
+Inserting 5493
+Inserting 67391
+Inserting 1789
+Inserting 80661
+Inserting 31846
+Inserting 82976
+Query 21027 -> 21027:
+Query 39066 -> 39066:
+Inserting 66356
+Inserting 19538
+Inserting 97757
+Inserting 88264
+Inserting 78763
+Inserting 88002
+Inserting 57531
+Inserting 43171
+Inserting 63658
+Inserting 19428
+Inserting 41992
+Query 45083 -> 45083:
+Inserting 71523
+Inserting 55457
+Query 32629 -> 32629:
+Inserting 19086
+Query 25927 -> 25927:
+Inserting 71813
+Inserting 71137
+Inserting 33830
+Inserting 63552
+Inserting 68111
+Inserting 91255
+Inserting 95210
+Inserting 10307
+Inserting 9537
+Query 58809 -> 58809:
+Query 17104 -> 17104:
+Inserting 24868
+Inserting 76117
+Inserting 99460
+Inserting 66981
+Inserting 7271
+Query 69134 -> 69134:
+Query 91472 -> 91472:
+Inserting 35297
+Inserting 99478
+Inserting 18889
+Inserting 9254
+Inserting 75200
+Inserting 45184
+Inserting 35073
+Inserting 5418
+Query 34977 -> 34977:
+Inserting 34204
+Query 53542 -> 53542:
+Inserting 54919
+Query 16616 -> 16616:
+Inserting 7469
+Query 39082 -> 39082:
+Inserting 52845
+Inserting 78874
+Inserting 20633
+Inserting 74541
+Inserting 72335
+Inserting 60988
+Inserting 2126
+Inserting 30125
+Inserting 87439
+Inserting 29915
+Inserting 92755
+Inserting 31188
+Inserting 31507
+Inserting 9197
+Inserting 89195
+Inserting 78876
+Inserting 72541
+Inserting 11373
+Inserting 49652
+Query 29731 -> 29731:
+Inserting 25220
+Inserting 12419
+Inserting 66095
+Query 82178 -> 82178:
+Inserting 26321
+Inserting 4653
+Query 72891 -> 72891:
+Query 36868 -> 36868:
+Inserting 99718
+Query 59082 -> 59082:
+Inserting 73421
+Inserting 60227
+Inserting 2397
+Inserting 30875
+Inserting 7850
+Inserting 25083
+Inserting 50561
+Inserting 2042
+Inserting 97050
+Inserting 23109
+Inserting 34130
+Query 46763 -> 46763:
+Query 47232 -> 47232:
+Inserting 28500
+Inserting 37743
+Query 5231 -> 5231:
+Inserting 54343
+Inserting 76194
+Query 85279 -> 85279:
+Inserting 15986
+Inserting 53715
+Inserting 78956
+Inserting 45414
+Inserting 98348
+Inserting 64013
+Query 63140 -> 63140:
+Inserting 45474
+Inserting 52195
+Inserting 76875
+Query 35183 -> 35183:
+Inserting 45848
+Inserting 37379
+Inserting 58894
+Inserting 29190
+Inserting 55051
+Query 94465 -> 94465:
+Query 77023 -> 77023:
+Inserting 68363
+Inserting 95377
+Query 22334 -> 22334:
+Query 34635 -> 34635:
+Inserting 47
+Inserting 58642
+Inserting 80749
+Inserting 31152
+Inserting 27992
+Query 16294 -> 16294:
+Inserting 44583
+Inserting 76959
+Query 39082 -> 39082:
+Inserting 9994
+Inserting 55286
+Inserting 77407
+Inserting 41408
+Query 61190 -> 61190:
+Inserting 12128
+Inserting 29991
+Inserting 38651
+Inserting 46704
+Query 17163 -> 17163:
+Inserting 57280
+Inserting 77302
+Inserting 79089
+Inserting 81859
+Inserting 1508
+Query 96718 -> 96718:
+Inserting 91923
+Inserting 14733
+Inserting 16114
+Inserting 88697
+Inserting 67230
+Inserting 79743
+Inserting 12386
+Inserting 70583
+Inserting 57571
+Inserting 22969
+Inserting 78649
+Inserting 55377
+Inserting 65303
+Inserting 72869
+Query 52781 -> 52781:
+Inserting 95827
+Inserting 10737
+Inserting 49539
+Query 89022 -> 89022:
+Inserting 95209
+Inserting 80054
+Inserting 57370
+Query 17054 -> 17054:
+Query 33222 -> 33222:
+Query 38569 -> 38569:
+Inserting 76313
+Inserting 24661
+Query 65393 -> 65393:
+Inserting 66916
+Inserting 10062
+Query 29066 -> 29066:
+Inserting 71162
+Inserting 41358
+Query 74370 -> 74370:
+Inserting 49524
+Inserting 13676
+Query 47348 -> 47348:
+Inserting 13280
+Query 75862 -> 75862:
+Inserting 81525
+Inserting 45668
+Inserting 78337
+Inserting 61157
+Query 46884 -> 46884:
+Inserting 67267
+Query 63140 -> 63140:
+Query 21508 -> 21508:
+Inserting 5443
+Inserting 9111
+Inserting 86838
+Inserting 41168
+Query 41087 -> 41087:
+Query 42915 -> 42915:
+Inserting 14150
+Inserting 64590
+Inserting 90267
+Inserting 83972
+Query 56144 -> 56144:
+Inserting 61329
+Inserting 50387
+Query 62034 -> 62034:
+Inserting 14441
+Inserting 14551
+Inserting 42028
+Inserting 15711
+Query 16920 -> 16920:
+Inserting 75880
+Inserting 58832
+Inserting 68401
+Inserting 64817
+Inserting 79196
+Inserting 27221
+Inserting 8155
+Inserting 63163
+Inserting 41855
+Inserting 1063
+Inserting 30144
+Inserting 32522
+Inserting 81122
+Inserting 32840
+Inserting 60453
+Query 70068 -> 70068:
+Inserting 80679
+Inserting 76196
+Query 22325 -> 22325:
+Inserting 35210
+Query 46429 -> 46429:
+Inserting 82993
+Query 36961 -> 36961:
+Inserting 85102
+Inserting 94491
+Inserting 53375
+Query 21898 -> 21898:
+Inserting 41462
+Inserting 75968
+Inserting 38860
+Inserting 50330
+Inserting 59834
+Query 63686 -> 63686:
+Inserting 76191
+Inserting 69139
+Inserting 861
+Inserting 55371
+Query 28080 -> 28080:
+Query 328 -> 328:
+Query 30812 -> 30812:
+Inserting 83497
+Inserting 66148
+Inserting 19706
+Inserting 3248
+Inserting 1983
+Inserting 26366
+Query 29269 -> 29269:
+Inserting 18265
+Inserting 31874
+Query 76690 -> 76690:
+Inserting 5494
+Inserting 18614
+Inserting 64582
+Inserting 57840
+Inserting 7482
+Inserting 56567
+Inserting 52865
+Query 2043 -> 2043:
+Query 44148 -> 44148:
+Inserting 42864
+Inserting 2145
+Inserting 27084
+Inserting 39135
+Inserting 42427
+Inserting 72283
+Inserting 80851
+Inserting 8135
+Query 16483 -> 16483:
+Inserting 55260
+Inserting 51003
+Inserting 34309
+Inserting 79436
+Inserting 7813
+Query 64659 -> 64659:
+Inserting 73823
+Inserting 38354
+Inserting 10868
+Inserting 24766
+Inserting 45251
+Query 80814 -> 80814:
+Inserting 77623
+Inserting 75279
+Query 23600 -> 23600:
+Query 34865 -> 34865:
+Inserting 20056
+Inserting 82668
+Inserting 82969
+Query 52093 -> 52093:
+Inserting 38144
+Inserting 24660
+Inserting 87070
+Inserting 3527
+Inserting 12781
+Inserting 62318
+Inserting 30730
+Inserting 84446
+Inserting 23937
+Inserting 50277
+Inserting 10007
+Inserting 11955
+Inserting 54950
+Inserting 33973
+Inserting 27602
+Inserting 20690
+Query 46346 -> 46346:
+Inserting 57914
+Query 57462 -> 57462:
+Inserting 78225
+Inserting 75787
+Inserting 70646
+Inserting 72636
+Query 53287 -> 53287:
+Query 64939 -> 64939:
+Inserting 59069
+Inserting 15329
+Inserting 627
+Query 30693 -> 30693:
+Inserting 19984
+Query 12036 -> 12036:
+Inserting 65240
+Inserting 1080
+Inserting 87996
+Inserting 44575
+Inserting 96395
+Query 52514 -> 52514:
+Inserting 6529
+Inserting 43276
+Inserting 89441
+Inserting 90626
+Inserting 51709
+Query 6682 -> 6682:
+Inserting 24447
+Inserting 8885
+Inserting 66718
+Inserting 39760
+Inserting 90982
+Inserting 56984
+Inserting 3521
+Inserting 42931
+Query 76365 -> 76365:
+Inserting 71600
+Inserting 78636
+Inserting 94701
+Inserting 28844
+Inserting 33086
+Inserting 22484
+Query 44212 -> 44212:
+Query 46912 -> 46912:
+Inserting 84718
+Inserting 99191
+Inserting 18269
+Query 12061 -> 12061:
+Inserting 38304
+Inserting 66221
+Inserting 4856
+Inserting 20701
+Inserting 5801
+Inserting 76658
+Query 37266 -> 37266:
+Inserting 64382
+Inserting 28717
+Inserting 90434
+Query 94248 -> 94248:
+Inserting 9597
+Inserting 8801
+Query 73314 -> 73314:
+Inserting 73194
+Inserting 52504
+Inserting 26589
+Inserting 13922
+Inserting 3603
+Query 21429 -> 21429:
+Inserting 30126
+Query 97820 -> 97820:
+Inserting 43737
+Query 2042 -> 2042:
+Inserting 52462
+Inserting 10945
+Inserting 96386
+Inserting 96528
+Inserting 61410
+Inserting 86266
+Inserting 45673
+Inserting 37073
+Query 93750 -> 93750:
+Inserting 16459
+Inserting 96065
+Inserting 61560
+Inserting 72409
+Inserting 14351
+Query 24941 -> 24941:
+Inserting 47337
+Inserting 20421
+Inserting 57668
+Inserting 65169
+Inserting 90071
+Inserting 36247
+Query 46200 -> 46200:
+Inserting 79958
+Inserting 94474
+Query 60468 -> 60468:
+Inserting 24897
+Inserting 86789
+Query 11122 -> 11122:
+Inserting 20165
+Inserting 96188
+Query 41697 -> 41697:
+Inserting 66779
+Inserting 55040
+Inserting 6014
+Inserting 59230
+Inserting 27563
+Inserting 86516
+Query 60587 -> 60587:
+Inserting 58086
+Inserting 88734
+Query 58267 -> 58267:
+Inserting 10822
+Inserting 82932
+Query 89487 -> 89487:
+Inserting 46426
+Inserting 94280
+Inserting 51472
+Inserting 93723
+Inserting 29160
+Inserting 18521
+Inserting 68779
+Inserting 41169
+Inserting 5532
+Inserting 82307
+Inserting 67626
+Inserting 35746
+Inserting 24668
+Inserting 7470
+Inserting 47700
+Inserting 91450
+Query 86296 -> 86296:
+Inserting 13276
+Inserting 67131
+Inserting 17577
+Inserting 58531
+Inserting 33869
+Query 93726 -> 93726:
+Inserting 17167
+Inserting 61887
+Query 85281 -> 85281:
+Inserting 17557
+Inserting 28164
+Inserting 19235
+Query 59577 -> 59577:
+Inserting 10145
+Inserting 34554
+Inserting 85542
+Query 76194 -> 76194:
+Inserting 87911
+Inserting 61665
+Inserting 44803
+Inserting 16387
+Inserting 18412
+Inserting 97626
+Inserting 19599
+Inserting 31352
+Inserting 65545
+Query 27602 -> 27602:
+Inserting 4868
+Query 11923 -> 11923:
+Inserting 36670
+Query 10927 -> 10927:
+Inserting 70805
+Query 66175 -> 66175:
+Inserting 35325
+Inserting 87318
+Inserting 11247
+Inserting 75503
+Query 49436 -> 49436:
+Inserting 87873
+Inserting 7089
+Inserting 38982
+Inserting 75580
+Inserting 10105
+Inserting 16841
+Inserting 66427
+Inserting 9605
+Query 22190 -> 22190:
+Inserting 55671
+Inserting 66065
+Query 92093 -> 92093:
+Inserting 51013
+Inserting 71851
+Inserting 92952
+Inserting 47001
+Inserting 75348
+Query 21577 -> 21577:
+Inserting 23638
+Query 45922 -> 45922:
+Inserting 38399
+Query 8207 -> 8207:
+Inserting 26712
+Inserting 31399
+Inserting 54580
+Inserting 34769
+Inserting 10892
+Inserting 37065
+Query 29285 -> 29285:
+Inserting 17694
+Inserting 33862
+Query 60979 -> 60979:
+Query 7237 -> 7237:
+Inserting 40875
+Inserting 28236
+Inserting 98500
+Inserting 11936
+Inserting 37492
+Inserting 74813
+Query 44917 -> 44917:
+Inserting 93071
+Inserting 52295
+Query 45375 -> 45375:
+Inserting 80275
+Inserting 95632
+Inserting 24307
+Inserting 50206
+Inserting 92147
+Query 61987 -> 61987:
+Query 10473 -> 10473:
+Inserting 92136
+Inserting 8562
+Inserting 52619
+Inserting 58501
+Inserting 88647
+Inserting 60139
+Inserting 16919
+Inserting 96138
+Inserting 53789
+Inserting 25683
+Inserting 6699
+Inserting 84602
+Inserting 85918
+Inserting 95003
+Inserting 66764
+Inserting 92110
+Inserting 68712
+Inserting 60495
+Inserting 15156
+Query 94931 -> 94931:
+Inserting 55648
+Inserting 89153
+Query 86901 -> 86901:
+Inserting 22409
+Inserting 88075
+Query 16957 -> 16957:
+Inserting 72919
+Inserting 97707
+Inserting 6754
+Inserting 68428
+Inserting 56819
+Inserting 10140
+Inserting 34885
+Inserting 11742
+Query 8419 -> 8419:
+Query 16377 -> 16377:
+Inserting 60726
+Inserting 65753
+Inserting 85074
+Inserting 94142
+Inserting 81447
+Inserting 16759
+Inserting 54777
+Inserting 60581
+Inserting 78785
+Inserting 72456
+Query 56886 -> 56886:
+Inserting 41363
+Inserting 65672
+Inserting 38052
+Query 32476 -> 32476:
+Inserting 69285
+Inserting 40312
+Inserting 87341
+Inserting 17070
+Query 51740 -> 51740:
+Inserting 64323
+Inserting 26068
+Inserting 39404
+Inserting 89477
+Inserting 63520
+Query 48245 -> 48245:
+Inserting 2623
+Query 20581 -> 20581:
+Inserting 76292
+Inserting 47201
+Inserting 71023
+Inserting 56205
+Inserting 26068
+Inserting 71927
+Inserting 32134
+Inserting 69011
+Inserting 87542
+Inserting 1712
+Inserting 73132
+Inserting 50459
+Query 728 -> 728:
+Inserting 44380
+Inserting 17480
+Inserting 49469
+Query 70719 -> 70719:
+Inserting 69421
+Inserting 35065
+Inserting 50711
+Inserting 8619
+Inserting 72045
+Inserting 54301
+Inserting 62427
+Inserting 39341
+Query 31117 -> 31117:
+Inserting 26451
+Query 88693 -> 88693:
+Inserting 3768
+Inserting 32903
+Inserting 82043
+Inserting 56965
+Inserting 86258
+Inserting 26534
+Inserting 44776
+Inserting 24795
+Query 37523 -> 37523:
+Inserting 90323
+Inserting 70569
+Query 7720 -> 7720:
+Inserting 85414
+Query 20945 -> 20945:
+Inserting 83822
+Query 43426 -> 43426:
+Inserting 62273
+Query 15309 -> 15309:
+Inserting 91733
+Inserting 64274
+Inserting 90403
+Inserting 12336
+Inserting 61734
+Query 61185 -> 61185:
+Query 37570 -> 37570:
+Inserting 13188
+Inserting 6992
+Inserting 80454
+Inserting 77809
+Inserting 34170
+Inserting 44946
+Inserting 35148
+Inserting 24770
+Inserting 89965
+Inserting 59192
+Inserting 39880
+Inserting 81576
+Inserting 97609
+Inserting 8246
+Inserting 65113
+Inserting 92973
+Inserting 63034
+Inserting 39624
+Inserting 65013
+Inserting 17288
+Query 81346 -> 81346:
+Inserting 17250
+Inserting 69523
+Inserting 9926
+Inserting 85103
+Query 3336 -> 3336:
+Inserting 4683
+Inserting 42949
+Inserting 82400
+Inserting 37062
+Inserting 59502
+Query 11804 -> 11804:
+Query 77077 -> 77077:
+Query 25210 -> 25210:
+Inserting 5656
+Query 78636 -> 78636:
+Inserting 75135
+Inserting 74998
+Query 25741 -> 25741:
+Inserting 22415
+Query 412 -> 412:
+Inserting 38882
+Inserting 2229
+Inserting 37587
+Inserting 12361
+Inserting 95069
+Inserting 16085
+Inserting 50430
+Inserting 81152
+Query 70414 -> 70414:
+Inserting 58219
+Inserting 18990
+Inserting 86304
+Inserting 81141
+Inserting 14536
+Inserting 74074
+Inserting 96709
+Inserting 32459
+Inserting 69388
+Inserting 46856
+Inserting 24013
+Inserting 6733
+Inserting 69925
+Inserting 42789
+Inserting 35108
+Inserting 70883
+Inserting 4653
+Inserting 99819
+Inserting 67254
+Inserting 19521
+Inserting 53598
+Inserting 36867
+Inserting 88337
+Inserting 40258
+Inserting 12856
+Inserting 76818
+Inserting 65955
+Inserting 54446
+Inserting 50416
+Inserting 84485
+Inserting 88737
+Inserting 48177
+Inserting 17165
+Inserting 28199
+Inserting 4096
+Inserting 62033
+Query 13265 -> 13265:
+Query 68806 -> 68806:
+Inserting 98365
+Query 98259 -> 98259:
+Inserting 52476
+Inserting 93314
+Inserting 75083
+Inserting 61353
+Inserting 52776
+Inserting 93403
+Inserting 20255
+Inserting 95002
+Inserting 99820
+Query 94053 -> 94053:
+Inserting 77477
+Inserting 38268
+Inserting 82438
+Inserting 28078
+Query 60712 -> 60712:
+Inserting 33229
+Query 10274 -> 10274:
+Inserting 9342
+Query 83884 -> 83884:
+Inserting 40443
+Inserting 86531
+Inserting 70431
+Query 30904 -> 30904:
+Inserting 38488
+Inserting 3777
+Inserting 93064
+Inserting 6716
+Inserting 61147
+Inserting 59484
+Query 78817 -> 78817:
+Inserting 31104
+Query 61329 -> 61329:
+Inserting 25053
+Inserting 45410
+Inserting 61142
+Inserting 36665
+Inserting 42200
+Inserting 1519
+Query 31605 -> 31605:
+Inserting 45957
+Inserting 37303
+Query 20190 -> 20190:
+Query 63335 -> 63335:
+Inserting 33224
+Inserting 96736
+Inserting 4753
+Inserting 52768
+Inserting 15573
+Inserting 46554
+Inserting 32373
+Inserting 59973
+Inserting 45515
+Inserting 7951
+Query 19689 -> 19689:
+Inserting 9213
+Query 32244 -> 32244:
+Inserting 22085
+Inserting 67378
+Inserting 41248
+Inserting 43132
+Inserting 77844
+Inserting 64176
+Inserting 98685
+Inserting 31145
+Inserting 89437
+Inserting 56890
+Query 16034 -> 16034:
+Inserting 36984
+Inserting 63968
+Inserting 91342
+Inserting 66552
+Inserting 9501
+Inserting 44924
+Inserting 58980
+Inserting 25089
+Inserting 71262
+Inserting 474
+Inserting 55431
+Query 17393 -> 17393:
+Inserting 28746
+Query 69616 -> 69616:
+Inserting 92727
+Inserting 33601
+Query 9340 -> 9340:
+Inserting 84496
+Inserting 93139
+Inserting 78750
+Inserting 74382
+Inserting 32694
+Inserting 84179
+Query 96903 -> 96903:
+Inserting 72704
+Inserting 1785
+Inserting 94776
+Inserting 23627
+Inserting 99481
+Inserting 54979
+Inserting 81755
+Query 75211 -> 75211:
+Query 9051 -> 9051:
+Inserting 55096
+Query 69752 -> 69752:
+Query 41971 -> 41971:
+Inserting 8896
+Inserting 91194
+Inserting 64345
+Inserting 84316
+Inserting 25204
+Inserting 18608
+Inserting 83643
+Inserting 18213
+Inserting 99393
+Inserting 39688
+Query 95793 -> 95793:
+Query 31032 -> 31032:
+Inserting 14732
+Inserting 93076
+Query 80054 -> 80054:
+Inserting 52988
+Inserting 89909
+Inserting 74735
+Inserting 15601
+Query 74542 -> 74542:
+Inserting 848
+Inserting 69873
+Inserting 87355
+Query 44891 -> 44891:
+Query 22376 -> 22376:
+Query 56685 -> 56685:
+Inserting 41048
+Inserting 67203
+Inserting 38679
+Inserting 79002
+Inserting 69790
+Inserting 6363
+Inserting 33674
+Inserting 62812
+Inserting 80401
+Inserting 15534
+Inserting 59991
+Inserting 88820
+Inserting 5179
+Query 52544 -> 52544:
+Query 23981 -> 23981:
+Inserting 93226
+Inserting 38946
+Query 83822 -> 83822:
+Inserting 47088
+Inserting 61695
+Inserting 58301
+Inserting 60575
+Inserting 65697
+Query 26390 -> 26390:
+Inserting 25915
+Inserting 71776
+Inserting 87247
+Inserting 5416
+Inserting 79734
+Inserting 85272
+Inserting 75557
+Inserting 94348
+Inserting 26585
+Inserting 25374
+Inserting 70233
+Query 69802 -> 69802:
+Inserting 99091
+Query 81681 -> 81681:
+Inserting 3371
+Inserting 94245
+Inserting 48568
+Query 20946 -> 20946:
+Inserting 91539
+Inserting 8871
+Inserting 3417
+Inserting 55272
+Inserting 94500
+Inserting 63372
+Inserting 5616
+Inserting 68521
+Inserting 93551
+Inserting 1946
+Query 9788 -> 9788:
+Inserting 68727
+Inserting 44853
+Query 32351 -> 32351:
+Inserting 30001
+Inserting 6952
+Query 33501 -> 33501:
+Inserting 91732
+Inserting 83093
+Inserting 97548
+Inserting 12377
+Query 52757 -> 52757:
+Query 48836 -> 48836:
+Query 88507 -> 88507:
+Query 18029 -> 18029:
+Inserting 1166
+Query 55738 -> 55738:
+Inserting 49059
+Inserting 36655
+Inserting 46079
+Query 528 -> 528:
+Query 62778 -> 62778:
+Inserting 20720
+Query 61877 -> 61877:
+Inserting 90326
+Inserting 34786
+Inserting 73656
+Inserting 37952
+Query 45238 -> 45238:
+Inserting 36234
+Inserting 8416
+Inserting 35745
+Query 70188 -> 70188:
+Inserting 76792
+Inserting 12358
+Inserting 89983
+Inserting 33736
+Inserting 41352
+Inserting 75289
+Inserting 76040
+Inserting 47973
+Inserting 64466
+Inserting 14086
+Inserting 44211
+Inserting 51727
+Inserting 10542
+Query 48056 -> 48056:
+Inserting 60856
+Inserting 36176
+Inserting 87478
+Query 63477 -> 63477:
+Inserting 58867
+Inserting 32485
+Inserting 67662
+Inserting 92168
+Inserting 52286
+Inserting 90372
+Inserting 89434
+Query 89047 -> 89047:
+Inserting 72362
+Inserting 22862
+Inserting 49697
+Inserting 44482
+Inserting 7934
+Inserting 44485
+Query 50518 -> 50518:
+Query 72946 -> 72946:
+Inserting 17857
+Inserting 62106
+Inserting 5237
+Query 27992 -> 27992:
+Inserting 17753
+Inserting 69944
+Inserting 66394
+Query 61426 -> 61426:
+Inserting 19762
+Inserting 76961
+Inserting 69274
+Inserting 58244
+Inserting 58484
+Inserting 2858
+Inserting 49394
+Inserting 36222
+Inserting 20033
+Inserting 39605
+Query 53523 -> 53523:
+Inserting 34670
+Inserting 5592
+Inserting 90608
+Inserting 57740
+Inserting 8840
+Inserting 91263
+Query 64740 -> 64740:
+Inserting 34791
+Query 42687 -> 42687:
+Inserting 5411
+Inserting 93420
+Inserting 93933
+Inserting 90951
+Inserting 64585
+Inserting 81709
+Inserting 98539
+Query 88002 -> 88002:
+Inserting 88830
+Query 39931 -> 39931:
+Inserting 63655
+Inserting 92234
+Inserting 76839
+Inserting 99728
+Inserting 18571
+Inserting 33234
+Inserting 1335
+Inserting 17256
+Inserting 17873
+Inserting 76072
+Inserting 79509
+Inserting 99923
+Inserting 61738
+Inserting 60137
+Inserting 64776
+Inserting 27176
+Inserting 66048
+Inserting 70158
+Query 97090 -> 97090:
+Query 49059 -> 49059:
+Query 45414 -> 45414:
+Query 5231 -> 5231:
+Inserting 69426
+Query 29940 -> 29940:
+Inserting 6344
+Inserting 50056
+Inserting 67025
+Inserting 49048
+Inserting 71000
+Inserting 27596
+Inserting 65293
+Inserting 34344
+Query 25374 -> 25374:
+Inserting 67039
+Inserting 18765
+Inserting 24221
+Query 13405 -> 13405:
+Inserting 3458
+Inserting 5903
+Inserting 25177
+Inserting 27510
+Inserting 19074
+Inserting 7582
+Inserting 11725
+Inserting 9261
+Inserting 12412
+Query 31110 -> 31110:
+Query 97086 -> 97086:
+Inserting 88980
+Inserting 1270
+Inserting 37716
+Inserting 30725
+Inserting 77062
+Query 14497 -> 14497:
+Query 67720 -> 67720:
+Query 47413 -> 47413:
+Query 4096 -> 4096:
+Inserting 38441
+Inserting 66101
+Inserting 85569
+Inserting 18079
+Inserting 24975
+Inserting 36986
+Inserting 55912
+Inserting 80976
+Inserting 30719
+Inserting 16934
+Query 52906 -> 52906:
+Query 31489 -> 31489:
+Inserting 49824
+Inserting 89589
+Inserting 87832
+Query 74736 -> 74736:
+Inserting 37151
+Query 29748 -> 29748:
+Inserting 50995
+Inserting 43814
+Inserting 39076
+Inserting 82605
+Inserting 72910
+Inserting 3424
+Inserting 44899
+Query 64259 -> 64259:
+Query 87179 -> 87179:
+Inserting 38606
+Query 82178 -> 82178:
+Inserting 92028
+Query 87044 -> 87044:
+Inserting 25721
+Inserting 55755
+Inserting 28088
+Inserting 84726
+Query 11266 -> 11266:
+Inserting 44663
+Inserting 38360
+Inserting 38761
+Inserting 92427
+Inserting 76212
+Inserting 53818
+Inserting 37235
+Query 29991 -> 29991:
+Inserting 80226
+Inserting 94901
+Inserting 45288
+Query 74813 -> 74813:
+Inserting 65247
+Inserting 42763
+Inserting 2942
+Query 23100 -> 23100:
+Inserting 43983
+Inserting 11386
+Inserting 18207
+Query 20402 -> 20402:
+Inserting 38559
+Inserting 75592
+Inserting 33144
+Inserting 12415
+Inserting 84040
+Inserting 67787
+Inserting 58682
+Query 99981 -> 99981:
+Query 67342 -> 67342:
+Inserting 34981
+Query 73165 -> 73165:
+Inserting 19603
+Query 21945 -> 21945:
+Inserting 87253
+Query 69134 -> 69134:
+Inserting 97373
+Inserting 96383
+Inserting 21698
+Inserting 99744
+Inserting 22291
+Query 58980 -> 58980:
+Inserting 7833
+Inserting 69221
+Inserting 44030
+Inserting 66124
+Inserting 17386
+Inserting 98553
+Inserting 57856
+Inserting 88555
+Inserting 16442
+Inserting 56395
+Inserting 5591
+Query 738 -> 738:
+Inserting 56396
+Inserting 84986
+Inserting 91034
+Inserting 84266
+Inserting 39771
+Inserting 64461
+Inserting 1919
+Inserting 3668
+Inserting 22831
+Inserting 4855
+Inserting 6128
+Inserting 74837
+Query 98900 -> 98900:
+Inserting 22331
+Query 64420 -> 64420:
+Inserting 49652
+Inserting 79673
+Inserting 69274
+Inserting 96607
+Inserting 55826
+Inserting 13974
+Inserting 22510
+Inserting 12880
+Inserting 98693
+Query 16934 -> 16934:
+Inserting 54803
+Inserting 67555
+Inserting 13086
+Inserting 17331
+Query 60174 -> 60174:
+Inserting 11127
+Inserting 48912
+Inserting 40829
+Inserting 60276
+Query 6736 -> 6736:
+Inserting 9918
+Inserting 34648
+Inserting 67374
+Inserting 92877
+Query 95456 -> 95456:
+Query 92090 -> 92090:
+Query 93787 -> 93787:
+Inserting 35515
+Inserting 11737
+Inserting 64351
+Inserting 4618
+Query 20581 -> 20581:
+Inserting 81417
+Inserting 48255
+Inserting 15133
+Inserting 50245
+Inserting 34014
+Inserting 54291
+Query 27641 -> 27641:
+Inserting 87943
+Inserting 50442
+Inserting 24440
+Inserting 61702
+Inserting 11922
+Query 34865 -> 34865:
+Inserting 16297
+Query 43030 -> 43030:
+Query 33406 -> 33406:
+Inserting 10280
+Inserting 96073
+Inserting 42412
+Inserting 26657
+Query 2449 -> 2449:
+Inserting 4883
+Inserting 86916
+Inserting 109
+Inserting 27024
+Inserting 31910
+Inserting 53476
+Inserting 75116
+Inserting 24138
+Inserting 60310
+Inserting 6373
+Inserting 65417
+Query 68974 -> 68974:
+Inserting 18661
+Inserting 88817
+Inserting 59332
+Inserting 81106
+Query 95245 -> 95245:
+Inserting 82262
+Inserting 12634
+Inserting 22844
+Inserting 71603
+Inserting 53150
+Inserting 79565
+Inserting 86389
+Inserting 5781
+Inserting 41105
+Inserting 33968
+Inserting 3360
+Inserting 92484
+Inserting 48749
+Inserting 85105
+Inserting 5544
+Query 90403 -> 90403:
+Inserting 80034
+Inserting 33530
+Inserting 36812
+Inserting 95636
+Inserting 31642
+Inserting 58723
+Inserting 93074
+Inserting 84184
+Query 9926 -> 9926:
+Query 16297 -> 16297:
+Inserting 5262
+Inserting 16199
+Inserting 29297
+Inserting 61060
+Inserting 43258
+Query 33561 -> 33561:
+Inserting 59811
+Inserting 41184
+Inserting 42364
+Inserting 62851
+Inserting 87720
+Inserting 47570
+Inserting 94693
+Query 81983 -> 81983:
+Query 33257 -> 33257:
+Inserting 72075
+Inserting 87045
+Query 55837 -> 55837:
+Inserting 87236
+Inserting 46361
+Inserting 7270
+Inserting 55364
+Inserting 10085
+Inserting 18764
+Inserting 89295
+Inserting 46578
+Inserting 57566
+Query 99579 -> 99579:
+Inserting 83241
+Inserting 38996
+Inserting 26803
+Inserting 49590
+Inserting 17616
+Inserting 18850
+Query 50063 -> 50063:
+Inserting 50142
+Inserting 84263
+Inserting 5153
+Inserting 88659
+Inserting 63042
+Inserting 45101
+Inserting 34622
+Inserting 68737
+Inserting 47359
+Inserting 77829
+Inserting 92515
+Inserting 89824
+Inserting 99182
+Query 81964 -> 81964:
+Inserting 91171
+Inserting 72375
+Inserting 2268
+Inserting 10215
+Inserting 20034
+Inserting 79463
+Inserting 32463
+Inserting 56320
+Query 10561 -> 10561:
+Inserting 10814
+Inserting 53933
+Inserting 97524
+Inserting 50271
+Inserting 32073
+Inserting 60386
+Inserting 71806
+Query 40481 -> 40481:
+Inserting 10999
+Inserting 32645
+Inserting 38714
+Inserting 86849
+Inserting 99683
+Inserting 25364
+Query 3537 -> 3537:
+Inserting 720
+Inserting 17942
+Inserting 85989
+Query 79855 -> 79855:
+Inserting 75097
+Inserting 36477
+Inserting 87453
+Inserting 9407
+Inserting 26545
+Query 75721 -> 75721:
+Inserting 7490
+Inserting 72349
+Inserting 71248
+Inserting 80764
+Inserting 93433
+Inserting 33065
+Inserting 32633
+Inserting 3245
+Query 73537 -> 73537:
+Inserting 79679
+Inserting 95904
+Inserting 3564
+Inserting 75842
+Inserting 21564
+Inserting 210
+Inserting 69354
+Inserting 90460
+Inserting 28292
+Inserting 22323
+Inserting 24932
+Inserting 21829
+Inserting 84117
+Inserting 86756
+Inserting 8344
+Inserting 76063
+Query 83674 -> 83674:
+Inserting 73659
+Query 69157 -> 69157:
+Inserting 85132
+Inserting 11362
+Inserting 33472
+Inserting 72970
+Inserting 90498
+Query 32128 -> 32128:
+Query 69873 -> 69873:
+Inserting 29973
+Inserting 97801
+Query 27620 -> 27620:
+Inserting 66490
+Query 34650 -> 34650:
+Inserting 93812
+Inserting 89870
+Inserting 22105
+Inserting 18655
+Inserting 40620
+Query 47193 -> 47193:
+Query 13276 -> 13276:
+Inserting 58863
+Inserting 76190
+Query 89022 -> 89022:
+Inserting 83491
+Query 51764 -> 51764:
+Inserting 54723
+Inserting 77343
+Inserting 2351
+Inserting 73700
+Query 63749 -> 63749:
+Inserting 99201
+Inserting 38400
+Inserting 73501
+Inserting 97817
+Query 76685 -> 76685:
+Query 22492 -> 22492:
+Inserting 45905
+Inserting 67637
+Query 22303 -> 22303:
+Inserting 84978
+Inserting 89262
+Inserting 92561
+Inserting 68407
+Inserting 29363
+Query 43865 -> 43865:
+Inserting 87928
+Inserting 1381
+Inserting 96450
+Inserting 67228
+Inserting 51194
+Query 20866 -> 20866:
+Inserting 72177
+Inserting 29176
+Inserting 59043
+Inserting 76010
+Inserting 36389
+Inserting 63733
+Inserting 26828
+Inserting 42344
+Query 48461 -> 48461:
+Inserting 89751
+Inserting 12475
+Inserting 68256
+Inserting 83314
+Inserting 44205
+Inserting 73988
+Query 65018 -> 65018:
+Inserting 26195
+Inserting 95334
+Inserting 53887
+Inserting 75091
+Inserting 15896
+Inserting 50186
+Inserting 3229
+Inserting 85733
+Inserting 29657
+Inserting 30958
+Inserting 66392
+Query 474 -> 474:
+Inserting 44950
+Inserting 93657
+Query 33224 -> 33224:
+Inserting 40820
+Inserting 62953
+Inserting 72421
+Inserting 54617
+Inserting 96737
+Inserting 42125
+Query 62074 -> 62074:
+Query 72826 -> 72826:
+Inserting 81873
+Inserting 7637
+Inserting 34226
+Inserting 41905
+Inserting 44320
+Query 2316 -> 2316:
+Inserting 54167
+Query 61415 -> 61415:
+Query 29973 -> 29973:
+Inserting 10363
+Inserting 8073
+Inserting 38193
+Inserting 36018
+Query 58332 -> 58332:
+Inserting 86533
+Inserting 14673
+Inserting 38105
+Query 49015 -> 49015:
+Inserting 70217
+Inserting 32915
+Inserting 68518
+Query 6646 -> 6646:
+Inserting 19543
+Inserting 8805
+Inserting 26162
+Query 40820 -> 40820:
+Inserting 90043
+Inserting 56558
+Inserting 48999
+Inserting 52664
+Inserting 96058
+Inserting 64459
+Inserting 12719
+Query 65332 -> 65332:
+Inserting 64829
+Query 63749 -> 63749:
+Inserting 79706
+Query 46388 -> 46388:
+Inserting 94226
+Query 84640 -> 84640:
+Inserting 357
+Inserting 52975
+Inserting 42642
+Inserting 85416
+Inserting 21672
+Inserting 32857
+Query 73720 -> 73720:
+Inserting 54681
+Inserting 84222
+Inserting 65910
+Inserting 11928
+Inserting 22283
+Inserting 87457
+Inserting 34336
+Inserting 26753
+Inserting 89677
+Inserting 15785
+Inserting 53084
+Inserting 8921
+Inserting 83212
+Inserting 12680
+Query 41693 -> 41693:
+Inserting 79183
+Inserting 20002
+Inserting 2798
+Inserting 72941
+Inserting 45327
+Inserting 91201
+Inserting 49513
+Inserting 13518
+Inserting 13351
+Inserting 77236
+Inserting 97047
+Query 63733 -> 63733:
+Inserting 18955
+Inserting 44876
+Inserting 33397
+Query 75118 -> 75118:
+Query 72985 -> 72985:
+Inserting 75
+Inserting 5766
+Inserting 58553
+Query 81859 -> 81859:
+Query 44946 -> 44946:
+Inserting 56454
+Inserting 39598
+Inserting 209
+Inserting 97165
+Inserting 75482
+Inserting 42480
+Inserting 17794
+Inserting 94010
+Inserting 6890
+Inserting 22737
+Inserting 81703
+Query 95568 -> 95568:
+Inserting 28730
+Query 8253 -> 8253:
+Inserting 95743
+Query 29183 -> 29183:
+Inserting 24610
+Inserting 96487
+Inserting 99131
+Inserting 84148
+Inserting 52630
+Inserting 59904
+Inserting 56620
+Inserting 28457
+Inserting 59867
+Inserting 81972
+Query 92157 -> 92157:
+Inserting 30652
+Inserting 43168
+Inserting 37644
+Inserting 47897
+Inserting 6619
+Query 9487 -> 9487:
+Query 10085 -> 10085:
+Inserting 57288
+Inserting 20618
+Inserting 17742
+Inserting 24887
+Inserting 86554
+Inserting 7208
+Inserting 52374
+Inserting 18921
+Inserting 48048
+Inserting 25210
+Inserting 14120
+Inserting 40381
+Inserting 91669
+Inserting 3936
+Query 14143 -> 14143:
+Inserting 2693
+Inserting 47835
+Inserting 82701
+Inserting 50389
+Inserting 41298
+Inserting 60475
+Inserting 87009
+Query 6526 -> 6526:
+Inserting 26364
+Query 40063 -> 40063:
+Inserting 37706
+Inserting 26239
+Inserting 51310
+Query 15790 -> 15790:
+Inserting 65814
+Query 45424 -> 45424:
+Inserting 8396
+Inserting 90692
+Inserting 62563
+Inserting 78461
+Inserting 6638
+Inserting 91748
+Inserting 84862
+Inserting 92981
+Inserting 69466
+Inserting 78508
+Inserting 8347
+Inserting 41012
+Inserting 95036
+Query 85336 -> 85336:
+Query 45027 -> 45027:
+Query 48859 -> 48859:
+Inserting 72711
+Inserting 83045
+Query 41563 -> 41563:
+Inserting 80918
+Inserting 27717
+Query 36197 -> 36197:
+Query 38165 -> 38165:
+Inserting 59590
+Inserting 84470
+Query 29759 -> 29759:
+Inserting 72574
+Query 47570 -> 47570:
+Inserting 30041
+Inserting 53181
+Inserting 7854
+Inserting 63661
+Inserting 45380
+Inserting 81805
+Inserting 13050
+Inserting 99324
+Inserting 58156
+Inserting 36194
+Inserting 3331
+Inserting 3579
+Inserting 96683
+Inserting 20914
+Inserting 75316
+Query 848 -> 848:
+Query 53751 -> 53751:
+Inserting 29350
+Query 15350 -> 15350:
+Inserting 26628
+Inserting 9487
+Inserting 59429
+Inserting 88813
+Inserting 11046
+Inserting 17981
+Query 47496 -> 47496:
+Inserting 33190
+Query 4753 -> 4753:
+Inserting 76975
+Query 1811 -> 1811:
+Inserting 37103
+Query 8220 -> 8220:
+Inserting 85024
+Inserting 92491
+Inserting 37443
+Inserting 37454
+Inserting 38357
+Inserting 9956
+Inserting 91614
+Inserting 88318
+Inserting 4209
+Inserting 57952
+Inserting 39415
+Query 67254 -> 67254:
+Inserting 9438
+Inserting 20007
+Query 54154 -> 54154:
+Inserting 17442
+Inserting 60562
+Inserting 62223
+Query 7094 -> 7094:
+Inserting 98373
+Inserting 13816
+Inserting 7814
+Inserting 58805
+Inserting 29634
+Inserting 68004
+Inserting 67656
+Inserting 402
+Inserting 11451
+Inserting 1564
+Inserting 10158
+Inserting 27964
+Inserting 3939
+Inserting 8866
+Inserting 63699
+Inserting 65460
+Inserting 2220
+Inserting 85121
+Inserting 39081
+Inserting 75308
+Inserting 95492
+Inserting 12794
+Query 8801 -> 8801:
+Query 67317 -> 67317:
+Query 64141 -> 64141:
+Inserting 4222
+Inserting 18271
+Inserting 1384
+Inserting 91947
+Inserting 855
+Inserting 7233
+Inserting 34810
+Inserting 25504
+Inserting 5677
+Query 92943 -> 92943:
+Inserting 85609
+Inserting 87501
+Query 30022 -> 30022:
+Inserting 35399
+Inserting 25498
+Inserting 70008
+Inserting 72885
+Inserting 7082
+Inserting 73203
+Inserting 53943
+Inserting 62715
+Inserting 31933
+Inserting 1441
+Inserting 24593
+Inserting 45455
+Inserting 67601
+Inserting 6039
+Inserting 47422
+Inserting 73466
+Query 27663 -> 27663:
+Inserting 74936
+Inserting 49921
+Inserting 23259
+Inserting 54673
+Inserting 49258
+Inserting 25727
+Inserting 89876
+Inserting 2940
+Inserting 21662
+Inserting 78590
+Query 22943 -> 22943:
+Inserting 5783
+Inserting 80598
+Query 8246 -> 8246:
+Query 94435 -> 94435:
+Query 77287 -> 77287:
+Inserting 54557
+Inserting 84854
+Query 29884 -> 29884:
+Query 80789 -> 80789:
+Inserting 35904
+Inserting 76986
+Inserting 77268
+Inserting 53020
+Inserting 22058
+Inserting 69715
+Inserting 40578
+Query 24622 -> 24622:
+Inserting 21436
+Inserting 81591
+Inserting 26612
+Inserting 7295
+Inserting 73869
+Inserting 37360
+Inserting 42214
+Inserting 19216
+Inserting 58098
+Inserting 99677
+Inserting 73273
+Inserting 43104
+Inserting 93168
+Inserting 81243
+Query 39702 -> 39702:
+Inserting 21565
+Inserting 19739
+Query 30319 -> 30319:
+Inserting 12989
+Inserting 45477
+Inserting 72033
+Inserting 89809
+Inserting 61255
+Inserting 17317
+Inserting 65924
+Inserting 1688
+Inserting 4042
+Inserting 24118
+Inserting 48939
+Query 83972 -> 83972:
+Query 25772 -> 25772:
+Query 69354 -> 69354:
+Query 60137 -> 60137:
+Inserting 84819
+Query 38714 -> 38714:
+Inserting 28332
+Inserting 15182
+Inserting 47868
+Inserting 28364
+Inserting 37617
+Query 45289 -> 45289:
+Inserting 12670
+Inserting 88450
+Inserting 78670
+Inserting 25176
+Inserting 73684
+Inserting 98305
+Inserting 71176
+Inserting 27653
+Inserting 29938
+Inserting 61380
+Inserting 75903
+Inserting 79513
+Query 76875 -> 76875:
+Inserting 11804
+Inserting 20001
+Query 35507 -> 35507:
+Inserting 18773
+Inserting 61865
+Inserting 9342
+Inserting 32464
+Inserting 42367
+Inserting 69878
+Inserting 21747
+Query 94248 -> 94248:
+Inserting 48332
+Query 29471 -> 29471:
+Query 89173 -> 89173:
+Query 76690 -> 76690:
+Inserting 59231
+Inserting 23346
+Query 30646 -> 30646:
+Query 50090 -> 50090:
+Inserting 5747
+Query 61702 -> 61702:
+Inserting 30642
+Inserting 93414
+Inserting 24533
+Inserting 49972
+Inserting 37302
+Inserting 81692
+Inserting 33356
+Inserting 27891
+Inserting 768
+Inserting 23463
+Inserting 56912
+Inserting 51437
+Inserting 52052
+Inserting 40659
+Inserting 55256
+Query 99947 -> 99947:
+Inserting 15648
+Inserting 87136
+Inserting 43597
+Inserting 63204
+Query 18603 -> 18603:
+Query 89163 -> 89163:
+Query 39347 -> 39347:
+Inserting 11033
+Query 41048 -> 41048:
+Inserting 73736
+Query 39931 -> 39931:
+Inserting 96550
+Inserting 37093
+Inserting 89363
+Inserting 45815
+Query 20533 -> 20533:
+Inserting 84618
+Inserting 5785
+Query 33353 -> 33353:
+Inserting 38511
+Inserting 59001
+Query 62052 -> 62052:
+Inserting 69023
+Inserting 99293
+Query 47001 -> 47001:
+Inserting 79014
+Query 22492 -> 22492:
+Inserting 12441
+Query 4953 -> 4953:
+Inserting 68889
+Inserting 61547
+Query 27075 -> 27075:
+Inserting 7508
+Query 43983 -> 43983:
+Inserting 47524
+Query 78508 -> 78508:
+Inserting 80257
+Inserting 11769
+Inserting 5044
+Inserting 42894
+Inserting 33915
+Inserting 54208
+Inserting 42889
+Inserting 82850
+Inserting 56118
+Inserting 82410
+Inserting 97509
+Inserting 68612
+Query 41358 -> 41358:
+Inserting 47187
+Inserting 72785
+Query 71547 -> 71547:
+Inserting 58556
+Inserting 31957
+Inserting 9857
+Inserting 99235
+Inserting 82106
+Query 41705 -> 41705:
+Inserting 30242
+Inserting 50381
+Inserting 11721
+Inserting 58920
+Inserting 79438
+Inserting 18837
+Inserting 48658
+Inserting 66490
+Query 43948 -> 43948:
+Inserting 64953
+Inserting 39114
+Inserting 2179
+Inserting 18939
+Inserting 2889
+Inserting 52435
+Inserting 17502
+Inserting 98875
+Inserting 86973
+Inserting 74683
+Inserting 46375
+Inserting 1691
+Inserting 35734
+Query 20946 -> 20946:
+Inserting 48037
+Inserting 23375
+Inserting 87416
+Inserting 85703
+Inserting 44840
+Query 39173 -> 39173:
+Query 61147 -> 61147:
+Inserting 22974
+Inserting 91638
+Query 30725 -> 30725:
+Inserting 37635
+Inserting 73745
+Inserting 34098
+Inserting 48574
+Query 51727 -> 51727:
+Query 43983 -> 43983:
+Inserting 59915
+Inserting 64287
+Inserting 49754
+Inserting 52348
+Inserting 97037
+Query 9407 -> 9407:
+Inserting 26906
+Inserting 83809
+Query 71262 -> 71262:
+Query 83095 -> 83095:
+Inserting 21562
+Inserting 58736
+Inserting 40802
+Inserting 68123
+Query 97524 -> 97524:
+Inserting 9630
+Query 20840 -> 20840:
+Inserting 76594
+Query 76452 -> 76452:
+Inserting 35342
+Inserting 40823
+Inserting 28958
+Inserting 91295
+Query 78948 -> 78948:
+Inserting 79892
+Inserting 28222
+Inserting 38806
+Inserting 91447
+Inserting 69503
+Inserting 5517
+Inserting 91063
+Inserting 21191
+Inserting 61148
+Inserting 29949
+Inserting 71322
+Inserting 32334
+Inserting 41642
+Inserting 95655
+Query 29657 -> 29657:
+Inserting 69406
+Inserting 77616
+Inserting 78835
+Query 33544 -> 33544:
+Inserting 70454
+Inserting 23929
+Query 41087 -> 41087:
+Inserting 8392
+Inserting 18128
+Query 41630 -> 41630:
+Inserting 60394
+Query 19552 -> 19552:
+Inserting 82107
+Inserting 1801
+Query 78956 -> 78956:
+Inserting 44661
+Inserting 6019
+Inserting 35567
+Inserting 67222
+Inserting 38855
+Query 24051 -> 24051:
+Inserting 61944
+Inserting 42451
+Inserting 76841
+Inserting 94677
+Inserting 14229
+Inserting 48476
+Inserting 37090
+Inserting 44183
+Inserting 71481
+Inserting 63806
+Inserting 24786
+Inserting 22489
+Inserting 20565
+Inserting 49354
+Inserting 71090
+Inserting 2921
+Query 35739 -> 35739:
+Query 88244 -> 88244:
+Query 10889 -> 10889:
+Inserting 89230
+Inserting 34399
+Inserting 10695
+Inserting 60928
+Query 7949 -> 7949:
+Inserting 82395
+Inserting 8661
+Inserting 75887
+Inserting 74160
+Inserting 58918
+Inserting 88375
+Inserting 60506
+Inserting 2894
+Inserting 39175
+Query 86595 -> 86595:
+Query 40443 -> 40443:
+Inserting 92059
+Inserting 48146
+Inserting 82913
+Query 69616 -> 69616:
+Inserting 56697
+Inserting 24338
+Inserting 51344
+Inserting 66964
+Inserting 38476
+Inserting 88990
+Query 14774 -> 14774:
+Inserting 33796
+Inserting 15071
+Inserting 81169
+Query 19235 -> 19235:
+Inserting 77345
+Inserting 12600
+Inserting 99359
+Inserting 23018
+Inserting 6857
+Inserting 89196
+Inserting 3258
+Query 97556 -> 97556:
+Inserting 66388
+Inserting 63290
+Query 49104 -> 49104:
+Query 73988 -> 73988:
+Query 28500 -> 28500:
+Inserting 36301
+Inserting 46831
+Inserting 35014
+Query 14150 -> 14150:
+Inserting 80838
+Inserting 22205
+Inserting 87744
+Query 24375 -> 24375:
+Inserting 95972
+Inserting 92800
+Inserting 18881
+Query 12634 -> 12634:
+Inserting 66225
+Inserting 6709
+Inserting 10074
+Inserting 40327
+Inserting 47564
+Query 58984 -> 58984:
+Inserting 80048
+Inserting 8713
+Inserting 33843
+Query 93395 -> 93395:
+Inserting 3161
+Query 98373 -> 98373:
+Inserting 53925
+Inserting 26327
+Inserting 20508
+Inserting 75609
+Query 9570 -> 9570:
+Inserting 6254
+Query 70486 -> 70486:
+Query 47361 -> 47361:
+Inserting 5224
+Query 65814 -> 65814:
+Inserting 63526
+Inserting 88114
+Inserting 5537
+Query 82438 -> 82438:
+Inserting 40170
+Query 6709 -> 6709:
+Inserting 32170
+Inserting 33189
+Inserting 93257
+Inserting 78966
+Inserting 54469
+Inserting 9151
+Inserting 75500
+Query 72457 -> 72457:
+Inserting 66181
+Inserting 4883
+Inserting 79791
+Query 48212 -> 48212:
+Inserting 87164
+Inserting 85310
+Inserting 16412
+Inserting 38040
+Query 83226 -> 83226:
+Inserting 43646
+Query 95214 -> 95214:
+Inserting 66612
+Inserting 51775
+Inserting 87443
+Inserting 71733
+Query 95616 -> 95616:
+Inserting 78817
+Inserting 49249
+Query 50113 -> 50113:
+Inserting 45956
+Inserting 19372
+Query 91307 -> 91307:
+Query 21398 -> 21398:
+Inserting 28071
+Inserting 44649
+Inserting 71826
+Inserting 89052
+Inserting 49035
+Inserting 12601
+Inserting 45117
+Inserting 23296
+Inserting 26211
+Inserting 60958
+Inserting 32662
+Inserting 50691
+Query 12304 -> 12304:
+Inserting 70875
+Inserting 98789
+Inserting 79968
+Inserting 3587
+Inserting 54694
+Inserting 13255
+Query 50459 -> 50459:
+Inserting 94480
+Query 12301 -> 12301:
+Inserting 23546
+Inserting 76586
+Inserting 81521
+Query 43614 -> 43614:
+Query 63034 -> 63034:
+Inserting 41414
+Inserting 1636
+Query 95541 -> 95541:
+Inserting 46526
+Inserting 76667
+Inserting 39105
+Inserting 49059
+Inserting 59267
+Inserting 45285
+Inserting 60135
+Inserting 73283
+Inserting 74735
+Inserting 51993
+Inserting 78227
+Inserting 24850
+Inserting 53494
+Query 17616 -> 17616:
+Query 93212 -> 93212:
+Query 22780 -> 22780:
+Inserting 53967
+Inserting 57114
+Inserting 56417
+Inserting 36477
+Inserting 18348
+Inserting 87334
+Inserting 2525
+Query 30580 -> 30580:
+Inserting 96203
+Query 61092 -> 61092:
+Inserting 71551
+Inserting 27620
+Inserting 54812
+Inserting 68932
+Inserting 20726
+Inserting 21962
+Inserting 31879
+Inserting 33469
+Inserting 50697
+Inserting 70275
+Inserting 88617
+Inserting 54696
+Inserting 54988
+Query 57872 -> 57872:
+Inserting 33799
+Inserting 89294
+Inserting 55956
+Inserting 37168
+Inserting 29520
+Inserting 66678
+Query 38064 -> 38064:
+Inserting 88480
+Inserting 46738
+Inserting 71919
+Inserting 86378
+Inserting 89110
+Inserting 5222
+Inserting 25173
+Query 9111 -> 9111:
+Inserting 98097
+Inserting 57591
+Inserting 71363
+Query 13989 -> 13989:
+Inserting 40290
+Inserting 89691
+Inserting 51754
+Query 2440 -> 2440:
+Query 46876 -> 46876:
+Inserting 52299
+Inserting 74237
+Inserting 21418
+Query 72418 -> 72418:
+Inserting 98745
+Inserting 20633
+Inserting 67597
+Inserting 84274
+Inserting 66007
+Query 20467 -> 20467:
+Inserting 48960
+Inserting 74141
+Inserting 29797
+Query 27579 -> 27579:
+Inserting 39300
+Query 562 -> 562:
+Inserting 11420
+Inserting 90495
+Inserting 62312
+Inserting 97082
+Inserting 80997
+Inserting 47747
+Inserting 59958
+Inserting 24717
+Inserting 55398
+Inserting 92887
+Inserting 96650
+Inserting 660
+Inserting 58664
+Inserting 98784
+Inserting 79008
+Inserting 32868
+Inserting 72716
+Inserting 26718
+Query 30200 -> 30200:
+Inserting 7260
+Inserting 77134
+Inserting 23972
+Inserting 80956
+Query 62991 -> 62991:
+Query 6733 -> 6733:
+Inserting 41537
+Inserting 6897
+Inserting 95807
+Inserting 41432
+Query 31409 -> 31409:
+Inserting 24365
+Inserting 22249
+Inserting 75343
+Query 74955 -> 74955:
+Query 24887 -> 24887:
+Inserting 78655
+Inserting 44191
+Inserting 96015
+Inserting 750
+Inserting 20545
+Inserting 6025
+Inserting 64167
+Query 55481 -> 55481:
+Inserting 34015
+Inserting 56214
+Inserting 847
+Inserting 29444
+Inserting 29849
+Inserting 51353
+Inserting 89206
+Inserting 66993
+Query 97801 -> 97801:
+Inserting 16771
+Inserting 56569
+Inserting 78966
+Inserting 88132
+Inserting 81240
+Inserting 21072
+Query 82591 -> 82591:
+Inserting 97962
+Inserting 96799
+Inserting 56459
+Query 72352 -> 72352:
+Query 55264 -> 55264:
+Inserting 2258
+Inserting 55113
+Query 99853 -> 99853:
+Inserting 47477
+Query 80489 -> 80489:
+Inserting 14808
+Inserting 38797
+Inserting 46807
+Inserting 42290
+Inserting 50846
+Inserting 69671
+Inserting 65897
+Inserting 37846
+Inserting 8054
+Inserting 97846
+Inserting 19578
+Inserting 90407
+Query 38064 -> 38064:
+Inserting 47242
+Query 24603 -> 24603:
+Inserting 71822
+Inserting 68519
+Inserting 21424
+Inserting 34413
+Inserting 2235
+Inserting 36420
+Inserting 44969
+Inserting 93010
+Inserting 36043
+Inserting 92100
+Inserting 20425
+Inserting 54690
+Inserting 97031
+Inserting 91076
+Inserting 36739
+Inserting 30268
+Query 98348 -> 98348:
+Inserting 30451
+Query 2799 -> 2799:
+Query 81431 -> 81431:
+Query 63242 -> 63242:
+Inserting 2584
+Inserting 64240
+Inserting 26601
+Inserting 24760
+Inserting 16845
+Inserting 7450
+Inserting 97453
+Query 41087 -> 41087:
+Inserting 71075
+Inserting 68019
+Query 64246 -> 64246:
+Inserting 20709
+Query 86789 -> 86789:
+Inserting 41483
+Inserting 38844
+Inserting 66828
+Inserting 67052
+Inserting 43058
+Inserting 67575
+Inserting 96822
+Inserting 90086
+Query 62484 -> 62484:
+Inserting 49591
+Inserting 42278
+Inserting 69367
+Query 66124 -> 66124:
+Inserting 55362
+Query 24717 -> 24717:
+Inserting 67582
+Inserting 22660
+Inserting 17671
+Inserting 27815
+Inserting 57718
+Query 5158 -> 5158:
+Inserting 13719
+Inserting 97301
+Inserting 46399
+Inserting 17784
+Inserting 89700
+Inserting 80622
+Inserting 17750
+Inserting 71256
+Inserting 93227
+Inserting 29210
+Inserting 66707
+Inserting 7884
+Inserting 24434
+Inserting 61901
+Inserting 40901
+Query 71504 -> 71504:
+Inserting 75050
+Inserting 75622
+Inserting 60083
+Inserting 47890
+Inserting 83447
+Inserting 98508
+Query 2559 -> 2559:
+Inserting 75457
+Query 52549 -> 52549:
+Inserting 83395
+Inserting 5873
+Inserting 64228
+Query 76161 -> 76161:
+Inserting 23989
+Query 85310 -> 85310:
+Inserting 36817
+Query 7637 -> 7637:
+Inserting 26927
+Query 73132 -> 73132:
+Inserting 25067
+Inserting 22556
+Inserting 20424
+Inserting 63850
+Query 31117 -> 31117:
+Inserting 75704
+Inserting 20967
+Inserting 54138
+Inserting 57712
+Inserting 21582
+Query 47048 -> 47048:
+Inserting 83064
+Inserting 32288
+Inserting 59064
+Inserting 77649
+Inserting 53479
+Inserting 78515
+Inserting 48947
+Inserting 22768
+Inserting 22313
+Inserting 53699
+Inserting 56181
+Inserting 13732
+Inserting 5896
+Inserting 35625
+Query 60475 -> 60475:
+Inserting 59177
+Inserting 19387
+Inserting 986
+Inserting 28670
+Inserting 28099
+Inserting 8118
+Query 37168 -> 37168:
+Inserting 80059
+Inserting 25871
+Inserting 22875
+Inserting 55545
+Query 93749 -> 93749:
+Query 99392 -> 99392:
+Query 29471 -> 29471:
+Inserting 59718
+Inserting 74098
+Inserting 34402
+Inserting 91002
+Query 69772 -> 69772:
+Inserting 27468
+Inserting 80681
+Inserting 50846
+Inserting 14864
+Query 13047 -> 13047:
+Inserting 75263
+Inserting 57459
+Query 29135 -> 29135:
+Inserting 21448
+Inserting 47202
+Inserting 56750
+Query 30826 -> 30826:
+Inserting 53381
+Inserting 64023
+Inserting 83471
+Inserting 15801
+Inserting 87228
+Query 83471 -> 83471:
+Inserting 99194
+Query 80903 -> 80903:
+Inserting 32341
+Inserting 95423
+Inserting 58592
+Inserting 84482
+Inserting 23133
+Inserting 97092
+Inserting 92069
+Inserting 15706
+Inserting 27769
+Inserting 64780
+Inserting 32660
+Inserting 2916
+Inserting 56125
+Inserting 37591
+Inserting 5770
+Inserting 40430
+Inserting 38469
+Query 66302 -> 66302:
+Query 92847 -> 92847:
+Inserting 59421
+Inserting 44776
+Inserting 86073
+Inserting 22602
+Inserting 74751
+Inserting 71962
+Inserting 13206
+Inserting 39598
+Inserting 98060
+Inserting 38753
+Inserting 61654
+Inserting 80146
+Inserting 67197
+Inserting 95316
+Inserting 58065
+Inserting 23134
+Inserting 83543
+Inserting 3330
+Inserting 78450
+Query 59757 -> 59757:
+Inserting 3536
+Inserting 36147
+Query 59686 -> 59686:
+Inserting 11505
+Inserting 79044
+Inserting 61893
+Inserting 78208
+Inserting 88282
+Inserting 44119
+Inserting 5109
+Inserting 90351
+Inserting 91909
+Inserting 50880
+Inserting 14983
+Inserting 33856
+Inserting 19075
+Inserting 28117
+Inserting 48431
+Query 63699 -> 63699:
+Inserting 35450
+Inserting 29192
+Inserting 76489
+Inserting 90106
+Inserting 64910
+Query 32510 -> 32510:
+Inserting 79545
+Inserting 55174
+Query 25927 -> 25927:
+Inserting 73304
+Query 88899 -> 88899:
+Inserting 54037
+Inserting 30922
+Inserting 54654
+Inserting 74517
+Query 53925 -> 53925:
+Inserting 53554
+Query 93965 -> 93965:
+Inserting 47141
+Inserting 92933
+Query 84148 -> 84148:
+Inserting 59042
+Inserting 72697
+Inserting 55534
+Inserting 39218
+Inserting 24404
+Inserting 10973
+Inserting 83260
+Inserting 42760
+Inserting 53488
+Inserting 95938
+Inserting 65785
+Inserting 19302
+Inserting 23445
+Inserting 81120
+Inserting 24722
+Inserting 20547
+Query 53866 -> 53866:
+Inserting 61890
+Inserting 74452
+Query 86186 -> 86186:
+Inserting 49667
+Inserting 66682
+Inserting 95291
+Inserting 75693
+Inserting 31865
+Query 36334 -> 36334:
+Inserting 38449
+Inserting 84070
+Query 18765 -> 18765:
+Inserting 3437
+Inserting 60230
+Inserting 56832
+Query 26239 -> 26239:
+Inserting 9972
+Inserting 12545
+Inserting 58348
+Inserting 40260
+Inserting 98554
+Inserting 47027
+Query 34780 -> 34780:
+Inserting 96385
+Inserting 89764
+Inserting 41316
+Query 79766 -> 79766:
+Query 73227 -> 73227:
+Inserting 29329
+Query 34740 -> 34740:
+Inserting 60355
+Inserting 95441
+Query 98931 -> 98931:
+Inserting 72342
+Inserting 58097
+Query 96329 -> 96329:
+Inserting 18486
+Inserting 6848
+Inserting 78160
+Inserting 82748
+Inserting 11617
+Inserting 99081
+Inserting 85482
+Inserting 85672
+Inserting 54298
+Inserting 27729
+Inserting 96442
+Inserting 78097
+Query 6917 -> 6917:
+Inserting 21576
+Inserting 52888
+Inserting 38458
+Inserting 51173
+Inserting 66312
+Inserting 94241
+Inserting 70539
+Inserting 53590
+Inserting 3637
+Inserting 75048
+Inserting 47162
+Query 98677 -> 98677:
+Query 17163 -> 17163:
+Query 59313 -> 59313:
+Inserting 56097
+Inserting 98478
+Inserting 54876
+Inserting 27596
+Inserting 12691
+Query 3331 -> 3331:
+Inserting 83741
+Inserting 54785
+Inserting 91715
+Inserting 73747
+Inserting 69366
+Inserting 91330
+Query 83131 -> 83131:
+Inserting 84932
+Query 38613 -> 38613:
+Inserting 53609
+Inserting 55490
+Inserting 30282
+Query 48199 -> 48199:
+Inserting 40552
+Inserting 62065
+Inserting 15421
+Query 81873 -> 81873:
+Inserting 16076
+Inserting 92843
+Query 38469 -> 38469:
+Inserting 15669
+Inserting 87535
+Query 76822 -> 76822:
+Inserting 34701
+Inserting 45867
+Inserting 92429
+Query 12980 -> 12980:
+Inserting 39743
+Inserting 7219
+Inserting 16367
+Inserting 61853
+Inserting 38965
+Inserting 94647
+Inserting 48065
+Inserting 73149
+Inserting 95996
+Inserting 89669
+Inserting 83362
+Inserting 63538
+Inserting 72016
+Query 66175 -> 66175:
+Inserting 52748
+Query 13564 -> 13564:
+Query 27656 -> 27656:
+Inserting 90864
+Inserting 65416
+Inserting 9014
+Inserting 86789
+Inserting 22056
+Inserting 17853
+Inserting 56544
+Inserting 81077
+Query 76748 -> 76748:
+Query 68860 -> 68860:
+Inserting 2514
+Inserting 49895
+Inserting 73563
+Inserting 6136
+Inserting 36857
+Inserting 35087
+Inserting 46571
+Inserting 99561
+Inserting 30165
+Query 32134 -> 32134:
+Query 29520 -> 29520:
+Inserting 783
+Inserting 92720
+Query 5109 -> 5109:
+Inserting 3390
+Inserting 30738
+Query 15329 -> 15329:
+Inserting 57527
+Query 61142 -> 61142:
+Inserting 5919
+Inserting 70356
+Query 87832 -> 87832:
+Inserting 26921
+Inserting 10085
+Inserting 90188
+Inserting 6325
+Inserting 50110
+Inserting 15159
+Inserting 10444
+Inserting 67558
+Inserting 3072
+Inserting 12744
+Inserting 25191
+Inserting 29283
+Inserting 10209
+Inserting 53315
+Inserting 62379
+Inserting 41134
+Inserting 93878
+Inserting 73135
+Inserting 87591
+Inserting 79209
+Inserting 82111
+Inserting 44603
+Inserting 78885
+Inserting 97477
+Inserting 24851
+Inserting 78098
+Query 83506 -> 83506:
+Inserting 99862
+Inserting 80708
+Inserting 26372
+Query 29160 -> 29160:
+Query 35478 -> 35478:
+Inserting 40943
+Inserting 82771
+Inserting 36716
+Inserting 17565
+Inserting 92928
+Query 26927 -> 26927:
+Inserting 51737
+Query 73203 -> 73203:
+Query 20034 -> 20034:
+Inserting 20440
+Query 29759 -> 29759:
+Inserting 51872
+Inserting 76770
+Inserting 76056
+Query 89437 -> 89437:
+Inserting 84402
+Inserting 28099
+Inserting 2393
+Inserting 80650
+Query 17617 -> 17617:
+Inserting 68909
+Inserting 77334
+Inserting 67031
+Inserting 67961
+Inserting 2332
+Inserting 54572
+Inserting 90819
+Inserting 31492
+Inserting 75994
+Inserting 55853
+Inserting 47101
+Inserting 90015
+Inserting 77158
+Inserting 70334
+Inserting 86565
+Inserting 55910
+Query 86519 -> 86519:
+Inserting 77987
+Inserting 31435
+Inserting 79322
+Inserting 34163
+Query 52977 -> 52977:
+Inserting 73133
+Inserting 83144
+Inserting 5125
+Inserting 491
+Inserting 15411
+Inserting 10804
+Query 18665 -> 18665:
+Inserting 32824
+Inserting 54390
+Query 42949 -> 42949:
+Inserting 10788
+Query 89418 -> 89418:
+Inserting 94282
+Inserting 66514
+Inserting 99133
+Inserting 47549
+Inserting 82241
+Inserting 19839
+Inserting 10776
+Inserting 85268
+Inserting 15600
+Query 4819 -> 4819:
+Inserting 89505
+Query 84880 -> 84880:
+Inserting 40734
+Query 12812 -> 12812:
+Inserting 52379
+Query 24118 -> 24118:
+Inserting 28078
+Query 33175 -> 33175:
+Inserting 82558
+Query 45083 -> 45083:
+Inserting 82818
+Query 7814 -> 7814:
+Inserting 62252
+Query 3618 -> 3618:
+Inserting 46019
+Inserting 50860
+Query 2808 -> 2808:
+Query 97361 -> 97361:
+Query 13992 -> 13992:
+Inserting 1403
+Inserting 67333
+Inserting 10034
+Inserting 18176
+Inserting 38627
+Inserting 91243
+Inserting 13474
+Inserting 58271
+Inserting 99961
+Inserting 46347
+Inserting 55767
+Inserting 57751
+Query 68123 -> 68123:
+Inserting 18797
+Query 16910 -> 16910:
+Inserting 56119
+Query 32244 -> 32244:
+Inserting 57679
+Inserting 37038
+Inserting 18935
+Inserting 63772
+Inserting 87031
+Inserting 6313
+Inserting 68708
+Inserting 44529
+Inserting 61033
+Inserting 65730
+Inserting 60776
+Inserting 33059
+Inserting 71023
+Inserting 17535
+Inserting 26054
+Inserting 58532
+Inserting 17066
+Query 65140 -> 65140:
+Inserting 32316
+Inserting 55352
+Inserting 77462
+Inserting 7630
+Inserting 92209
+Inserting 42376
+Inserting 62358
+Query 39546 -> 39546:
+Inserting 40456
+Query 45584 -> 45584:
+Inserting 19053
+Inserting 74031
+Inserting 57318
+Query 84156 -> 84156:
+Inserting 97000
+Inserting 10355
+Inserting 6378
+Inserting 68352
+Query 11041 -> 11041:
+Inserting 76201
+Inserting 49026
+Query 49566 -> 49566:
+Inserting 91095
+Inserting 72434
+Inserting 1298
+Inserting 87946
+Query 78950 -> 78950:
+Inserting 11625
+Query 46575 -> 46575:
+Query 47496 -> 47496:
+Query 26411 -> 26411:
+Inserting 47182
+Inserting 77287
+Inserting 67586
+Inserting 24166
+Inserting 57309
+Inserting 44975
+Inserting 97332
+Query 70634 -> 70634:
+Inserting 81386
+Inserting 25283
+Inserting 48032
+Inserting 70903
+Inserting 15381
+Inserting 78512
+Inserting 31338
+Inserting 77993
+Inserting 29486
+Inserting 88654
+Query 59177 -> 59177:
+Inserting 17449
+Inserting 89536
+Inserting 73206
+Inserting 68097
+Inserting 23390
+Inserting 1450
+Inserting 50697
+Query 6039 -> 6039:
+Inserting 78290
+Query 7622 -> 7622:
+Inserting 62397
+Query 50880 -> 50880:
+Query 83471 -> 83471:
+Inserting 28771
+Inserting 88742
+Query 41060 -> 41060:
+Inserting 44560
+Query 44189 -> 44189:
+Query 5616 -> 5616:
+Inserting 49709
+Inserting 77180
+Inserting 4537
+Inserting 6710
+Query 77293 -> 77293:
+Query 87070 -> 87070:
+Inserting 92675
+Inserting 24118
+Inserting 49979
+Inserting 75501
+Inserting 43494
+Inserting 83740
+Inserting 94634
+Inserting 99403
+Inserting 92418
+Inserting 11172
+Inserting 25502
+Query 82591 -> 82591:
+Inserting 64518
+Inserting 56502
+Inserting 37612
+Inserting 5735
+Inserting 65030
+Inserting 34118
+Inserting 47110
+Query 79664 -> 79664:
+Inserting 38169
+Inserting 9623
+Inserting 20578
+Query 97441 -> 97441:
+Inserting 79257
+Query 67662 -> 67662:
+Inserting 19789
+Inserting 88888
+Inserting 75414
+Inserting 85744
+Query 56454 -> 56454:
+Inserting 21775
+Inserting 62433
+Inserting 10360
+Inserting 16887
+Inserting 92497
+Inserting 42686
+Query 22677 -> 22677:
+Inserting 80753
+Inserting 59268
+Inserting 24056
+Query 19387 -> 19387:
+Inserting 2191
+Inserting 38136
+Inserting 42480
+Inserting 60058
+Inserting 90156
+Inserting 12018
+Inserting 87779
+Query 43662 -> 43662:
+Inserting 23326
+Query 58244 -> 58244:
+Inserting 24775
+Inserting 19034
+Inserting 51254
+Inserting 68207
+Inserting 10206
+Query 8521 -> 8521:
+Inserting 71944
+Inserting 68242
+Inserting 11275
+Inserting 50679
+Inserting 51703
+Query 21508 -> 21508:
+Inserting 45240
+Inserting 97292
+Inserting 87223
+Inserting 92137
+Inserting 69308
+Inserting 32596
+Inserting 79950
+Inserting 79783
+Inserting 43386
+Inserting 26111
+Inserting 4333
+Inserting 78971
+Inserting 36282
+Query 78194 -> 78194:
+Inserting 40643
+Inserting 56709
+Inserting 1044
+Inserting 46825
+Inserting 51694
+Inserting 55320
+Inserting 85721
+Inserting 22516
+Inserting 11017
+Inserting 15147
+Inserting 60498
+Inserting 51267
+Inserting 51780
+Inserting 62897
+Inserting 24584
+Inserting 17746
+Query 79619 -> 79619:
+Inserting 30708
+Query 91330 -> 91330:
+Inserting 63376
+Inserting 19830
+Inserting 24584
+Inserting 7371
+Inserting 11822
+Inserting 3217
+Inserting 15247
+Inserting 89500
+Inserting 80372
+Query 79008 -> 79008:
+Inserting 68389
+Query 15573 -> 15573:
+Inserting 23526
+Query 90326 -> 90326:
+Inserting 69794
+Inserting 97234
+Inserting 38931
+Inserting 37421
+Inserting 89939
+Query 4477 -> 4477:
+Inserting 4219
+Inserting 2073
+Inserting 35947
+Inserting 32977
+Inserting 93070
+Inserting 76349
+Inserting 29235
+Inserting 67507
+Query 28071 -> 28071:
+Inserting 83028
+Inserting 10400
+Inserting 90786
+Inserting 49949
+Inserting 95784
+Inserting 35668
+Inserting 63735
+Inserting 75633
+Inserting 59777
+Inserting 98527
+Inserting 67801
+Query 14533 -> 14533:
+Inserting 74710
+Inserting 1083
+Inserting 17646
+Inserting 19601
+Query 47780 -> 47780:
+Inserting 1123
+Inserting 99648
+Query 2424 -> 2424:
+Inserting 48598
+Inserting 50067
+Inserting 64565
+Inserting 11528
+Inserting 62716
+Inserting 23456
+Inserting 41313
+Inserting 66766
+Query 52026 -> 52026:
+Inserting 22813
+Inserting 19363
+Inserting 72146
+Inserting 76539
+Inserting 77180
+Query 58592 -> 58592:
+Inserting 64444
+Query 79958 -> 79958:
+Query 6313 -> 6313:
+Inserting 36036
+Inserting 97057
+Inserting 62863
+Inserting 49380
+Query 82467 -> 82467:
+Inserting 33599
+Inserting 87167
+Inserting 69561
+Inserting 35456
+Inserting 97165
+Inserting 30802
+Inserting 34041
+Inserting 19495
+Query 68401 -> 68401:
+Query 93749 -> 93749:
+Inserting 89329
+Inserting 57961
+Inserting 99106
+Inserting 26363
+Inserting 9056
+Inserting 66326
+Inserting 46089
+Inserting 17256
+Inserting 80619
+Query 54789 -> 54789:
+Inserting 53647
+Inserting 40139
+Inserting 5247
+Inserting 58378
+Inserting 20237
+Inserting 87461
+Inserting 69936
+Inserting 55089
+Inserting 96906
+Inserting 60659
+Inserting 29946
+Inserting 2094
+Inserting 50999
+Inserting 42678
+Inserting 96231
+Inserting 81388
+Inserting 65530
+Inserting 13694
+Query 85733 -> 85733:
+Inserting 61691
+Inserting 3969
+Inserting 46004
+Inserting 63068
+Inserting 69208
+Inserting 88160
+Inserting 54590
+Inserting 11500
+Inserting 27097
+Query 16493 -> 16493:
+Inserting 32635
+Inserting 10874
+Query 46825 -> 46825:
+Inserting 16634
+Query 43662 -> 43662:
+Query 55321 -> 55321:
+Query 75756 -> 75756:
+Inserting 46411
+Inserting 19117
+Inserting 50591
+Inserting 81300
+Inserting 67223
+Inserting 52510
+Inserting 17711
+Inserting 83298
+Inserting 57440
+Inserting 47199
+Query 38724 -> 38724:
+Inserting 97343
+Inserting 35416
+Inserting 53218
+Inserting 85280
+Inserting 90502
+Inserting 53238
+Inserting 47487
+Inserting 24020
+Inserting 39830
+Inserting 35931
+Inserting 43292
+Inserting 42822
+Inserting 48875
+Inserting 21634
+Inserting 89171
+Inserting 72673
+Inserting 74702
+Inserting 657
+Query 64546 -> 64546:
+Inserting 91204
+Inserting 33205
+Inserting 79042
+Query 97361 -> 97361:
+Inserting 27931
+Inserting 20599
+Query 20434 -> 20434:
+Inserting 87204
+Inserting 9155
+Inserting 84156
+Inserting 7338
+Inserting 22858
+Inserting 29058
+Inserting 57451
+Inserting 3351
+Inserting 10019
+Query 25219 -> 25219:
+Inserting 72859
+Query 39173 -> 39173:
+Inserting 91019
+Query 41356 -> 41356:
+Inserting 98462
+Inserting 11325
+Inserting 78303
+Inserting 11123
+Inserting 67390
+Inserting 45132
+Inserting 4102
+Query 58804 -> 58804:
+Inserting 81429
+Inserting 78164
+Inserting 2542
+Inserting 87750
+Inserting 20594
+Inserting 58136
+Inserting 22737
+Inserting 11782
+Inserting 42575
+Inserting 44653
+Query 52097 -> 52097:
+Query 25725 -> 25725:
+Inserting 60325
+Inserting 78380
+Inserting 24781
+Query 69198 -> 69198:
+Query 54154 -> 54154:
+Query 57440 -> 57440:
+Query 85840 -> 85840:
+Inserting 15762
+Inserting 51808
+Inserting 61737
+Query 67408 -> 67408:
+Inserting 47043
+Inserting 93775
+Query 68352 -> 68352:
+Query 36868 -> 36868:
+Inserting 57109
+Inserting 53978
+Inserting 92111
+Query 28080 -> 28080:
+Query 3247 -> 3247:
+Inserting 40066
+Inserting 69090
+Inserting 94621
+Inserting 34052
+Inserting 48529
+Inserting 48925
+Inserting 14742
+Inserting 32452
+Inserting 20634
+Inserting 82709
+Inserting 85534
+Inserting 40148
+Inserting 39335
+Query 47280 -> 47280:
+Query 38785 -> 38785:
+Inserting 37572
+Inserting 36667
+Inserting 38540
+Inserting 20679
+Query 46822 -> 46822:
+Query 12005 -> 12005:
+Inserting 55027
+Query 65931 -> 65931:
+Inserting 59292
+Inserting 17028
+Query 30146 -> 30146:
+Inserting 96200
+Inserting 78479
+Inserting 64776
+Query 29235 -> 29235:
+Inserting 20776
+Inserting 90405
+Inserting 48330
+Inserting 2119
+Inserting 81144
+Inserting 36969
+Inserting 72123
+Query 4108 -> 4108:
+Query 68401 -> 68401:
+Inserting 6974
+Inserting 29792
+Inserting 55978
+Inserting 53571
+Inserting 12359
+Inserting 40083
+Inserting 94464
+Inserting 17232
+Inserting 91461
+Inserting 90482
+Query 52231 -> 52231:
+Inserting 53437
+Inserting 64584
+Inserting 5193
+Inserting 30648
+Inserting 31875
+Inserting 76601
+Inserting 30691
+Query 62184 -> 62184:
+Inserting 54703
+Inserting 35664
+Inserting 22700
+Inserting 21419
+Query 13474 -> 13474:
+Inserting 473
+Inserting 54253
+Inserting 74831
+Inserting 30137
+Inserting 92731
+Inserting 27144
+Inserting 38608
+Inserting 45406
+Inserting 91799
+Inserting 9586
+Inserting 59063
+Inserting 70189
+Inserting 10166
+Inserting 12960
+Inserting 68506
+Inserting 85266
+Inserting 86984
+Query 81417 -> 81417:
+Inserting 9330
+Query 11081 -> 11081:
+Inserting 82871
+Inserting 59780
+Inserting 42241
+Inserting 87644
+Inserting 8351
+Inserting 13410
+Inserting 67087
+Inserting 86252
+Inserting 97763
+Inserting 96253
+Inserting 55972
+Inserting 84538
+Query 99188 -> 99188:
+Inserting 96382
+Inserting 34892
+Query 10737 -> 10737:
+Query 51814 -> 51814:
+Query 63928 -> 63928:
+Inserting 76793
+Inserting 45013
+Inserting 50705
+Inserting 14865
+Inserting 57615
+Query 55863 -> 55863:
+Inserting 76337
+Inserting 40560
+Inserting 42614
+Query 82308 -> 82308:
+Inserting 4272
+Inserting 36036
+Inserting 78666
+Inserting 94768
+Inserting 26045
+Inserting 89000
+Inserting 57301
+Query 43737 -> 43737:
+Inserting 69869
+Query 89441 -> 89441:
+Inserting 16033
+Inserting 25893
+Inserting 41614
+Query 12744 -> 12744:
+Query 83471 -> 83471:
+Query 46532 -> 46532:
+Query 11505 -> 11505:
+Inserting 10549
+Inserting 77265
+Inserting 12690
+Query 30055 -> 30055:
+Inserting 92387
+Inserting 21845
+Inserting 25238
+Query 30236 -> 30236:
+Inserting 40611
+Inserting 31357
+Inserting 34216
+Inserting 10689
+Inserting 40099
+Inserting 49787
+Query 48311 -> 48311:
+Inserting 1600
+Inserting 32280
+Inserting 37432
+Inserting 30764
+Query 19783 -> 19783:
+Query 71826 -> 71826:
+Inserting 92041
+Inserting 95114
+Query 6142 -> 6142:
+Query 11317 -> 11317:
+Query 412 -> 412:
+Inserting 20959
+Inserting 62922
+Inserting 59582
+Inserting 40331
+Inserting 60080
+Inserting 57677
+Inserting 15963
+Inserting 62833
+Inserting 78820
+Inserting 90039
+Inserting 54261
+Inserting 13959
+Inserting 66044
+Query 49405 -> 49405:
+Inserting 48365
+Inserting 84779
+Inserting 43693
+Query 34367 -> 34367:
+Inserting 76174
+Inserting 90101
+Inserting 69789
+Inserting 61061
+Inserting 4542
+Inserting 66656
+Query 28791 -> 28791:
+Inserting 44434
+Inserting 61891
+Inserting 24543
+Inserting 89326
+Inserting 43492
+Inserting 66555
+Inserting 31088
+Inserting 95348
+Inserting 91625
+Inserting 52634
+Inserting 78693
+Query 52627 -> 52627:
+Inserting 33616
+Inserting 49192
+Inserting 4316
+Inserting 73542
+Inserting 48262
+Inserting 12413
+Query 92757 -> 92757:
+Inserting 22612
+Inserting 10916
+Query 72067 -> 72067:
+Query 33406 -> 33406:
+Inserting 94649
+Inserting 96694
+Inserting 69903
+Inserting 68165
+Inserting 62935
+Inserting 11902
+Inserting 67839
+Inserting 58387
+Query 62427 -> 62427:
+Inserting 63892
+Inserting 72543
+Inserting 16555
+Inserting 66110
+Inserting 26461
+Inserting 73201
+Inserting 50232
+Inserting 66368
+Inserting 62475
+Inserting 78745
+Query 8228 -> 8228:
+Inserting 35316
+Inserting 15853
+Inserting 12009
+Query 71915 -> 71915:
+Inserting 12382
+Query 60690 -> 60690:
+Query 64817 -> 64817:
+Inserting 47477
+Inserting 32611
+Inserting 40237
+Query 76117 -> 76117:
+Inserting 29815
+Inserting 62457
+Inserting 75322
+Inserting 77093
+Inserting 15339
+Query 12444 -> 12444:
+Query 85550 -> 85550:
+Inserting 98999
+Inserting 72171
+Inserting 79951
+Inserting 43242
+Inserting 75603
+Query 21945 -> 21945:
+Query 21945 -> 21945:
+Inserting 80228
+Inserting 97078
+Query 75382 -> 75382:
+Inserting 89631
+Inserting 13530
+Query 16555 -> 16555:
+Inserting 38585
+Inserting 8552
+Query 59499 -> 59499:
+Inserting 67075
+Inserting 39401
+Inserting 30858
+Inserting 30078
+Inserting 74423
+Inserting 36555
+Inserting 46593
+Inserting 63850
+Inserting 63895
+Inserting 94176
+Inserting 59166
+Inserting 35202
+Inserting 23159
+Inserting 3150
+Inserting 89735
+Inserting 52054
+Inserting 40972
+Query 74702 -> 74702:
+Inserting 28993
+Inserting 6979
+Inserting 61165
+Inserting 9366
+Inserting 99844
+Inserting 50941
+Inserting 44930
+Query 97031 -> 97031:
+Inserting 72121
+Inserting 91181
+Inserting 12596
+Query 21213 -> 21213:
+Inserting 10271
+Inserting 13409
+Inserting 21147
+Inserting 72289
+Inserting 83662
+Inserting 63891
+Inserting 48202
+Inserting 52870
+Inserting 88468
+Inserting 74322
+Inserting 57799
+Inserting 47379
+Inserting 51894
+Inserting 53235
+Inserting 65567
+Inserting 97627
+Inserting 98553
+Inserting 17997
+Inserting 36314
+Inserting 3506
+Inserting 75768
+Inserting 70698
+Inserting 97407
+Inserting 52365
+Inserting 41056
+Inserting 7025
+Inserting 67699
+Inserting 35382
+Inserting 58923
+Inserting 62495
+Inserting 6483
+Inserting 33681
+Query 29018 -> 29018:
+Query 27589 -> 27589:
+Inserting 85755
+Inserting 99858
+Inserting 21489
+Inserting 67754
+Inserting 84712
+Inserting 10861
+Inserting 84227
+Inserting 35143
+Query 53019 -> 53019:
+Inserting 52442
+Inserting 67094
+Inserting 12638
+Inserting 60061
+Inserting 17997
+Inserting 92563
+Inserting 88924
+Inserting 29565
+Query 23555 -> 23555:
+Inserting 74302
+Inserting 77839
+Inserting 69056
+Inserting 51083
+Inserting 90660
+Inserting 63355
+Inserting 62217
+Query 84880 -> 84880:
+Inserting 51458
+Inserting 50953
+Inserting 98045
+Inserting 80333
+Inserting 84004
+Query 80650 -> 80650:
+Inserting 30860
+Inserting 73830
+Inserting 51923
+Inserting 39661
+Inserting 70201
+Inserting 63091
+Inserting 88567
+Inserting 58812
+Inserting 44972
+Inserting 41792
+Inserting 49466
+Inserting 96775
+Inserting 23724
+Inserting 28632
+Query 47359 -> 47359:
+Query 45922 -> 45922:
+Inserting 95863
+Query 63742 -> 63742:
+Query 27992 -> 27992:
+Query 65867 -> 65867:
+Inserting 61775
+Inserting 57523
+Query 76667 -> 76667:
+Inserting 24261
+Inserting 15047
+Inserting 48336
+Inserting 79233
+Inserting 65173
+Inserting 49671
+Query 9949 -> 9949:
+Inserting 70577
+Inserting 14893
+Query 97465 -> 97465:
+Inserting 34095
+Inserting 27832
+Query 1133 -> 1133:
+Inserting 73712
+Inserting 5178
+Inserting 46956
+Inserting 11461
+Inserting 87917
+Query 23548 -> 23548:
+Inserting 83271
+Inserting 66911
+Inserting 35827
+Inserting 28389
+Inserting 95749
+Inserting 13715
+Query 29740 -> 29740:
+Inserting 87993
+Inserting 27148
+Inserting 15317
+Inserting 40137
+Inserting 94034
+Inserting 83446
+Inserting 53860
+Inserting 84774
+Inserting 14142
+Inserting 91624
+Inserting 48974
+Inserting 53811
+Inserting 23129
+Inserting 66633
+Query 55024 -> 55024:
+Query 40172 -> 40172:
+Inserting 35318
+Inserting 44365
+Inserting 24488
+Query 72053 -> 72053:
+Inserting 44809
+Inserting 23373
+Inserting 27211
+Inserting 7243
+Inserting 78129
+Query 84437 -> 84437:
+Inserting 24468
+Inserting 85648
+Query 75135 -> 75135:
+Inserting 52070
+Inserting 73085
+Inserting 78074
+Inserting 42949
+Inserting 26487
+Inserting 53394
+Inserting 79696
+Inserting 33822
+Inserting 82968
+Query 35065 -> 35065:
+Inserting 84877
+Inserting 57637
+Inserting 98327
+Query 60958 -> 60958:
+Inserting 50998
+Inserting 37474
+Inserting 43706
+Inserting 29315
+Inserting 19709
+Inserting 87206
+Inserting 95471
+Inserting 62674
+Inserting 12026
+Inserting 60201
+Inserting 95387
+Inserting 10445
+Query 88064 -> 88064:
+Inserting 12718
+Query 76452 -> 76452:
+Query 33472 -> 33472:
+Inserting 86767
+Inserting 79782
+Query 49942 -> 49942:
+Inserting 96341
+Inserting 74622
+Inserting 39763
+Inserting 77302
+Inserting 8160
+Inserting 906
+Query 44930 -> 44930:
+Inserting 21968
+Inserting 42843
+Inserting 62487
+Inserting 24666
+Inserting 8025
+Inserting 57817
+Query 54673 -> 54673:
+Inserting 25482
+Inserting 44238
+Inserting 21
+Inserting 85407
+Query 61775 -> 61775:
+Query 67039 -> 67039:
+Inserting 18474
+Inserting 61017
+Inserting 22521
+Inserting 44787
+Inserting 72100
+Inserting 94060
+Inserting 44607
+Inserting 80512
+Inserting 79613
+Inserting 25787
+Inserting 10720
+Inserting 78258
+Inserting 46842
+Inserting 3642
+Inserting 5435
+Inserting 24814
+Inserting 83631
+Inserting 84496
+Inserting 86606
+Inserting 78293
+Inserting 55777
+Inserting 63743
+Inserting 72467
+Inserting 41629
+Inserting 19963
+Inserting 70119
+Inserting 91595
+Inserting 15505
+Inserting 14663
+Inserting 8436
+Inserting 49875
+Query 33869 -> 33869:
+Inserting 77688
+Inserting 35437
+Inserting 12451
+Inserting 35442
+Inserting 98371
+Inserting 98898
+Inserting 64007
+Inserting 4516
+Query 18486 -> 18486:
+Inserting 22767
+Query 98053 -> 98053:
+Inserting 80190
+Inserting 77437
+Inserting 95050
+Inserting 81510
+Inserting 29047
+Inserting 7159
+Inserting 440
+Inserting 13843
+Inserting 51896
+Query 55513 -> 55513:
+Query 5405 -> 5405:
+Query 22767 -> 22767:
+Query 85534 -> 85534:
+Query 33530 -> 33530:
+Query 72826 -> 72826:
+Query 6720 -> DNE
+Query 13847 -> 13847:
+Query 26729 -> 26729:
+Query 29376 -> 29376:
+Query 64461 -> 64461:
+Query 54979 -> 54979:
+Query 59982 -> DNE
+Query 36279 -> 36279:
+Query 2142 -> 2142:
+Query 55112 -> DNE
+Query 24760 -> 24760:
+Query 11380 -> 11380:
+Query 95778 -> 95778:
+Query 53030 -> DNE
+Query 29329 -> 29329:
+Query 2623 -> 2623:
+Query 7025 -> 7025:
+Query 99728 -> 99728:
+Query 53751 -> 53751:
+Query 50067 -> 50067:
+Query 38511 -> 38511:
+Query 1332 -> DNE
+Query 98220 -> DNE
+Query 20747 -> DNE
+Query 54120 -> 54120:
+Query 75464 -> 75464:
+Query 36986 -> 36986:
+Query 54390 -> 54390:
+Query 74322 -> 74322:
+Query 97759 -> DNE
+Query 91076 -> 91076:
+Query 48509 -> 48509:
+Query 194 -> 194:
+Query 45474 -> 45474:
+Query 99961 -> 99961:
+Query 97126 -> DNE
+Query 29083 -> DNE
+Query 8591 -> 8591:
+Query 6462 -> DNE
+Query 81298 -> DNE
+Query 23178 -> DNE
+Query 58923 -> 58923:
+Query 53586 -> 53586:
+Query 99182 -> 99182:
+Query 91488 -> 91488:
+Query 53650 -> DNE
+Query 87136 -> 87136:
+Query 11545 -> DNE
+Query 35055 -> 35055:
+Query 57738 -> 57738:
+Query 2462 -> DNE
+Query 17790 -> DNE
+Query 50459 -> 50459:
+Query 72991 -> DNE
+Query 183 -> 183:
+Query 69071 -> 69071:
+Query 13696 -> DNE
+Query 86532 -> 86532:
+Query 88085 -> 88085:
+Query 76366 -> 76366:
+Query 13246 -> 13246:
+Query 28901 -> 28901:
+Query 74487 -> 74487:
+Query 94677 -> 94677:
+Query 51105 -> DNE
+Query 55799 -> 55799:
+Query 34280 -> DNE
+Query 45410 -> 45410:
+Query 25242 -> DNE
+Query 3861 -> 3861:
+Query 10776 -> 10776:
+Query 42357 -> 42357:
+Query 87784 -> DNE
+Query 24013 -> 24013:
+Query 14162 -> 14162:
+Query 60715 -> DNE
+Query 64122 -> DNE
+Query 48661 -> 48661:
+Query 85024 -> 85024:
+Query 41893 -> 41893:
+Query 37184 -> 37184:
+Query 39669 -> DNE
+Query 36961 -> 36961:
+Query 5112 -> 5112:
+Query 65824 -> 65824:
+Query 59692 -> 59692:
+Query 50506 -> 50506:
+Query 56037 -> DNE
+Query 23294 -> 23294:
+Query 96822 -> 96822:
+Query 23981 -> 23981:
+Query 41413 -> DNE
+Query 60017 -> 60017:
+Query 12045 -> DNE
+Query 75299 -> 75299:
+Query 55096 -> 55096:
+Query 77433 -> DNE
+Query 87886 -> 87886:
+Query 20424 -> 20424:
+Query 23331 -> DNE
+Query 34701 -> 34701:
+Query 61747 -> DNE
+Query 8093 -> 8093:
+Query 39688 -> 39688:
+Query 48848 -> DNE
+Query 88064 -> 88064:
+Query 3567 -> DNE
+Query 47868 -> 47868:
+Query 12386 -> 12386:
+Query 37401 -> 37401:
+Query 97307 -> 97307:
+Query 21338 -> 21338:
+Query 69421 -> 69421:
+Query 5785 -> 5785:
+Query 49893 -> 49893:
+Query 67304 -> 67304:
+Query 30691 -> 30691:
+Query 79422 -> 79422:
+Query 66125 -> 66125:
+Query 28762 -> DNE
+Query 22186 -> DNE
+Query 65852 -> 65852:
+Query 50978 -> DNE
+Query 53933 -> 53933:
+Query 6619 -> 6619:
+Query 89878 -> DNE
+Query 96341 -> 96341:
+Query 84782 -> 84782:
+Query 99820 -> 99820:
+Query 76010 -> 76010:
+Query 56119 -> 56119:
+Query 72362 -> 72362:
+Query 87943 -> 87943:
+Query 27522 -> DNE
+Query 10507 -> DNE
+Query 7025 -> 7025:
+Query 24288 -> 24288:
+Query 50705 -> 50705:
+Query 45093 -> 45093:
+Query 4023 -> DNE
+Query 60538 -> 60538:
+Query 33697 -> DNE
+Query 16483 -> 16483:
+Query 60506 -> 60506:
+Query 38441 -> 38441:
+Query 37797 -> 37797:
+Query 60627 -> 60627:
+Query 20145 -> DNE
+Query 11472 -> DNE
+Query 25403 -> DNE
+Query 55470 -> 55470:
+Query 25742 -> DNE
+Query 52888 -> 52888:
+Query 34067 -> 34067:
+Query 45238 -> 45238:
+Query 61654 -> 61654:
+Query 5125 -> 5125:
+Query 45122 -> 45122:
+Query 78750 -> 78750:
+Query 11060 -> 11060:
+Query 57849 -> 57849:
+Query 42439 -> DNE
+Query 84396 -> 84396:
+Query 13310 -> DNE
+Query 93098 -> 93098:
+Query 34221 -> 34221:
+Query 52510 -> 52510:
+Query 93163 -> 93163:
+Query 32432 -> 32432:
+Query 15071 -> 15071:
+Query 64582 -> 64582:
+Query 81972 -> 81972:
+Query 61108 -> DNE
+Query 37443 -> 37443:
+Query 86290 -> 86290:
+Query 87744 -> 87744:
+Query 64386 -> DNE
+Query 26220 -> DNE
+Query 81717 -> 81717:
+Query 32660 -> 32660:
+Query 36638 -> DNE
+Query 12781 -> 12781:
+Query 91181 -> 91181:
+Query 31489 -> 31489:
+Query 64590 -> 64590:
+Query 53136 -> DNE
+Query 22303 -> 22303:
+Query 93212 -> 93212:
+Query 94119 -> 94119:
+Query 54919 -> 54919:
+Query 43091 -> DNE
+Query 97079 -> 97079:
+Query 25712 -> 25712:
+Query 17480 -> 17480:
+Query 86290 -> 86290:
+Query 49708 -> 49708:
+Query 47573 -> 47573:
+Query 8638 -> DNE
+Query 89083 -> 89083:
+Query 61185 -> 61185:
+Query 21072 -> 21072:
+Query 49810 -> DNE
+Query 49659 -> 49659:
+Query 31110 -> 31110:
+Query 4851 -> 4851:
+Query 30736 -> 30736:
+Query 56832 -> 56832:
+Query 66110 -> 66110:
+Query 19839 -> 19839:
+Query 91624 -> 91624:
+Query 62928 -> 62928:
+Query 21399 -> DNE
+Query 43276 -> 43276:
+Query 74487 -> 74487:
+Query 77899 -> DNE
+Query 59963 -> 59963:
+Query 10105 -> 10105:
+Query 24071 -> 24071:
+Query 56661 -> DNE
+Query 12744 -> 12744:
+Query 56566 -> 56566:
+Query 86907 -> 86907:
+Query 52295 -> 52295:
+Query 25128 -> DNE
+Query 38536 -> 38536:
+Query 96683 -> 96683:
+Query 60230 -> 60230:
+Query 43171 -> 43171:
+Query 3248 -> 3248:
+Query 20712 -> DNE
+Query 62226 -> 62226:
+Query 7260 -> 7260:
+Query 19544 -> 19544:
+Query 26487 -> 26487:
+Query 77020 -> DNE
+Query 69198 -> 69198:
+Query 58234 -> 58234:
+Query 32944 -> 32944:
+Query 70261 -> 70261:
+Query 19456 -> 19456:
+Query 58018 -> DNE
+Query 19449 -> 19449:
+Query 46750 -> DNE
+Query 4580 -> DNE
+Query 69616 -> 69616:
+Query 25493 -> DNE
+Query 50916 -> DNE
+Query 78966 -> 78966:
+Query 52955 -> 52955:
+Query 58501 -> 58501:
+Query 47868 -> 47868:
+Query 43030 -> 43030:
+Query 2316 -> 2316:
+Query 73752 -> 73752:
+Query 27877 -> 27877:
+Query 28815 -> 28815:
+Query 93079 -> DNE
+Query 29139 -> 29139:
+Query 55377 -> 55377:
+Query 57345 -> DNE
+Query 728 -> 728:
+Query 51743 -> DNE
+Query 64097 -> 64097:
+Query 80421 -> 80421:
+Query 41452 -> DNE
+Query 12473 -> DNE
+Query 29651 -> 29651:
+Query 55840 -> DNE
+Query 7052 -> DNE
+Query 6464 -> 6464:
+Query 17157 -> 17157:
+Query 63806 -> 63806:
+Query 79322 -> 79322:
+Query 81493 -> 81493:
+Query 95456 -> 95456:
+Query 44320 -> 44320:
+Query 88990 -> 88990:
+Query 62208 -> 62208:
+Query 62585 -> DNE
+Query 92943 -> 92943:
+Query 16034 -> 16034:
+Query 60420 -> DNE
+Query 56110 -> DNE
+Query 73577 -> DNE
+Query 45956 -> 45956:
+Query 59232 -> 59232:
+Query 34956 -> 34956:
+Query 94949 -> 94949:
+Query 90328 -> DNE
+Query 98675 -> DNE
+Query 16859 -> 16859:
+Query 61982 -> 61982:
+Query 59587 -> DNE
+Query 32399 -> DNE
+Query 53390 -> 53390:
+Query 76314 -> DNE
+Query 56355 -> 56355:
+Query 59292 -> 59292:
+Query 75557 -> 75557:
+Query 5231 -> 5231:
+Query 28364 -> 28364:
+Query 66718 -> 66718:
+Query 30282 -> 30282:
+Query 55272 -> 55272:
+Query 71991 -> 71991:
+Query 91102 -> DNE
+Query 26690 -> DNE
+Query 6526 -> 6526:
+Query 15675 -> 15675:
+Query 26493 -> DNE
+Query 99310 -> DNE
+Query 53283 -> DNE
+Query 64073 -> DNE
+Query 82178 -> 82178:
+Query 38569 -> 38569:
+Query 78851 -> DNE
+Query 55095 -> 55095:
+Query 73814 -> 73814:
+Query 53238 -> 53238:
+Query 29018 -> 29018:
+Query 49769 -> 49769:
+Query 92513 -> 92513:
+Query 46554 -> 46554:
+Query 9444 -> 9444:
+Query 24651 -> DNE
+Query 94743 -> 94743:
+Query 32977 -> 32977:
+Query 87443 -> 87443:
+Query 72884 -> DNE
+Query 87336 -> DNE
+Query 23198 -> 23198:
+Query 29347 -> DNE
+Query 42850 -> DNE
+Query 88830 -> 88830:
+Query 34838 -> DNE
+Query 34475 -> DNE
+Query 69437 -> 69437:
+Query 5016 -> DNE
+Query 93541 -> 93541:
+Query 80566 -> DNE
+Query 71416 -> DNE
+Query 49394 -> 49394:
+Query 4883 -> 4883:
+Query 85272 -> 85272:
+Query 18088 -> DNE
+Query 75721 -> 75721:
+Query 95213 -> DNE
+Query 82664 -> 82664:
+Query 85416 -> 85416:
+Query 71915 -> 71915:
+Query 29018 -> 29018:
+Query 27809 -> 27809:
+Query 92757 -> 92757:
+Query 72704 -> 72704:
+Query 29350 -> 29350:
+Query 74998 -> 74998:
+Query 16058 -> DNE
+Query 53892 -> 53892:
+Query 54167 -> 54167:
+Query 5656 -> 5656:
+Query 64026 -> 64026:
+Query 18797 -> 18797:
+Query 46138 -> 46138:
+Query 30789 -> DNE
+Query 67513 -> 67513:
+Query 45815 -> 45815:
+Query 47880 -> 47880:
+Query 44238 -> 44238:
+Query 35065 -> 35065:
+Query 53285 -> DNE
+Query 30798 -> DNE
+Query 83384 -> 83384:
+Query 6897 -> 6897:
+Query 34648 -> 34648:
+Query 50414 -> 50414:
+Query 11649 -> 11649:
+Query 49426 -> 49426:
+Query 30959 -> 30959:
+Query 27771 -> 27771:
+Query 51410 -> DNE
+Query 16493 -> 16493:
+Query 78693 -> 78693:
+Query 41078 -> 41078:
+Query 36610 -> 36610:
+Query 6848 -> 6848:
+Query 87644 -> 87644:
+Query 82007 -> 82007:
+Query 3336 -> 3336:
+Query 32801 -> 32801:
+Query 99358 -> 99358:
+Query 70842 -> DNE
+Query 27550 -> DNE
+Query 44434 -> 44434:
+Query 50482 -> DNE
