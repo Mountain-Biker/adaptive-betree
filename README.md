@@ -23,7 +23,7 @@ Included with the project is a text file that will run 10,000 inserts and querie
 
 NOTE: `-c 50` will set the checkpoint granularity to 50, and `-p 200` will set the persistence granularity to 200.
 
-For the research of adpative Be-tree, we also add some new options in the command line instruction. You can find the detailed information and examples of how to set these paramaters via command line instruction in the file designed_test_result.md.
+For the research of adpative Be-tree, we also add some new options in the command line instruction. You can find the detailed information and examples of how to set these paramaters via command line instruction in the file `designed_test_result.md`.
 
 You can also add an optional -o flag to make sure the program has gone through all 10,400 operations and see the results of the various queries (e.g. `-o test_outputs.txt`).
 
